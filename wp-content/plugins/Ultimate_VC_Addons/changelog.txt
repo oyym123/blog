@@ -1,0 +1,66 @@
+3.16.9 - 07-Mar-2017
+- Fix: Token invalid error appearing for some users when activating the license. We apologize for the inconvenience.
+- Fix: Dual button icon images not aligned to center.
+- Fix: Dual button second button linking to the first buttons link.
+- Fix: Dual button first button background size option not working when "Design your own" option is selected.
+- Fix: Advanced Tabs causing Javascript errors on pages with anchors with # links.
+- Fix: Advanced button "rel" option not working.
+- Fix: Some users having issues with appear animations not triggering correctly when the row/element is in the viewport.
+
+3.16.8 - 20-Feb-2017
+- New: Added WPML Compatibility.
+- New: Option to pause on hover and center mode in Advanced carousel
+- New: Option to open selected tab by providing tab index number.
+- New: Option for title alignment in expandable section element.
+- New: Added margin/padding options for highlight box.
+- New: Option to select Zoom control position in Google maps element.
+- New: Added Typography option for Countdown.
+- New: All new license activation method to activate license key with just one click.
+- Improvement: Added aria labels for Next/Prev buttons in Advanced Carousel.
+- Improvement: RTL Support for All the elements.
+- Improvement: Rel and Title tag for all the links in all elements.
+- Improvement: Maps - Added option to enable/disable dragging effect on the desktop.
+- Improvement: Info Box - Added option to select heading tags for the title.
+- Improvement: Modal Box - Added support for hosted videos in the modal box, Add any video with WordPress media selector and Select "Hosted video" in option What is this video about.
+- Improvement: Optimized images in the plugins package.
+- Fixed: Ultimate Addons menu not being registered in some multisite environments.
+- Fixed: JavaScript files not being loaded on pages even if shortcode was present on a page.
+- Fixed: Animation effects in advanced carousel not working.
+- Fixed: Interactive banner 2 - Multiple interactive banners opening links in new tab, each link did not open a new tab, rather loaded the page in the same new tab.
+- Fixed: Info list - List alignment set to right breaks the content alignment to enter.
+- Fixed: Disable Parallax on mobile option not working.
+- Fixed: Insufficient memory error when activating the plugin from WP-CLI.
+- Fixed: Flipbox center aligned not working on mobile devices.
+
+3.16.7 - 04-Aug-2016
+- Fixed: Appear animation conflict causing pages to creash in salient theme.
+- Fixed: Flip boxes not working when added inside advanced carousel on mobile phones.
+- Fixed: Info list causing descriptions not aligned in the center of adjacent icons.
+- Fixed: Appear animation breaking for some users.
+- Updaed slick js to latest version which fixes compatibility issues in Ultimate Carousel.
+- Lots of minor bug fixes and browser compatibility fixes.
+
+3.16.6
+- Fixed: Font Icons - SSL issue for $_SERVER[HTTPS] failing 
+- Fixed: Icon Manager - Font zip are not showing after being uploaded
+- Fixed: Icon Manager - Filetype x-zip allowed to upload
+- Fixed: Advacned Button - Animation issue while background image applied
+- Fixed: Video backgrounds - Safari browser alignment issue
+- Improvement: Google Maps - Changed Google Map policy support to new domains with API key required - http://bsf.io/google-map-api-key
+
+3.16.5
+- Fixed: PHP 5.2 fatal error for transient fallback
+
+3.16.4
+- Fixed: Video Backgrounds - VC stretch row and full height conflict
+- Fixed: Hosted Video background - JS console error
+- Fixed: IB 2 - Style 11 iOS issue
+- Fixed: Image param - content pass as array instead string
+- Fixed: Hotspot - Misalignment
+- Fixed: Row Backgrounds - Image separator conflict with full height option
+- Fixed: Admin - Redux CSS conflicts with UAVC
+- Fixed: Timeline - Backend structure break due image alignment
+- Fixed: Multiple video backgrounds - Poster images not showing on mobile devices
+- Improvement - Advanced Tabs - Responsive accordion scroll to container on open tab option - http://bsf.io/lmde8
+- Improvement -  Advanced Button - Inline alignment option added to display buttons inline - http://bsf.io/bvkn4
+- BSF Core v1.17 - With fallback to W3 Total Cache's deleting transients on every page reload

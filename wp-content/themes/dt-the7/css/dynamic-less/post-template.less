@@ -1,0 +1,238 @@
+
+/* #Blog, Portfolio, Albums
+================================================== */
+	.pace .pace-activity {
+		.transparent-accent-bg-mixin(90%);
+	}
+
+		/* #post format
+		================================================== */
+		.format-link-content,
+		.format-aside-content,
+		.format-status-content {
+			.solid-bg-mixin;
+		}
+		.format-link-content {
+			.outline-decoration;
+			.shadow-decoration;
+		}
+
+
+	/* #Background under projects
+	================================================== */
+	.post.bg-on,
+	// .bg-on.team-container,
+	.post.bg-on.fullwidth-img.format-quote,
+	.post.bg-on.fullwidth-img.format-link {
+		.solid-bg-mixin;
+		.outline-decoration;
+		.shadow-decoration;
+	}
+
+
+/* #Template: List
+================================================== */
+.layout-list .post{
+	border-top: 1px solid;
+	.transparent-border-mixin;
+}
+
+//shortcode blog list
+.dividers-on.classic-layout-list .post {
+	border-bottom: 1px solid;
+	.transparent-border-mixin;
+}
+//Defaults
+article {
+	.content-bg-on.centered-layout-list &,
+	.content-bg-on.classic-layout-list & {
+		.solid-bg-mixin;
+		.outline-decoration;
+		.shadow-decoration;
+	}
+}
+.post-entry-content {
+	.centered-layout-list.dividers-on & {
+		&:after {
+			.transparent-bg-mixin(@opacity: 15%)
+		}
+	}
+	.content-bg-on:not(.classic-layout-list):not(.centered-layout-list) & {
+		.solid-bg-mixin;
+	}
+	.content-bg-on:not(.classic-layout-list):not(.centered-layout-list):not(.gradient-overlap-layout-list):not(.gradient-overlay-layout-list):not(.content-rollover-layout-list) & {
+		.outline-decoration;
+		.shadow-decoration;
+	}
+}
+.post-entry-content:before {
+	.content-bg-on.content-rollover-layout-list & {
+		.custom-rollover-gradient (@startColor: @content-boxes-bg);
+		.stripe-style-1 & {
+			.custom-rollover-gradient (@startColor: @strype-1-boxes-bg);
+		}
+		.stripe-style-2 & {
+			.custom-rollover-gradient (@startColor: @strype-2-boxes-bg);
+		}
+		.stripe-style-3 &{
+			.custom-rollover-gradient (@startColor: @strype-3-boxes-bg);
+		}
+		.stripe-style-4 & {
+			.custom-rollover-gradient (@startColor: rgba(255, 255, 255, 0.15));
+		}
+		.stripe-style-5 &{
+			.custom-rollover-gradient (@startColor: rgba(0, 0, 0, 0.08));
+		}
+	}
+}
+//Gradient overlap blog layout defaults
+.post-entry-content {
+	.content-bg-on.gradient-overlap-layout-list & {
+		#page & {
+			background: linear-gradient(to bottom,  @content-boxes-bg,  @content-boxes-bg) no-repeat 0px 150px;
+		}
+		#page .stripe-style-1 & {
+			background: linear-gradient(to bottom,  @strype-1-boxes-bg,  @strype-1-boxes-bg) no-repeat 0px 150px;
+		}
+		#page .stripe-style-2 & {
+			background: linear-gradient(to bottom,  @strype-2-boxes-bg,  @strype-2-boxes-bg) no-repeat 0px 150px;
+		}
+		#page .stripe-style-3 &{
+			background: linear-gradient(to bottom,  @strype-3-boxes-bg, @strype-3-boxes-bg) no-repeat 0px 150px;
+		}
+		#page .stripe-style-4 & {
+			background: linear-gradient(to bottom,  rgba(255, 255, 255, 0.15),  rgba(255, 255, 255, 0.15)) no-repeat 0px 150px;
+		}
+		#page .stripe-style-5 &{
+			background: linear-gradient(to bottom,  rgba(0, 0, 0, 0.08),  rgba(0, 0, 0, 0.08)) no-repeat 0px 150px;
+		}
+	
+		
+		&:before {
+			.custom-background-gradient (@startColor: @content-boxes-bg, @opacity: 100%);
+
+			.stripe-style-1 & {
+				.custom-background-gradient (@startColor: @strype-1-boxes-bg, @opacity: 100%);
+			}
+			.stripe-style-2 & {
+				.custom-background-gradient (@startColor: @strype-2-boxes-bg, @opacity: 100%);
+			}
+			.stripe-style-3 &{
+				.custom-background-gradient (@startColor: @strype-3-boxes-bg, @opacity: 100%);
+			}
+			.stripe-style-4 & {
+				.custom-background-gradient (@startColor: rgba(255, 255, 255, 0.15), @opacity: 100%);
+			}
+			.stripe-style-5 &{
+				.custom-background-gradient (@startColor: rgba(0, 0, 0, 0.08), @opacity: 100%);
+			}
+		}
+
+	}
+}
+//Gradient overlay blog layout defaults
+.post-entry-content {
+	#page .content-bg-on.gradient-overlay-layout-list & {
+		.solid-bg-mixin;
+
+	}
+}
+//Title
+.entry-title {
+
+	.blog-shortcode &,
+	.portfolio-shortcode &,
+	.owl-carousel & {
+		font: @h3-font-style @h3-font-variant @h3-font-weight @h3-font-size~"/"@h3-line-height @h3-font-family;
+		.mode-masonry&,
+		.mode-grid&,
+		.blog-carousel-shortcode& {
+			font: @h4-font-style @h4-font-variant @h4-font-weight @h4-font-size~"/"@h4-line-height @h4-font-family;
+		}
+		& a {
+			.header-color;
+			&:hover {
+				.color-accent;
+			}
+		}
+	}
+}
+.entry-meta {
+	.blog-shortcode &,
+	.portfolio-shortcode &,
+	.owl-carousel & {
+		.text-small;
+		.color-base-transparent;
+	}
+}
+.entry-excerpt {
+	.blog-shortcode &,
+	.portfolio-shortcode &,
+	.owl-carousel & {
+		.text-normal;
+	}
+}
+.post-details {
+	&.details-type-link {
+		font-size: @text-small;
+		line-height: @text-small + 4;
+		.header-color;
+		& * {
+			.header-color;
+		}
+		&:after {
+			background-color: @accent-bg-color;
+			.accent-gradient & {
+				.background-gradient (@startColor: @accent-bg-color, @endColor: @accent-bg-color-2);
+			}
+		}
+	}
+}
+.details {
+	font-size: @text-small;
+	line-height: @text-small + 4;
+	color: @h1-color;
+	&:hover {
+		color: @h1-color;
+	}
+	&:before {
+		background-color: @accent-bg-color;
+		.accent-gradient & {
+			.background-gradient (@startColor: @accent-bg-color, @endColor: @accent-bg-color-2);
+		}
+	}
+}
+/* # projects title
+================================================== */
+.layout-masonry .post h2.entry-title,
+.layout-grid .post h2.entry-title,
+.shortcode-blog-posts .post h2.entry-title,
+.dt-blog-shortcode .post h2.entry-title,
+.slider-wrapper .post h2.entry-title,
+.rollover-content h2.entry-title {
+	color: @h4-color;
+	font: @h4-font-style @h4-font-variant @h4-font-weight @h4-font-size~"/"@h4-line-height @h4-font-family;
+	text-transform: @h4-text-transform;
+}
+.post h2.entry-title,
+.post h2.entry-title {
+	.header-color;
+}
+.description-under-image .post .entry-title a:hover,
+.post .blog-content .entry-title a:hover,
+.project-list-content .entry-title a:hover {
+	.color-accent;
+}
+/* #Blog
+================================================== */
+
+//Fancy date
+.entry-month,
+.entry-date {
+	.fancy-date & {
+		&:after {
+			.accent-bg-mixin;
+		}
+	}
+	
+}

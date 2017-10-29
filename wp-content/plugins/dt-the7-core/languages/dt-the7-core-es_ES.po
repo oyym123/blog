@@ -1,0 +1,2915 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: The7 3.3.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-09-23 11:10+0300\n"
+"PO-Revision-Date: 2016-09-23 11:10+0300\n"
+"Last-Translator: \n"
+"Language-Team: Spanish (Spain)\n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"X-Loco-Target-Locale: es_ES\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/class-the7pt-admin.php:36
+#, fuzzy
+msgctxt "backend"
+msgid "Post Types"
+msgstr "Opciones de entradas:"
+
+#: includes/class-the7pt-admin.php:77
+#, fuzzy
+msgid "Settings"
+msgstr "Configuración de la barra lateral"
+
+#: includes/theme-options/modules.php:13
+msgctxt "theme-options"
+msgid "Advanced"
+msgstr "Avanzado"
+
+#: includes/theme-options/modules.php:15
+#, fuzzy
+msgctxt "theme-options"
+msgid "Post types"
+msgstr "Tipo de cotización"
+
+#: includes/theme-options/modules.php:19
+#: mods/portfolio/admin/options/options-portfolio.php:19
+msgctxt "theme-options"
+msgid "Portfolio"
+msgstr "Portafolio"
+
+#: includes/theme-options/modules.php:23 includes/theme-options/modules.php:34
+#: includes/theme-options/modules.php:45 includes/theme-options/modules.php:56
+#: includes/theme-options/modules.php:67 includes/theme-options/modules.php:78
+#: includes/theme-options/modules.php:89
+#: mods/portfolio/admin/options/options-portfolio.php:35
+#: mods/portfolio/admin/options/options-portfolio.php:62
+#: mods/portfolio/admin/options/options-portfolio.php:102
+#: mods/portfolio/admin/options/options-portfolio.php:171
+#: mods/albums/admin/options/options-albums.php:35
+#: mods/albums/admin/options/options-albums.php:62
+#: mods/albums/admin/options/options-albums.php:102
+msgctxt "theme-options"
+msgid "Enabled"
+msgstr "Activado"
+
+#: includes/theme-options/modules.php:24 includes/theme-options/modules.php:35
+#: includes/theme-options/modules.php:46 includes/theme-options/modules.php:57
+#: includes/theme-options/modules.php:68 includes/theme-options/modules.php:79
+#: includes/theme-options/modules.php:90
+#: mods/portfolio/admin/options/options-portfolio.php:39
+#: mods/portfolio/admin/options/options-portfolio.php:66
+#: mods/portfolio/admin/options/options-portfolio.php:106
+#: mods/portfolio/admin/options/options-portfolio.php:175
+#: mods/albums/admin/options/options-albums.php:39
+#: mods/albums/admin/options/options-albums.php:66
+#: mods/albums/admin/options/options-albums.php:106
+msgctxt "theme-options"
+msgid "Disabled"
+msgstr "Desactivado"
+
+#: includes/theme-options/modules.php:30
+msgctxt "theme-options"
+msgid "Testimonials"
+msgstr "Testimonios"
+
+#: includes/theme-options/modules.php:41
+msgctxt "theme-options"
+msgid "Team"
+msgstr "Equipo"
+
+#: includes/theme-options/modules.php:52
+msgctxt "theme-options"
+msgid "Partners, Clients, etc."
+msgstr "Patrocinadores, Clientes, etc."
+
+#: includes/theme-options/modules.php:63
+msgctxt "theme-options"
+msgid "Benefits"
+msgstr "Beneficios"
+
+#: includes/theme-options/modules.php:74
+msgctxt "theme-options"
+msgid "Photo Albums"
+msgstr "Álbumes de fotos"
+
+#: includes/theme-options/modules.php:85
+msgctxt "theme-options"
+msgid "Slideshows"
+msgstr "Slideshows"
+
+#: mods/slideshow/public/mod-slideshow-helpers.php:87
+#, fuzzy
+msgid "video"
+msgstr "1 vídeo"
+
+#: mods/slideshow/public/mod-slideshow-helpers.php:95
+msgid "details"
+msgstr "detalles"
+
+#: mods/slideshow/public/shortcodes/mod-slideshow-shortcodes-bridge.php:15
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:438
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:451
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:470
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:478
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:266
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:269
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:296
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:304
+#, fuzzy
+msgid "Slideshow"
+msgstr "Presentación de diapositivas"
+
+#: mods/slideshow/public/shortcodes/mod-slideshow-shortcodes-bridge.php:16
+#: mods/logos/public/shortcodes/mod-logos-shortcodes-bridge.php:16
+#: mods/team/public/shortcodes/mod-team-shortcodes-bridge.php:15
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:331
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:496
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:712
+#: mods/testimonials/public/shortcodes/mod-testimonials-shortcodes-bridge.php:16
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:721
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:769
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:793
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:826
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:850
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:886
+#: mods/benefits/public/shortcodes/mod-benefits-shortcodes-bridge.php:16
+msgid "by Dream-Theme"
+msgstr "Dar créditos a Dream-Tema"
+
+#: mods/slideshow/public/shortcodes/mod-slideshow-shortcodes-bridge.php:21
+msgid "Display slideshow(s)"
+msgstr "Pantalla de diapositiva(s)"
+
+#: mods/slideshow/public/shortcodes/mod-slideshow-shortcodes-bridge.php:22
+msgid ""
+"Attention: Do not ignore this setting! Otherwise only one (newest) slideshow "
+"will be displayed."
+msgstr ""
+"Atención: No ignore este ajuste! De lo contrario, sólo se mostrará uno (el "
+"más reciente) de diapositivas."
+
+#: mods/slideshow/public/shortcodes/mod-slideshow-shortcodes-bridge.php:29
+msgid "Proportions: width"
+msgstr "Proporciones de las imágenes:"
+
+#: mods/slideshow/public/shortcodes/mod-slideshow-shortcodes-bridge.php:35
+msgid "Proportions: height"
+msgstr "Proporciones: altura"
+
+#: mods/slideshow/public/shortcodes/mod-slideshow-shortcodes-bridge.php:41
+msgid "Image Scale Mode"
+msgstr ""
+
+#: mods/slideshow/public/shortcodes/mod-slideshow-shortcodes-bridge.php:50
+msgid "On page load slideshow is"
+msgstr "Al cargar la página el slideshow es"
+
+#: mods/slideshow/public/shortcodes/mod-slideshow-shortcodes-bridge.php:59
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:471
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:291
+msgid "Autoslide interval (in milliseconds)"
+msgstr "Autoslide intervalo (en milisegundos)"
+
+#: mods/slideshow/public/shortcodes/slideshow/slideshow.php:95
+msgid "No posts selected"
+msgstr "No hay mensajes seleccionados"
+
+#: mods/slideshow/admin/class-mod-slideshow-admin.php:15
+#: mods/slideshow/admin/class-mod-slideshow-admin.php:26
+msgctxt "backend albums"
+msgid "Slideshows"
+msgstr "Slideshows"
+
+#: mods/slideshow/admin/class-mod-slideshow-admin.php:16
+msgctxt "backend albums"
+msgid "Slider"
+msgstr "Slider"
+
+#: mods/slideshow/admin/class-mod-slideshow-admin.php:17
+msgctxt "backend albums"
+msgid "Add New"
+msgstr "Añadir nuevo"
+
+#: mods/slideshow/admin/class-mod-slideshow-admin.php:18
+msgctxt "backend albums"
+msgid "Add New Slider"
+msgstr "Añadir nuevo Slider"
+
+#: mods/slideshow/admin/class-mod-slideshow-admin.php:19
+msgctxt "backend albums"
+msgid "Edit Slider"
+msgstr "Editar Slider"
+
+#: mods/slideshow/admin/class-mod-slideshow-admin.php:20
+msgctxt "backend albums"
+msgid "New Slider"
+msgstr "Nuevo Slider"
+
+#: mods/slideshow/admin/class-mod-slideshow-admin.php:21
+msgctxt "backend albums"
+msgid "View Slider"
+msgstr "Ver slider"
+
+#: mods/slideshow/admin/class-mod-slideshow-admin.php:22
+msgctxt "backend albums"
+msgid "Search for Slideshow"
+msgstr "Buscar Slideshow"
+
+#: mods/slideshow/admin/class-mod-slideshow-admin.php:23
+msgctxt "backend albums"
+msgid "No Slideshow Found"
+msgstr "No existen Slideshows"
+
+#: mods/slideshow/admin/class-mod-slideshow-admin.php:24
+msgctxt "backend albums"
+msgid "No Slideshow Found in Trash"
+msgstr "No existen Slideshows en la papelera"
+
+#: mods/slideshow/admin/metaboxes/metaboxes-slideshow.php:19
+msgctxt "backend metabox"
+msgid "Add/Edit Slides"
+msgstr "Agregar/Editar diapositivas"
+
+#: mods/logos/public/shortcodes/mod-logos-shortcodes-bridge.php:12
+msgid "Clients"
+msgstr "Clientes"
+
+#: mods/logos/public/shortcodes/mod-logos-shortcodes-bridge.php:23
+#: mods/team/public/shortcodes/mod-team-shortcodes-bridge.php:19
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:164
+#: mods/testimonials/public/shortcodes/mod-testimonials-shortcodes-bridge.php:24
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:90
+#: mods/benefits/public/shortcodes/mod-benefits-shortcodes-bridge.php:24
+msgid "Categories"
+msgstr "Categorías"
+
+#: mods/logos/public/shortcodes/mod-logos-shortcodes-bridge.php:25
+msgid ""
+"Note: By default, all your logotypes will be displayed. <br>If you want to "
+"narrow output, select category(s) above. Only selected categories will be "
+"displayed."
+msgstr ""
+"Nota: Por defecto, se mostrarán todos sus mensajes. <br> Si desea acotar la "
+"salida, seleccione la categoría (s) anterior. Sólo se mostrarán las "
+"categorías seleccionadas."
+
+#: mods/logos/public/shortcodes/mod-logos-shortcodes-bridge.php:31
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:618
+#: mods/testimonials/public/shortcodes/mod-testimonials-shortcodes-bridge.php:64
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:651
+#: mods/benefits/public/shortcodes/mod-benefits-shortcodes-bridge.php:33
+msgid "Column minimum width (px)"
+msgstr "Ancho max de la imagen (píxeles):"
+
+#: mods/logos/public/shortcodes/mod-logos-shortcodes-bridge.php:40
+#: mods/team/public/shortcodes/mod-team-shortcodes-bridge.php:162
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:632
+#: mods/testimonials/public/shortcodes/mod-testimonials-shortcodes-bridge.php:79
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:665
+#: mods/benefits/public/shortcodes/mod-benefits-shortcodes-bridge.php:42
+msgid "Desired columns number"
+msgstr "Número de columnas deseadas"
+
+#: mods/logos/public/shortcodes/mod-logos-shortcodes-bridge.php:48
+msgid "Number of logotypes to show"
+msgstr "Número de proyectos para mostrar"
+
+#: mods/logos/public/shortcodes/mod-logos-shortcodes-bridge.php:56
+#: mods/team/public/shortcodes/mod-team-shortcodes-bridge.php:40
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:135
+#: mods/testimonials/public/shortcodes/mod-testimonials-shortcodes-bridge.php:146
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:60
+#: mods/benefits/public/shortcodes/mod-benefits-shortcodes-bridge.php:297
+msgid "Order by"
+msgstr "Ordenar por"
+
+#: mods/logos/public/shortcodes/mod-logos-shortcodes-bridge.php:67
+#: mods/team/public/shortcodes/mod-team-shortcodes-bridge.php:52
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:136
+#: mods/testimonials/public/shortcodes/mod-testimonials-shortcodes-bridge.php:157
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:61
+#: mods/benefits/public/shortcodes/mod-benefits-shortcodes-bridge.php:308
+msgid "Select how to sort retrieved posts."
+msgstr "Seleccione la forma de ordenar las entradas recuperadas."
+
+#: mods/logos/public/shortcodes/mod-logos-shortcodes-bridge.php:72
+#: mods/team/public/shortcodes/mod-team-shortcodes-bridge.php:56
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:152
+#: mods/testimonials/public/shortcodes/mod-testimonials-shortcodes-bridge.php:164
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:76
+#: mods/benefits/public/shortcodes/mod-benefits-shortcodes-bridge.php:314
+msgid "Order way"
+msgstr "Ordenar por"
+
+#: mods/logos/public/shortcodes/mod-logos-shortcodes-bridge.php:78
+#: mods/team/public/shortcodes/mod-team-shortcodes-bridge.php:63
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:153
+#: mods/testimonials/public/shortcodes/mod-testimonials-shortcodes-bridge.php:170
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:77
+#: mods/benefits/public/shortcodes/mod-benefits-shortcodes-bridge.php:320
+msgid "Designates the ascending or descending order."
+msgstr "Designa el orden ascendente o descendente."
+
+#: mods/logos/public/shortcodes/mod-logos-shortcodes-bridge.php:83
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:222
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:338
+#: mods/benefits/public/shortcodes/mod-benefits-shortcodes-bridge.php:326
+msgid "Animation"
+msgstr "Animación"
+
+#: mods/logos/public/shortcodes/mod-logos-shortcodes-bridge.php:92
+#: mods/benefits/public/shortcodes/mod-benefits-shortcodes-bridge.php:336
+msgid "Animate"
+msgstr "Animación"
+
+#: mods/logos/public/widgets/logos.php:28
+#: mods/logos/public/widgets/logos.php:33
+msgctxt "widget"
+msgid "Partners & clients"
+msgstr "Socios y clientes"
+
+#: mods/logos/public/widgets/logos.php:132
+#: mods/team/public/widgets/team.php:149
+#: mods/portfolio/public/widgets/portfolio.php:173
+#: mods/testimonials/public/widgets/testimonials-list.php:127
+#: mods/testimonials/public/widgets/testimonials-slider.php:131
+#: mods/albums/public/widgets/photos.php:190
+msgctxt "widget"
+msgid "Order by ID"
+msgstr "ID del Pedido:"
+
+#: mods/logos/public/widgets/logos.php:133
+#: mods/team/public/widgets/team.php:150
+#: mods/portfolio/public/widgets/portfolio.php:174
+#: mods/testimonials/public/widgets/testimonials-list.php:128
+#: mods/testimonials/public/widgets/testimonials-slider.php:132
+#: mods/albums/public/widgets/photos.php:191
+msgctxt "widget"
+msgid "Order by author"
+msgstr "Ordenar por autor"
+
+#: mods/logos/public/widgets/logos.php:134
+#: mods/team/public/widgets/team.php:151
+#: mods/portfolio/public/widgets/portfolio.php:175
+#: mods/testimonials/public/widgets/testimonials-list.php:129
+#: mods/testimonials/public/widgets/testimonials-slider.php:133
+#: mods/albums/public/widgets/photos.php:192
+msgctxt "widget"
+msgid "Order by title"
+msgstr "Ordenar por título"
+
+#: mods/logos/public/widgets/logos.php:135
+#: mods/team/public/widgets/team.php:152
+#: mods/portfolio/public/widgets/portfolio.php:176
+#: mods/testimonials/public/widgets/testimonials-list.php:130
+#: mods/testimonials/public/widgets/testimonials-slider.php:134
+#: mods/albums/public/widgets/photos.php:193
+msgctxt "widget"
+msgid "Order by date"
+msgstr "Ordenar por fecha"
+
+#: mods/logos/public/widgets/logos.php:136
+#: mods/team/public/widgets/team.php:153
+#: mods/portfolio/public/widgets/portfolio.php:177
+#: mods/testimonials/public/widgets/testimonials-list.php:131
+#: mods/testimonials/public/widgets/testimonials-slider.php:135
+#: mods/albums/public/widgets/photos.php:194
+msgctxt "widget"
+msgid "Order by modified"
+msgstr "Ordenar por modificado"
+
+#: mods/logos/public/widgets/logos.php:137
+#: mods/team/public/widgets/team.php:154
+#: mods/portfolio/public/widgets/portfolio.php:178
+#: mods/testimonials/public/widgets/testimonials-list.php:132
+#: mods/testimonials/public/widgets/testimonials-slider.php:136
+#: mods/albums/public/widgets/photos.php:195
+msgctxt "widget"
+msgid "Order by rand"
+msgstr "Aleatorio"
+
+#: mods/logos/public/widgets/logos.php:138
+#: mods/team/public/widgets/team.php:155
+#: mods/portfolio/public/widgets/portfolio.php:179
+#: mods/testimonials/public/widgets/testimonials-list.php:133
+#: mods/testimonials/public/widgets/testimonials-slider.php:137
+#: mods/albums/public/widgets/photos.php:196
+msgctxt "widget"
+msgid "Order by menu"
+msgstr "Ordenar por menú"
+
+#: mods/logos/public/widgets/logos.php:143
+msgctxt "widget"
+msgid "Title (optional):"
+msgstr "Título (opcional):"
+
+#: mods/logos/public/widgets/logos.php:148
+#: mods/team/public/widgets/team.php:165
+#: mods/portfolio/public/widgets/portfolio.php:189
+#: mods/testimonials/public/widgets/testimonials-list.php:143
+#: mods/testimonials/public/widgets/testimonials-slider.php:147
+msgctxt "widget"
+msgid "Category:"
+msgstr "Categoría:"
+
+#: mods/logos/public/widgets/logos.php:153
+#: mods/team/public/widgets/team.php:170
+#: mods/portfolio/public/widgets/portfolio.php:194
+#: mods/testimonials/public/widgets/testimonials-list.php:148
+#: mods/testimonials/public/widgets/testimonials-slider.php:152
+#: mods/albums/public/widgets/photos.php:211
+msgctxt "widget"
+msgid "All"
+msgstr "Todos"
+
+#: mods/logos/public/widgets/logos.php:154
+#: mods/team/public/widgets/team.php:171
+#: mods/portfolio/public/widgets/portfolio.php:195
+#: mods/testimonials/public/widgets/testimonials-list.php:149
+#: mods/testimonials/public/widgets/testimonials-slider.php:153
+#: mods/albums/public/widgets/photos.php:212
+msgctxt "widget"
+msgid "Only"
+msgstr "Solamente"
+
+#: mods/logos/public/widgets/logos.php:155
+#: mods/team/public/widgets/team.php:172
+#: mods/portfolio/public/widgets/portfolio.php:196
+#: mods/testimonials/public/widgets/testimonials-list.php:150
+#: mods/testimonials/public/widgets/testimonials-slider.php:154
+#: mods/albums/public/widgets/photos.php:213
+msgctxt "widget"
+msgid "Except"
+msgstr "Excepto"
+
+#: mods/logos/public/widgets/logos.php:175
+msgctxt "widget"
+msgid "Number of logos:"
+msgstr "Número de logos:"
+
+#: mods/logos/public/widgets/logos.php:180
+#: mods/team/public/widgets/team.php:202
+#: mods/portfolio/public/widgets/portfolio.php:226
+#: mods/testimonials/public/widgets/testimonials-list.php:175
+#: mods/testimonials/public/widgets/testimonials-slider.php:179
+#: mods/albums/public/widgets/photos.php:243
+msgctxt "widget"
+msgid "Sort by:"
+msgstr "Ordenar por:"
+
+#: mods/logos/public/widgets/logos.php:190
+#: mods/team/public/widgets/team.php:212
+#: mods/portfolio/public/widgets/portfolio.php:236
+#: mods/testimonials/public/widgets/testimonials-list.php:185
+#: mods/testimonials/public/widgets/testimonials-slider.php:189
+#: mods/albums/public/widgets/photos.php:253
+msgctxt "widget"
+msgid "Ascending"
+msgstr "Ascendente"
+
+#: mods/logos/public/widgets/logos.php:193
+#: mods/team/public/widgets/team.php:215
+#: mods/portfolio/public/widgets/portfolio.php:239
+#: mods/testimonials/public/widgets/testimonials-list.php:188
+#: mods/testimonials/public/widgets/testimonials-slider.php:192
+#: mods/albums/public/widgets/photos.php:256
+msgctxt "widget"
+msgid "Descending"
+msgstr "Descendente"
+
+#: mods/logos/public/widgets/logos.php:198
+#: mods/team/public/widgets/team.php:220
+#: mods/testimonials/public/widgets/testimonials-slider.php:197
+msgctxt "widget"
+msgid "Autoslide:"
+msgstr "Autoslide:"
+
+#: mods/logos/admin/class-mod-logos-admin.php:15
+#: mods/logos/admin/class-mod-logos-admin.php:26
+msgctxt "backend logos"
+msgid "Partners, Clients, etc."
+msgstr "Socios, clientes, etc."
+
+#: mods/logos/admin/class-mod-logos-admin.php:16
+msgctxt "backend logos"
+msgid "Partner,Client, etc."
+msgstr "Socio, cliente, etc."
+
+#: mods/logos/admin/class-mod-logos-admin.php:17
+#: mods/logos/admin/class-mod-logos-admin.php:18
+msgctxt "backend logos"
+msgid "Add New Logo"
+msgstr "Añadir nuevo logo"
+
+#: mods/logos/admin/class-mod-logos-admin.php:19
+msgctxt "backend logos"
+msgid "Edit Partner,Client, etc."
+msgstr "Editar Socio, cliente, etc."
+
+#: mods/logos/admin/class-mod-logos-admin.php:20
+msgctxt "backend logos"
+msgid "New Item"
+msgstr "Nuevo artículo"
+
+#: mods/logos/admin/class-mod-logos-admin.php:21
+msgctxt "backend logos"
+msgid "View Item"
+msgstr "Ver artículo"
+
+#: mods/logos/admin/class-mod-logos-admin.php:22
+msgctxt "backend logos"
+msgid "Search Items"
+msgstr "Buscar elementos"
+
+#: mods/logos/admin/class-mod-logos-admin.php:23
+msgctxt "backend logos"
+msgid "No items found"
+msgstr "No se han encontrado artículos"
+
+#: mods/logos/admin/class-mod-logos-admin.php:24
+msgctxt "backend logos"
+msgid "No items found in Trash"
+msgstr "No se encontraron artículos en la papelera."
+
+#: mods/logos/admin/class-mod-logos-admin.php:51
+#: mods/logos/admin/class-mod-logos-admin.php:54
+#: mods/logos/admin/class-mod-logos-admin.php:61
+msgctxt "backend partners"
+msgid "Logo Categories"
+msgstr "Logo Categorías"
+
+#: mods/logos/admin/class-mod-logos-admin.php:52
+msgctxt "backend partners"
+msgid "Logo Category"
+msgstr "Logo Categoría"
+
+#: mods/logos/admin/class-mod-logos-admin.php:53
+#: mods/benefits/admin/class-mod-benefits-admin.php:54
+msgctxt "backend partners"
+msgid "Search in Category"
+msgstr "Buscar en Categoría"
+
+#: mods/logos/admin/class-mod-logos-admin.php:55
+#: mods/benefits/admin/class-mod-benefits-admin.php:56
+msgctxt "backend partners"
+msgid "Parent Category"
+msgstr "Categoría Superior"
+
+#: mods/logos/admin/class-mod-logos-admin.php:56
+#: mods/benefits/admin/class-mod-benefits-admin.php:57
+msgctxt "backend partners"
+msgid "Parent Category:"
+msgstr "Categoría Superior:"
+
+#: mods/logos/admin/class-mod-logos-admin.php:57
+#: mods/benefits/admin/class-mod-benefits-admin.php:58
+msgctxt "backend partners"
+msgid "Edit Category"
+msgstr "Editar Categoría"
+
+#: mods/logos/admin/class-mod-logos-admin.php:58
+#: mods/benefits/admin/class-mod-benefits-admin.php:59
+msgctxt "backend partners"
+msgid "Update Category"
+msgstr "Actualizar Categoría"
+
+#: mods/logos/admin/class-mod-logos-admin.php:59
+msgctxt "backend partners"
+msgid "Add New Logo Category"
+msgstr "Añadir nuevo Logo de Categoría"
+
+#: mods/logos/admin/class-mod-logos-admin.php:60
+msgctxt "backend partners"
+msgid "New Logo Category Name"
+msgstr "Logo para la nueva Categoría"
+
+#: mods/logos/admin/metaboxes/metaboxes-logos.php:18
+#: mods/team/admin/metaboxes/metaboxes-team.php:192
+#: mods/testimonials/admin/metaboxes/metaboxes-testimonials.php:121
+#: mods/benefits/admin/metaboxes/metaboxes-benefits.php:18
+msgctxt "backend metabox"
+msgid "Options"
+msgstr "Opciones"
+
+#: mods/logos/admin/metaboxes/metaboxes-logos.php:26
+#: mods/benefits/admin/metaboxes/metaboxes-benefits.php:26
+msgctxt "backend metabox"
+msgid "Target link:"
+msgstr "Enlace de destino:"
+
+#: mods/logos/admin/metaboxes/metaboxes-logos.php:35
+#: mods/benefits/admin/metaboxes/metaboxes-benefits.php:43
+msgctxt "backend metabox"
+msgid "Retina image:"
+msgstr "Imagen Retina Display:"
+
+#: mods/team/public/shortcodes/mod-team-shortcodes-bridge.php:11
+msgid "Team"
+msgstr "Equipo"
+
+#: mods/team/public/shortcodes/mod-team-shortcodes-bridge.php:24
+msgid ""
+"Note: By default, all your team will be displayed. <br>If you want to narrow "
+"output, select category(s) above. Only selected categories will be displayed."
+msgstr ""
+"Nota: Por defecto, se mostrará todo su equipo. <br> Si desea acotar la "
+"salida, seleccione la categoría (s) anterior. Sólo se mostrarán las "
+"categorías seleccionadas."
+
+#: mods/team/public/shortcodes/mod-team-shortcodes-bridge.php:27
+#, fuzzy
+msgid "Photos Number & Order"
+msgstr "Fotos Cuadrícula irregular y cuadrícula lineal"
+
+#: mods/team/public/shortcodes/mod-team-shortcodes-bridge.php:32
+msgid "Number of team members to show"
+msgstr "Número de miembros del equipo para mostrar"
+
+#: mods/team/public/shortcodes/mod-team-shortcodes-bridge.php:36
+msgid "(Integer)"
+msgstr "(Entero)"
+
+#: mods/team/public/shortcodes/mod-team-shortcodes-bridge.php:68
+#: mods/team/public/shortcodes/mod-team-shortcodes-bridge.php:76
+#: mods/team/public/shortcodes/mod-team-shortcodes-bridge.php:85
+#: mods/team/public/shortcodes/mod-team-shortcodes-bridge.php:91
+#: mods/team/public/shortcodes/mod-team-shortcodes-bridge.php:102
+#: mods/team/public/shortcodes/mod-team-shortcodes-bridge.php:113
+#: mods/team/public/shortcodes/mod-team-shortcodes-bridge.php:127
+#: mods/team/public/shortcodes/mod-team-shortcodes-bridge.php:133
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:14
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:33
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:41
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:95
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:103
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:111
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:173
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:182
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:192
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:217
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:221
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:235
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:247
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:260
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:272
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:286
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:304
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:311
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:344
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:353
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:362
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:513
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:514
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:525
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:728
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:736
+#: mods/testimonials/public/shortcodes/mod-testimonials-shortcodes-bridge.php:34
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:27
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:106
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:118
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:128
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:134
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:164
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:218
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:226
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:238
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:249
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:321
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:334
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:348
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:360
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:373
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:385
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:399
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:411
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:538
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:545
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:569
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:578
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:688
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:700
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:712
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:746
+msgid "Appearance"
+msgstr "Apariencia"
+
+#: mods/team/public/shortcodes/mod-team-shortcodes-bridge.php:79
+msgid "Gap between team members (px)"
+msgstr "Espacio entre los miembros del equipo (px)"
+
+#: mods/team/public/shortcodes/mod-team-shortcodes-bridge.php:83
+msgid ""
+"Team member paddings (e.g. 5 pixel padding will give you 10 pixel gaps "
+"between team members)"
+msgstr ""
+"Rellenos miembros del equipo (por ejemplo,  5 píxeles le dará 10 espacios de "
+"píxeles entre los miembros del equipo)"
+
+#: mods/team/public/shortcodes/mod-team-shortcodes-bridge.php:88
+msgid "Team Mender Design"
+msgstr ""
+
+#: mods/team/public/shortcodes/mod-team-shortcodes-bridge.php:94
+msgid "Background under team members"
+msgstr "Fondo bajo los miembros del equipo:"
+
+#: mods/team/public/shortcodes/mod-team-shortcodes-bridge.php:105
+msgid "Images sizing"
+msgstr "Tamaño de las imágenes"
+
+#: mods/team/public/shortcodes/mod-team-shortcodes-bridge.php:117
+msgid "Images proportions"
+msgstr "Proporciones de las imágenes"
+
+#: mods/team/public/shortcodes/mod-team-shortcodes-bridge.php:125
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:184
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:113
+msgid ""
+"Width:height (e.g. 16:9). Leave this field empty to preserve original image "
+"proportions."
+msgstr ""
+"Anchura: altura (por ejemplo, 16: 9). Deje este campo vacío para conservar "
+"las proporciones de la imagen original."
+
+#: mods/team/public/shortcodes/mod-team-shortcodes-bridge.php:137
+#: mods/team/public/shortcodes/mod-team-shortcodes-bridge.php:145
+#: mods/team/public/shortcodes/mod-team-shortcodes-bridge.php:159
+#: mods/team/public/shortcodes/mod-team-shortcodes-bridge.php:173
+#: mods/team/public/shortcodes/mod-team-shortcodes-bridge.php:187
+#: mods/team/public/shortcodes/mod-team-shortcodes-bridge.php:201
+#: mods/team/public/shortcodes/mod-team-shortcodes-bridge.php:215
+#: mods/team/public/shortcodes/mod-team-shortcodes-bridge.php:229
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:607
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:614
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:629
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:643
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:657
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:671
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:685
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:699
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:584
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:592
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:606
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:620
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:634
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:648
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:662
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:676
+#, fuzzy
+msgid "Responsiveness"
+msgstr "Adaptabilidad"
+
+#: mods/team/public/shortcodes/mod-team-shortcodes-bridge.php:148
+msgid "Column target width (px)"
+msgstr "Ancho de la columna objetivo (px)"
+
+#: mods/team/public/shortcodes/mod-team-shortcodes-bridge.php:176
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:646
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:595
+msgid "Columns on Desktop"
+msgstr ""
+
+#: mods/team/public/shortcodes/mod-team-shortcodes-bridge.php:190
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:660
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:609
+msgid "Columns on Horizontal Tablet"
+msgstr ""
+
+#: mods/team/public/shortcodes/mod-team-shortcodes-bridge.php:204
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:674
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:623
+msgid "Columns on Vertical Tablet"
+msgstr ""
+
+#: mods/team/public/shortcodes/mod-team-shortcodes-bridge.php:218
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:688
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:637
+msgid "Columns on Mobile Phone"
+msgstr ""
+
+#: mods/team/public/widgets/team.php:29 mods/team/public/widgets/team.php:34
+msgctxt "widget"
+msgid "Team"
+msgstr "Equipo"
+
+#: mods/team/public/widgets/team.php:160
+#: mods/portfolio/public/widgets/portfolio.php:184
+#: mods/testimonials/public/widgets/testimonials-list.php:138
+#: mods/testimonials/public/widgets/testimonials-slider.php:142
+#: mods/albums/public/widgets/photos.php:201
+msgctxt "widget"
+msgid "Title:"
+msgstr "Título:"
+
+#: mods/team/public/widgets/team.php:192
+msgctxt "widget"
+msgid "Show excerpt:"
+msgstr "Mostrar extracto:"
+
+#: mods/team/public/widgets/team.php:197
+msgctxt "widget"
+msgid "Number of team members:"
+msgstr "Número de miembros del equipo:"
+
+#: mods/team/admin/class-mod-team-admin.php:15
+#: mods/team/admin/class-mod-team-admin.php:26
+msgctxt "backend team"
+msgid "Team"
+msgstr "Equipo"
+
+#: mods/team/admin/class-mod-team-admin.php:16
+msgctxt "backend team"
+msgid "Teammate"
+msgstr "Compañero de equipo"
+
+#: mods/team/admin/class-mod-team-admin.php:17
+msgctxt "backend team"
+msgid "Add New"
+msgstr "Añadir nuevo"
+
+#: mods/team/admin/class-mod-team-admin.php:18
+msgctxt "backend team"
+msgid "Add New Teammate"
+msgstr "Añadir nuevo compañero de equipo"
+
+#: mods/team/admin/class-mod-team-admin.php:19
+msgctxt "backend team"
+msgid "Edit Teammate"
+msgstr "Editar compañero de equipo"
+
+#: mods/team/admin/class-mod-team-admin.php:20
+msgctxt "backend team"
+msgid "New Teammate"
+msgstr "Nuevo compañero de equipo"
+
+#: mods/team/admin/class-mod-team-admin.php:21
+msgctxt "backend team"
+msgid "View Teammate"
+msgstr "Ver compañero de equipo"
+
+#: mods/team/admin/class-mod-team-admin.php:22
+msgctxt "backend team"
+msgid "Search Teammates"
+msgstr "Buscar compañeros de equipo"
+
+#: mods/team/admin/class-mod-team-admin.php:23
+msgctxt "backend team"
+msgid "No teammates found"
+msgstr "No existen compañeros de equipo"
+
+#: mods/team/admin/class-mod-team-admin.php:24
+msgctxt "backend team"
+msgid "No Teammates found in Trash"
+msgstr "No se encuentran en la Papelera Los compañeros de equipo"
+
+#: mods/team/admin/class-mod-team-admin.php:51
+#: mods/team/admin/class-mod-team-admin.php:54
+#: mods/team/admin/class-mod-team-admin.php:61
+msgctxt "backend team"
+msgid "Team Categories"
+msgstr "Categorías"
+
+#: mods/team/admin/class-mod-team-admin.php:52
+msgctxt "backend team"
+msgid "Team Category"
+msgstr "Categoría"
+
+#: mods/team/admin/class-mod-team-admin.php:53
+msgctxt "backend team"
+msgid "Search in Team Category"
+msgstr "Buscar en categoría"
+
+#: mods/team/admin/class-mod-team-admin.php:55
+msgctxt "backend team"
+msgid "Parent Team Category"
+msgstr "Categoría superior"
+
+#: mods/team/admin/class-mod-team-admin.php:56
+msgctxt "backend team"
+msgid "Parent Team Category:"
+msgstr "Categoría superior:"
+
+#: mods/team/admin/class-mod-team-admin.php:57
+msgctxt "backend team"
+msgid "Edit Team Category"
+msgstr "Editar Team Categoría"
+
+#: mods/team/admin/class-mod-team-admin.php:58
+msgctxt "backend team"
+msgid "Update Team Category"
+msgstr "Actualizar Categoría"
+
+#: mods/team/admin/class-mod-team-admin.php:59
+msgctxt "backend team"
+msgid "Add New Team Category"
+msgstr "Agregar nueva categoría de equipo"
+
+#: mods/team/admin/class-mod-team-admin.php:60
+msgctxt "backend team"
+msgid "New Team Category Name"
+msgstr "Agregar nueva categoría de equipo"
+
+#: mods/team/admin/metaboxes/metaboxes-team.php:18
+msgctxt "backend metabox"
+msgid "Display Team Members by Category(s)"
+msgstr "Mostrar miembros del equipo por categoría(s)"
+
+#: mods/team/admin/metaboxes/metaboxes-team.php:38
+msgctxt "backend"
+msgid "ALL your Team  Members are being displayed on this page!"
+msgstr "TODOS los miembros del equipo se muestran en esta página!"
+
+#: mods/team/admin/metaboxes/metaboxes-team.php:39
+msgctxt "backend"
+msgid "By default all your Team Members will be displayed on this page. "
+msgstr ""
+"Por defecto, todos los miembros de su equipo se mostrarán en esta página."
+
+#: mods/team/admin/metaboxes/metaboxes-team.php:40
+msgctxt "backend"
+msgid ""
+"But you can specify which Team  Members categories will (or will not) be "
+"shown."
+msgstr ""
+"Pero puede especificar qué categorías de Miembros del equipo van (o no) a "
+"mostrarse."
+
+#: mods/team/admin/metaboxes/metaboxes-team.php:41
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:43
+#: mods/testimonials/admin/metaboxes/metaboxes-testimonials.php:43
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:43
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:372
+msgctxt "backend"
+msgid "In tabs above you can select from the following options:"
+msgstr "En las pestañas superiores puede elegir entre las siguientes opciones:"
+
+#: mods/team/admin/metaboxes/metaboxes-team.php:43
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:45
+#: mods/testimonials/admin/metaboxes/metaboxes-testimonials.php:45
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:45
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:374
+msgctxt "backend"
+msgid "All"
+msgstr "Todos"
+
+#: mods/team/admin/metaboxes/metaboxes-team.php:45
+msgctxt "backend"
+msgid ""
+" &mdash; all Team  Members (from all categories) will be shown on this page."
+msgstr ""
+"&mdash; Todos los Testimonios (de todas las categorías) se le aparecen en "
+"esta página."
+
+#: mods/team/admin/metaboxes/metaboxes-team.php:47
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:49
+#: mods/testimonials/admin/metaboxes/metaboxes-testimonials.php:49
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:49
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:378
+msgctxt "backend"
+msgid "Only"
+msgstr "Solamente"
+
+#: mods/team/admin/metaboxes/metaboxes-team.php:49
+msgctxt "backend"
+msgid " &mdash; choose Team category(s) to be shown on this page."
+msgstr "&mdash; elija la(s) categoría(s) del Blog a mostrar en esta página."
+
+#: mods/team/admin/metaboxes/metaboxes-team.php:51
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:53
+#: mods/testimonials/admin/metaboxes/metaboxes-testimonials.php:53
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:53
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:382
+msgctxt "backend"
+msgid "All, except"
+msgstr "Todo, excepto"
+
+#: mods/team/admin/metaboxes/metaboxes-team.php:53
+#: mods/testimonials/admin/metaboxes/metaboxes-testimonials.php:55
+msgctxt "backend"
+msgid ""
+" &mdash; choose which category(s) will be excluded from displaying on this "
+"page."
+msgstr ""
+"&mdash; elija qué categoría(s) será(n) excluída(s) al mostrar esta página."
+
+#: mods/team/admin/metaboxes/metaboxes-team.php:68
+msgctxt "backend metabox"
+msgid "Team Options"
+msgstr "Ajustes del Tema"
+
+#: mods/team/admin/metaboxes/metaboxes-team.php:80
+msgctxt "backend metabox"
+msgid "Gap between team members (px):"
+msgstr "Espacio entre los miembros del equipo (px)"
+
+#: mods/team/admin/metaboxes/metaboxes-team.php:81
+msgctxt "backend metabox"
+msgid ""
+"Team member paddings (e.g. 5 pixel padding will give you 10 pixel gaps "
+"between team members)"
+msgstr ""
+"Rellenos miembros del equipo (por ejemplo, 5 píxeles le dará 10 espacios de "
+"píxeles entre los miembros del equipo)"
+
+#: mods/team/admin/metaboxes/metaboxes-team.php:94
+msgctxt "backend metabox"
+msgid "Background under team members:"
+msgstr "Fondo bajo miembros del equipo:"
+
+#: mods/team/admin/metaboxes/metaboxes-team.php:111
+msgctxt "backend metabox"
+msgid "Show team members excerpts:"
+msgstr "Mostrar extractos de miembros del equipo:"
+
+#: mods/team/admin/metaboxes/metaboxes-team.php:117
+msgctxt "backend metabox"
+msgid "Number of team members on one page:"
+msgstr "Número de miembros del equipo en una página:"
+
+#: mods/team/admin/metaboxes/metaboxes-team.php:128
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:477
+msgctxt "backend metabox"
+msgid "Order:"
+msgstr "Pedido Nº ID:"
+
+#: mods/team/admin/metaboxes/metaboxes-team.php:137
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:487
+msgctxt "backend metabox"
+msgid "Orderby:"
+msgstr "Ordenado por:"
+
+#: mods/team/admin/metaboxes/metaboxes-team.php:165
+msgctxt "backend metabox"
+msgid "Link to teammate details page:"
+msgstr "Enlace a la página de detalles de su compañero de equipo:"
+
+#: mods/team/admin/metaboxes/metaboxes-team.php:171
+#: mods/testimonials/admin/metaboxes/metaboxes-testimonials.php:137
+msgctxt "backend metabox"
+msgid "Position:"
+msgstr "Posición:"
+
+#: mods/team/admin/options/options-slug-team.php:14
+msgctxt "theme-options"
+msgid "Team slug"
+msgstr "Equipo slug"
+
+#: mods/portfolio/public/class-mod-portfolio-public.php:87
+#, php-format
+msgid "Portfolio Archives: %s"
+msgstr "Archivos Portafolio: %s"
+
+#: mods/portfolio/public/mod-portfolio-helpers.php:192
+msgid "Details"
+msgstr "Detalles"
+
+#: mods/portfolio/public/mod-portfolio-helpers.php:274
+msgid "Zoom"
+msgstr "Zoom"
+
+#: mods/portfolio/public/templates/portfolio-post-single-links.php:9
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: mods/portfolio/public/templates/portfolio-post-single-links.php:20
+#, fuzzy
+msgid "Previous project:"
+msgstr "Pestaña anterior"
+
+#: mods/portfolio/public/templates/portfolio-post-single-links.php:21
+#, fuzzy
+msgid "Next project:"
+msgstr "Proyectos relacionados"
+
+#: mods/portfolio/public/templates/portfolio-post-single-links.php:23
+#, fuzzy
+msgid "Project navigation"
+msgstr "Navegación entre comentarios"
+
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:15
+#: mods/testimonials/public/shortcodes/mod-testimonials-shortcodes-bridge.php:94
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:12
+msgid "Loading effect"
+msgstr "Efecto de carga"
+
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:49
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:56
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:63
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:70
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:36
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:42
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:48
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:54
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:183
+#, fuzzy
+msgid "Project Meta"
+msgstr "Ancho de los proyectos"
+
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:119
+msgid "Number of projects to show"
+msgstr "Número de proyectos para mostrar"
+
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:127
+#, fuzzy
+msgid "Projects per page"
+msgstr "Página anterior"
+
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:169
+msgid ""
+"Note: By default, all your projects will be displayed. <br>If you want to "
+"narrow output, select category(s) above. Only selected categories will be "
+"displayed."
+msgstr ""
+"Nota: Por defecto, se mostrarán todos sus proyectos. <br> Si desea acotar la "
+"salida, seleccione la categoría (s) anterior. Sólo se mostrarán las "
+"categorías seleccionadas."
+
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:174
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:101
+msgid "Gap between images (px)"
+msgstr "Hueco entre imágenes (px)"
+
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:183
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:112
+msgid "Thumbnails proportions"
+msgstr "Miniaturas proporciones"
+
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:193
+msgid "Show projects descriptions"
+msgstr "Mostrar descripciones de proyectos"
+
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:208
+msgid "Background under projects"
+msgstr "Fondo bajo los proyectos"
+
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:236
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:352
+msgid "Image hover background color"
+msgstr "Estilo del menú al pasar por encima"
+
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:248
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:364
+msgid "Animation effect"
+msgstr "Efecto de animación"
+
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:261
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:377
+msgid "Content"
+msgstr "Contenido"
+
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:273
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:287
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:389
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:403
+msgid "Content alignment"
+msgstr "Alineación del contenido:"
+
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:298
+msgid "Projects Number & Order"
+msgstr ""
+
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:305
+#, fuzzy
+msgid "Project Design"
+msgstr "Enlace del proyecto"
+
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:312
+#, fuzzy
+msgid "Project Elements"
+msgstr "Enlace del proyecto"
+
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:318
+#, fuzzy
+msgid "Projects Filter"
+msgstr "Ancho de los proyectos"
+
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:330
+msgid "Portfolio Scroller"
+msgstr "Portafolio Scroller"
+
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:345
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:682
+msgid "Thumbnails width"
+msgstr "Anchura de las miniaturas"
+
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:350
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:683
+msgid ""
+"In pixels. Leave this field empty if you want to preserve original "
+"thumbnails proportions."
+msgstr ""
+"En píxeles. Deje este campo en blanco si desea conservar miniaturas "
+"proporciones originales."
+
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:354
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:694
+msgid "Thumbnails height"
+msgstr "Altura de las miniaturas"
+
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:359
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:695
+msgid "In pixels."
+msgstr "En píxeles."
+
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:363
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:706
+#, fuzzy
+msgid "Thumbnails max width"
+msgstr "Anchura de las miniaturas"
+
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:368
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:707
+#, fuzzy
+msgid "In percents."
+msgstr "En píxeles."
+
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:439
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:256
+msgid "Arrows"
+msgstr "Flechas"
+
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:452
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:270
+msgid "Show arrows on mobile device"
+msgstr ""
+
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:495
+msgid "Portfolio Masonry & Grid"
+msgstr "Portfolio Masonry & Grid"
+
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:526
+msgid "Projects width"
+msgstr "Ancho de los proyectos"
+
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:536
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:208
+msgid ""
+"Image paddings (e.g. 5 pixel padding will give you 10 pixel gaps between "
+"images)"
+msgstr ""
+"Rellenos de imagen (p.e. un relleno de 5 píxeles dará como resultado un "
+"hueco de 10 píxeles entre imágenes)"
+
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:711
+msgid "Portfolio Justified Grid"
+msgstr "Cartera de cuadrícula (grid) justificada"
+
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:729
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:233
+msgid "Row target height (px)"
+msgstr "Altura del la fila (px)"
+
+#: mods/portfolio/public/shortcodes/portfolio/portfolio.php:23
+#: mods/portfolio/public/shortcodes/portfolio-jgrid/portfolio-jgrid.php:23
+#: mods/portfolio/public/shortcodes/portfolio-slider/portfolio-slider.php:24
+#: mods/albums/public/shortcodes/photos-slider/photos-slider.php:29
+#: mods/albums/public/shortcodes/photos-jgrid/photos-jgrid.php:23
+#: mods/albums/public/shortcodes/albums-slider/albums-slider.php:24
+#: mods/albums/public/shortcodes/photos-masonry/photos-masonry.php:23
+#: mods/albums/public/shortcodes/albums-jgrid/albums-jgrid.php:25
+#: mods/albums/public/shortcodes/albums/albums.php:25
+#: mods/benefits/public/shortcodes/benefits-vc/benefits-vc.php:39
+msgctxt "vc inline dummy"
+msgid "Display categories"
+msgstr "Mostrar categorías"
+
+#: mods/portfolio/public/shortcodes/portfolio/portfolio.php:27
+msgctxt "vc inline dummy"
+msgid "Portfolio Masonry & Grid"
+msgstr ""
+"Portafolio en cuadrícula irregular (masonry) y cuadrícula lineal (grid)"
+
+#: mods/portfolio/public/shortcodes/portfolio-jgrid/portfolio-jgrid.php:27
+msgctxt "vc inline dummy"
+msgid "Portfolio Justified Grid"
+msgstr "Portafolio en cuadrícula lineal (grid) justificada"
+
+#: mods/portfolio/public/shortcodes/portfolio-slider/portfolio-slider.php:29
+msgctxt "vc inline dummy"
+msgid "Portfolio scroller"
+msgstr "Portafolio Scroller"
+
+#: mods/portfolio/public/widgets/portfolio.php:28
+#: mods/portfolio/public/widgets/portfolio.php:33
+msgctxt "widget"
+msgid "Portfolio projects"
+msgstr "Portfolio de proyectos"
+
+#: mods/portfolio/public/widgets/portfolio.php:216
+#: mods/albums/public/widgets/photos.php:233
+msgctxt "widget"
+msgid "Image max width (px):"
+msgstr "Ancho max de la imagen (píxeles):"
+
+#: mods/portfolio/public/widgets/portfolio.php:221
+msgctxt "widget"
+msgid "Number of posts:"
+msgstr "Número de entradas:"
+
+#: mods/portfolio/admin/class-mod-portfolio-admin.php:15
+#: mods/portfolio/admin/class-mod-portfolio-admin.php:16
+#: mods/portfolio/admin/class-mod-portfolio-admin.php:26
+msgctxt "backend portfolio"
+msgid "Portfolio"
+msgstr "Portafolio"
+
+#: mods/portfolio/admin/class-mod-portfolio-admin.php:17
+msgctxt "backend portfolio"
+msgid "Add New"
+msgstr "Añadir nuevo"
+
+#: mods/portfolio/admin/class-mod-portfolio-admin.php:18
+msgctxt "backend portfolio"
+msgid "Add New Item"
+msgstr "Añadir nuevo Artículo"
+
+#: mods/portfolio/admin/class-mod-portfolio-admin.php:19
+msgctxt "backend portfolio"
+msgid "Edit Item"
+msgstr "Editar Artículo"
+
+#: mods/portfolio/admin/class-mod-portfolio-admin.php:20
+msgctxt "backend portfolio"
+msgid "New Item"
+msgstr "Nuevo Artículo"
+
+#: mods/portfolio/admin/class-mod-portfolio-admin.php:21
+msgctxt "backend portfolio"
+msgid "View Item"
+msgstr "Ver artículo"
+
+#: mods/portfolio/admin/class-mod-portfolio-admin.php:22
+msgctxt "backend portfolio"
+msgid "Search Items"
+msgstr "Buscar elementos"
+
+#: mods/portfolio/admin/class-mod-portfolio-admin.php:23
+msgctxt "backend portfolio"
+msgid "No items found"
+msgstr "No se han encontrado Artículos"
+
+#: mods/portfolio/admin/class-mod-portfolio-admin.php:24
+msgctxt "backend portfolio"
+msgid "No items found in Trash"
+msgstr "No se encontraron Artículos en la papelera."
+
+#: mods/portfolio/admin/class-mod-portfolio-admin.php:51
+#: mods/portfolio/admin/class-mod-portfolio-admin.php:54
+#: mods/portfolio/admin/class-mod-portfolio-admin.php:61
+msgctxt "backend portfolio"
+msgid "Portfolio Categories"
+msgstr "Categorías del portafolio"
+
+#: mods/portfolio/admin/class-mod-portfolio-admin.php:52
+msgctxt "backend portfolio"
+msgid "Portfolio Category"
+msgstr "Categoría de Portafolio"
+
+#: mods/portfolio/admin/class-mod-portfolio-admin.php:53
+msgctxt "backend portfolio"
+msgid "Search in Category"
+msgstr "Buscar en Categoría"
+
+#: mods/portfolio/admin/class-mod-portfolio-admin.php:55
+msgctxt "backend portfolio"
+msgid "Parent Portfolio Category"
+msgstr "Categoría principal del Portafolio"
+
+#: mods/portfolio/admin/class-mod-portfolio-admin.php:56
+msgctxt "backend portfolio"
+msgid "Parent Portfolio Category:"
+msgstr "Categoría principal del Portafolio:"
+
+#: mods/portfolio/admin/class-mod-portfolio-admin.php:57
+msgctxt "backend portfolio"
+msgid "Edit Category"
+msgstr "Editar Categoría"
+
+#: mods/portfolio/admin/class-mod-portfolio-admin.php:58
+msgctxt "backend portfolio"
+msgid "Update Category"
+msgstr "Actualizar Categoría"
+
+#: mods/portfolio/admin/class-mod-portfolio-admin.php:59
+msgctxt "backend portfolio"
+msgid "Add New Portfolio Category"
+msgstr "Añadir nueva categoría del Portafolio"
+
+#: mods/portfolio/admin/class-mod-portfolio-admin.php:60
+msgctxt "backend portfolio"
+msgid "New Category Name"
+msgstr "Nombre de Categoría Nueva"
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:20
+msgctxt "backend metabox"
+msgid "Display Portfolio Category(s)"
+msgstr "Mostrar categoría(s) del portafolio"
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:40
+msgctxt "backend"
+msgid "ALL your Portfolio projects are being displayed on this page!"
+msgstr "TODOS sus proyectos portafolio se muestran en esta página!"
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:41
+msgctxt "backend"
+msgid "By default all your Portfolio projects will be displayed on this page. "
+msgstr ""
+"Por defecto, todos los proyectos del portafolio se mostrarán en esta página."
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:42
+msgctxt "backend"
+msgid ""
+"But you can specify which Portfolio project category(s) will (or will not) "
+"be shown."
+msgstr ""
+"Pero usted puede especificar qué será (o no quiere) se mostrará categoría "
+"(s) proyecto Portafolio."
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:47
+msgctxt "backend"
+msgid " &mdash; all Projects will be shown on this page."
+msgstr "&mdash;  Todos los proyectos serán mostrados en esta página."
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:51
+msgctxt "backend"
+msgid " &mdash; choose Project category(s) to be shown on this page."
+msgstr "&mdash; Seleccionar categoría Proyecto (s) que se ve en esta página."
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:55
+msgctxt "backend"
+msgid ""
+" &mdash; choose which Project category(s) will be excluded from displaying "
+"on this page."
+msgstr ""
+"&mdash; elija qué categoría(s) será(n) excluída(s) al mostrar esta página."
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:70
+msgctxt "backend metabox"
+msgid "Portfolio Options"
+msgstr "Opciones Portafolio"
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:84
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:185
+msgctxt "backend metabox"
+msgid "Background under projects:"
+msgstr "Fondo bajo los proyectos:"
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:92
+msgctxt "backend metabox"
+msgid "Image rollover color:"
+msgstr "Image rollover color:"
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:132
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:211
+msgctxt "backend metabox"
+msgid "Show projects descriptions:"
+msgstr "Mostrar descripciones de proyectos"
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:203
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:264
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:172
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:246
+msgctxt "backend metabox"
+msgid "Title visibility:"
+msgstr "Visibilidad del título:"
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:272
+msgctxt "backend metabox"
+msgid "Make all projects the same width:"
+msgstr "Haga todos los proyectos del mismo ancho:"
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:300
+msgctxt "backend metabox"
+msgid "Number of projects to display on one page:"
+msgstr "Número de proyectos para mostrar en una página:"
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:321
+msgctxt "backend metabox"
+msgid "Show projects titles:"
+msgstr "Mostrar proyectos títulos:"
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:330
+msgctxt "backend metabox"
+msgid "Show projects excerpts:"
+msgstr "Mostrar proyectos extractos:"
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:343
+msgctxt "backend metabox"
+msgid "Show project categories:"
+msgstr "Mostrar categorías del proyecto"
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:353
+msgctxt "backend metabox"
+msgid "Show project date:"
+msgstr "Mostrar fecha proyecto:"
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:362
+msgctxt "backend metabox"
+msgid "Show project author:"
+msgstr "Mostrar el autor del proyecto:"
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:371
+msgctxt "backend metabox"
+msgid "Show project comments:"
+msgstr "Mostrar comentarios proyectos:"
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:384
+msgctxt "backend metabox"
+msgid "Show details icons:"
+msgstr "Mostrar detalles iconos:"
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:394
+msgctxt "backend metabox"
+msgid "Show links icons:"
+msgstr "Mostrar vinculo iconos:"
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:403
+msgctxt "backend metabox"
+msgid "Show zoom icons:"
+msgstr "Mostrar iconos de zoom:"
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:415
+msgctxt "backend metabox"
+msgid "Show details buttons:"
+msgstr "Mostrar detalles botones:"
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:430
+msgctxt "backend metabox"
+msgid "Show categories filter:"
+msgstr "Mostrar filtro de categorías:"
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:440
+msgctxt "backend metabox"
+msgid "Show name / date ordering:"
+msgstr "Mostrar nombre / fecha de pedido:"
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:450
+msgctxt "backend metabox"
+msgid "Show asc. / desc. ordering:"
+msgstr "Mostrar orden ascendente / descencente"
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:463
+msgctxt "backend metabox"
+msgid "Show all pages in paginator:"
+msgstr "Mostrar todas las páginas en paginador:"
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:507
+msgctxt "backend metabox"
+msgid "Add/Edit Project Media"
+msgstr "Añadir / Editar medios de proyecto"
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:530
+msgctxt "backend metabox"
+msgid "Media Options"
+msgstr "Opciones de medios"
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:538
+msgctxt "backend metabox"
+msgid "Layout settings:"
+msgstr "Ajustes de Diseño"
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:543
+msgctxt "backend metabox"
+msgid "Media on the left of content"
+msgstr "Los medios de comunicación a la izquierda del contenido"
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:544
+msgctxt "backend metabox"
+msgid "Media on the right of content"
+msgstr "Media en el derecho de contenido"
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:545
+msgctxt "backend metabox"
+msgid "Media before content area"
+msgstr "Medios antes de área de contenido"
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:546
+msgctxt "backend metabox"
+msgid "Media after content area"
+msgstr "Medios después de área de contenido"
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:547
+msgctxt "backend metabox"
+msgid "Media disabled (blank page)"
+msgstr "Medios deshabitado (página en blanco)"
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:558
+msgctxt "backend metabox"
+msgid "Enable floating content:"
+msgstr "Habilitar contenido flotante:"
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:567
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:553
+msgctxt "backend metabox"
+msgid "Show media as:"
+msgstr "Mostrar medio como:"
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:572
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:558
+msgctxt "backend metabox"
+msgid "Slideshow"
+msgstr "Presentación de diapositivas"
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:573
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:559
+msgctxt "backend metabox"
+msgid "Gallery"
+msgstr "Galería"
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:574
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:560
+msgctxt "backend metabox"
+msgid "List"
+msgstr "Lista"
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:590
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:810
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:580
+msgctxt "backend metabox"
+msgid "Slider proportions:"
+msgstr "Proporciones del Slider:"
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:599
+#, fuzzy
+msgctxt "backend metabox"
+msgid "Scale Mode:"
+msgstr "Aumentar escala"
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:604
+msgctxt "backend metabox"
+msgid "fill"
+msgstr ""
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:605
+msgctxt "backend metabox"
+msgid "fit"
+msgstr ""
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:618
+msgctxt "backend metabox"
+msgid "Columns"
+msgstr "Columnas"
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:636
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:612
+msgctxt "backend metabox"
+msgid "Make first image large:"
+msgstr "Hacer la primera imagen grande:"
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:656
+msgctxt "backend metabox"
+msgid "Project Options"
+msgstr "Opciones del proyecto"
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:664
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:527
+msgctxt "backend metabox"
+msgid "Back button:"
+msgstr "Botón atrás:"
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:674
+msgctxt "backend metabox"
+msgid "Project link:"
+msgstr "Enlace del proyecto"
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:687
+#: mods/testimonials/admin/metaboxes/metaboxes-testimonials.php:145
+msgctxt "backend metabox"
+msgid "Link:"
+msgstr "Enlace:"
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:695
+msgctxt "backend metabox"
+msgid "Caption:"
+msgstr "Subtítulo:"
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:703
+msgctxt "backend metabox"
+msgid "Target:"
+msgstr "Objetivo"
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:708
+msgctxt "backend metabox"
+msgid "_self"
+msgstr "_self"
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:709
+msgctxt "backend metabox"
+msgid "_blank"
+msgstr "_blank"
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:718
+msgctxt "backend metabox"
+msgid "Hide featured image on project page:"
+msgstr "Ocultar imagen ofrecida en la página del proyecto:"
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:730
+msgctxt "backend metabox"
+msgid "Open images in lightbox:"
+msgstr "Abrir imágenes en lightbox:"
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:742
+msgctxt "backend metabox"
+msgid "Related projects category:"
+msgstr "Proyectos relacionados categoría:"
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:747
+msgctxt "backend metabox"
+msgid "from the same category"
+msgstr "de la misma categoría"
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:748
+msgctxt "backend metabox"
+msgid "choose category(s)"
+msgstr "seleccionar categoría (s)"
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:775
+msgctxt "backend metabox"
+msgid "Project preview width:"
+msgstr "Anchura vista previa proyecto:"
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:780
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:974
+msgctxt "backend metabox"
+msgid "normal"
+msgstr "normal"
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:781
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:975
+msgctxt "backend metabox"
+msgid "wide"
+msgstr "Amplio"
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:784
+#, php-format
+msgctxt "backend metabox"
+msgid ""
+"Related projects can be enabled / disabled from %sTheme Options / Blog, "
+"Portfolio, Gallery%s"
+msgstr ""
+"Proyectos relacionados se pueden activar / desactivar desde %s Opciones de "
+"Tema / Blog, Portfolio, Galería de%s"
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:787
+msgctxt "backend metabox"
+msgid "Project Preview Options"
+msgstr "Opciones de la vista anticipada de proyecto"
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:795
+msgctxt "backend metabox"
+msgid "Preview style:"
+msgstr "Estilo \"vista previa\""
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:800
+msgctxt "backend metabox"
+msgid "featured image"
+msgstr "imagen destacada"
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:801
+msgctxt "backend metabox"
+msgid "slideshow"
+msgstr "Presentación de diapositivas"
+
+#: mods/portfolio/admin/options/options-archive-portfolio.php:12
+msgctxt "theme-options"
+msgid "Portfolio archives"
+msgstr "Archivos del portafolio"
+
+#: mods/portfolio/admin/options/options-archive-portfolio.php:16
+msgctxt "theme-options"
+msgid "Portfolio category template"
+msgstr "Categoría de Portafolio"
+
+#: mods/portfolio/admin/options/options-portfolio.php:24
+#: mods/albums/admin/options/options-albums.php:24
+msgctxt "theme-options"
+msgid "Previous &amp; next buttons"
+msgstr "Botones: anterior y siguiente"
+
+#: mods/portfolio/admin/options/options-portfolio.php:28
+msgctxt "theme-options"
+msgid "Show in portfolio posts"
+msgstr "Mostrar en entradas de portafolio"
+
+#: mods/portfolio/admin/options/options-portfolio.php:50
+#: mods/portfolio/admin/options/options-portfolio.php:55
+#: mods/albums/admin/options/options-albums.php:50
+#: mods/albums/admin/options/options-albums.php:55
+msgctxt "theme-options"
+msgid "Back button"
+msgstr "Botón atrás"
+
+#: mods/portfolio/admin/options/options-portfolio.php:78
+#: mods/albums/admin/options/options-albums.php:78
+msgctxt "theme-options"
+msgid "Choose page"
+msgstr "Elija página"
+
+#: mods/portfolio/admin/options/options-portfolio.php:90
+#: mods/portfolio/admin/options/options-portfolio.php:95
+#: mods/albums/admin/options/options-albums.php:90
+#: mods/albums/admin/options/options-albums.php:95
+msgctxt "theme-options"
+msgid "Meta information"
+msgstr "Información meta"
+
+#: mods/portfolio/admin/options/options-portfolio.php:119
+#: mods/albums/admin/options/options-albums.php:119
+msgctxt "theme-options"
+msgid "Date"
+msgstr "Fecha"
+
+#: mods/portfolio/admin/options/options-portfolio.php:128
+#: mods/albums/admin/options/options-albums.php:128
+msgctxt "theme-options"
+msgid "Author"
+msgstr "Autor"
+
+#: mods/portfolio/admin/options/options-portfolio.php:137
+#: mods/albums/admin/options/options-albums.php:137
+msgctxt "theme-options"
+msgid "Categories"
+msgstr "Categorías"
+
+#: mods/portfolio/admin/options/options-portfolio.php:146
+msgctxt "theme-options"
+msgid "Number of comments"
+msgstr "Los comentarios están cerrados"
+
+#: mods/portfolio/admin/options/options-portfolio.php:159
+#: mods/portfolio/admin/options/options-portfolio.php:164
+msgctxt "theme-options"
+msgid "Related projects"
+msgstr "Proyectos relacionados"
+
+#: mods/portfolio/admin/options/options-portfolio.php:187
+msgctxt "theme-options"
+msgid "Title"
+msgstr "Título:"
+
+#: mods/portfolio/admin/options/options-portfolio.php:189
+#, fuzzy
+msgid "Related Projects"
+msgstr "Proyectos relacionados"
+
+#: mods/portfolio/admin/options/options-portfolio.php:195
+msgctxt "theme-options"
+msgid "Show titles"
+msgstr "Mostrar títulos"
+
+#: mods/portfolio/admin/options/options-portfolio.php:203
+msgctxt "theme-options"
+msgid "Show excerpts"
+msgstr "Mostrar extractos:"
+
+#: mods/portfolio/admin/options/options-portfolio.php:211
+msgctxt "theme-options"
+msgid "Show date"
+msgstr "Mostrar fecha"
+
+#: mods/portfolio/admin/options/options-portfolio.php:219
+msgctxt "theme-options"
+msgid "Show author"
+msgstr "Mostrar el autor de la entrada:"
+
+#: mods/portfolio/admin/options/options-portfolio.php:227
+msgctxt "theme-options"
+msgid "Show number of comments"
+msgstr "Mostrar número de comentarios"
+
+#: mods/portfolio/admin/options/options-portfolio.php:235
+msgctxt "theme-options"
+msgid "Show categories"
+msgstr "Mostrar categorías"
+
+#: mods/portfolio/admin/options/options-portfolio.php:243
+msgctxt "theme-options"
+msgid "Show links"
+msgstr "Mostrar enlaces"
+
+#: mods/portfolio/admin/options/options-portfolio.php:251
+msgctxt "theme-options"
+msgid "Show zoom"
+msgstr "Mostrar zoom"
+
+#: mods/portfolio/admin/options/options-portfolio.php:259
+msgctxt "theme-options"
+msgid "Show \"Details\" button"
+msgstr "Mostrar botón \"Detalles\""
+
+#: mods/portfolio/admin/options/options-portfolio.php:267
+msgctxt "theme-options"
+msgid "Maximum number of projects posts"
+msgstr "El número máximo de proyectos"
+
+#: mods/portfolio/admin/options/options-portfolio.php:281
+msgctxt "theme-options"
+msgid "Related posts height for fullwidth posts (px)"
+msgstr ""
+"Altura de las entradas relacionadas para entradas de ancho completo (px)"
+
+#: mods/portfolio/admin/options/options-portfolio.php:291
+msgctxt "theme-options"
+msgid "Related posts width for fullwidth posts"
+msgstr ""
+"Anchura de las entradas relacionadas para entradas de ancho completo (px)"
+
+#: mods/portfolio/admin/options/options-portfolio.php:304
+#: mods/portfolio/admin/options/options-portfolio.php:339
+msgctxt "theme-options"
+msgid "Width (px)"
+msgstr "Ancho (px)"
+
+#: mods/portfolio/admin/options/options-portfolio.php:316
+msgctxt "theme-options"
+msgid "Related posts height for posts with sidebar (px)"
+msgstr "Altura de las entradas relacionadas con barra lateral (px)"
+
+#: mods/portfolio/admin/options/options-portfolio.php:326
+msgctxt "theme-options"
+msgid "Related posts width for posts with sidebar"
+msgstr "Anchura de las entradas relacionadas con barra lateral (px)"
+
+#: mods/portfolio/admin/options/options-slug-portfolio.php:14
+msgctxt "theme-options"
+msgid "Portfolio slug"
+msgstr "Slug de Portafolio"
+
+#: mods/testimonials/public/templates/testimonials-post.php:67
+msgid "read more"
+msgstr "leer más"
+
+#: mods/testimonials/public/shortcodes/mod-testimonials-shortcodes-bridge.php:12
+msgid "Testimonials"
+msgstr "Testimonios"
+
+#: mods/testimonials/public/shortcodes/mod-testimonials-shortcodes-bridge.php:27
+msgid ""
+"Note: By default, all your testimonials will be displayed. <br>If you want "
+"to narrow output, select category(s) above. Only selected categories will be "
+"displayed."
+msgstr ""
+"Nota: Por defecto, se mostrarán todos sus testimonios. <br> Si desea acotar "
+"la salida, seleccione la categoría (s) anterior. Sólo se mostrarán las "
+"categorías seleccionadas."
+
+#: mods/testimonials/public/shortcodes/mod-testimonials-shortcodes-bridge.php:48
+msgid "Gap between testimonials (px)"
+msgstr "Espacio entre testimonios (px)"
+
+#: mods/testimonials/public/shortcodes/mod-testimonials-shortcodes-bridge.php:49
+msgid ""
+"Testimonial paddings (e.g. 5 pixel padding will give you 10 pixel gaps "
+"between testimonials)"
+msgstr ""
+"Rellenos miembros del equipo (por ejemplo,  5 píxeles le dará 10 espacios de "
+"píxeles entre los miembros del equipo)"
+
+#: mods/testimonials/public/shortcodes/mod-testimonials-shortcodes-bridge.php:120
+msgid "Autoslide"
+msgstr "Autoslide:"
+
+#: mods/testimonials/public/shortcodes/mod-testimonials-shortcodes-bridge.php:123
+msgid ""
+"In milliseconds (e.g. 3 seconds = 3000 miliseconds). Leave this field empty "
+"to disable autoslide. This field works only when \"Appearance: Slider\" "
+"selected."
+msgstr ""
+"En milisegundos (ej. 3 segundos = 3000 milisegundos). Deja este campo vacío "
+"para desactivar el autoslide. Este campo sólo funciona cuando seleccionamos "
+"\"Apariencia: Slider\"."
+
+#: mods/testimonials/public/shortcodes/mod-testimonials-shortcodes-bridge.php:136
+msgid "Number of testimonials to show"
+msgstr "Número de testimonios para mostrar"
+
+#: mods/testimonials/public/widgets/testimonials-list.php:27
+#: mods/testimonials/public/widgets/testimonials-list.php:32
+msgctxt "widget"
+msgid "Testimonials list"
+msgstr "Lista de Testimonios"
+
+#: mods/testimonials/public/widgets/testimonials-list.php:170
+#: mods/testimonials/public/widgets/testimonials-slider.php:174
+msgctxt "widget"
+msgid "Number of testimonials:"
+msgstr "Número de testimonios:"
+
+#: mods/testimonials/public/widgets/testimonials-slider.php:28
+#: mods/testimonials/public/widgets/testimonials-slider.php:33
+msgctxt "widget"
+msgid "Testimonials slider"
+msgstr "Slider de Testimonios"
+
+#: mods/testimonials/admin/class-mod-testimonials-admin.php:15
+#: mods/testimonials/admin/class-mod-testimonials-admin.php:16
+#: mods/testimonials/admin/class-mod-testimonials-admin.php:26
+msgctxt "backend testimonials"
+msgid "Testimonials"
+msgstr "Testimonios"
+
+#: mods/testimonials/admin/class-mod-testimonials-admin.php:17
+#: mods/testimonials/admin/class-mod-testimonials-admin.php:18
+msgctxt "backend testimonials"
+msgid "Add New Testimonial"
+msgstr "Añadir nuevo testimonio"
+
+#: mods/testimonials/admin/class-mod-testimonials-admin.php:19
+msgctxt "backend testimonials"
+msgid "Edit Testimonial"
+msgstr "Editar testimonio"
+
+#: mods/testimonials/admin/class-mod-testimonials-admin.php:20
+msgctxt "backend testimonials"
+msgid "New Testimonial"
+msgstr "Añadir nuevo testimonio"
+
+#: mods/testimonials/admin/class-mod-testimonials-admin.php:21
+msgctxt "backend testimonials"
+msgid "View Testimonial"
+msgstr "Ver testimonio"
+
+#: mods/testimonials/admin/class-mod-testimonials-admin.php:22
+msgctxt "backend testimonials"
+msgid "Search Testimonials"
+msgstr "Buscar testimonios"
+
+#: mods/testimonials/admin/class-mod-testimonials-admin.php:23
+msgctxt "backend testimonials"
+msgid "No Testimonials found"
+msgstr "No hay testimonios encontrados"
+
+#: mods/testimonials/admin/class-mod-testimonials-admin.php:24
+msgctxt "backend testimonials"
+msgid "No Testimonials found in Trash"
+msgstr "No se encontraron testimonios en la papelera"
+
+#: mods/testimonials/admin/class-mod-testimonials-admin.php:51
+#: mods/testimonials/admin/class-mod-testimonials-admin.php:61
+msgctxt "backend testimonials"
+msgid "Testimonial Categories"
+msgstr "Categorías de testimonios"
+
+#: mods/testimonials/admin/class-mod-testimonials-admin.php:52
+msgctxt "backend testimonials"
+msgid "Testimonial Category"
+msgstr "Categoría de testimonios"
+
+#: mods/testimonials/admin/class-mod-testimonials-admin.php:53
+msgctxt "backend testimonials"
+msgid "Search in Category"
+msgstr "Buscar en categoría"
+
+#: mods/testimonials/admin/class-mod-testimonials-admin.php:54
+msgctxt "backend testimonials"
+msgid "Categories"
+msgstr "Categorías"
+
+#: mods/testimonials/admin/class-mod-testimonials-admin.php:55
+msgctxt "backend testimonials"
+msgid "Parent Category"
+msgstr "Categoría superior"
+
+#: mods/testimonials/admin/class-mod-testimonials-admin.php:56
+msgctxt "backend testimonials"
+msgid "Parent Category:"
+msgstr "Categoría superior:"
+
+#: mods/testimonials/admin/class-mod-testimonials-admin.php:57
+msgctxt "backend testimonials"
+msgid "Edit Category"
+msgstr "Editar Categoría"
+
+#: mods/testimonials/admin/class-mod-testimonials-admin.php:58
+msgctxt "backend testimonials"
+msgid "Update Category"
+msgstr "Actualizar Categoría"
+
+#: mods/testimonials/admin/class-mod-testimonials-admin.php:59
+msgctxt "backend testimonials"
+msgid "Add New Testimonial Category"
+msgstr "Añadir Nueva Categoría de Testimonios"
+
+#: mods/testimonials/admin/class-mod-testimonials-admin.php:60
+msgctxt "backend testimonials"
+msgid "New Category Name"
+msgstr "Nombre de Categoría Nueva"
+
+#: mods/testimonials/admin/metaboxes/metaboxes-testimonials.php:20
+msgctxt "backend metabox"
+msgid "Display Testimonials Category(s)"
+msgstr "Mostrar testimonios por categoría(s)"
+
+#: mods/testimonials/admin/metaboxes/metaboxes-testimonials.php:40
+msgctxt "backend"
+msgid "ALL your Testimonials are being displayed on this page!"
+msgstr "TODOS sus testimonios se muestran en esta página!"
+
+#: mods/testimonials/admin/metaboxes/metaboxes-testimonials.php:41
+msgctxt "backend"
+msgid "By default all your Testimonials will be displayed on this page. "
+msgstr "Por defecto, todos sus Testimonios se mostrarán en esta página."
+
+#: mods/testimonials/admin/metaboxes/metaboxes-testimonials.php:42
+msgctxt "backend"
+msgid ""
+"But you can specify which Testimonials categories will (or will not) be "
+"shown."
+msgstr "Pero puede especificar qué categorías se mostrarán o no."
+
+#: mods/testimonials/admin/metaboxes/metaboxes-testimonials.php:47
+msgctxt "backend"
+msgid ""
+" &mdash; all Testimonials (from all categories) will be shown on this page."
+msgstr ""
+"&mdash; Todos los Testimonios (de todas las categorías) se le aparecen en "
+"esta página."
+
+#: mods/testimonials/admin/metaboxes/metaboxes-testimonials.php:51
+msgctxt "backend"
+msgid " &mdash; choose Testimonials category(s) to be shown on this page."
+msgstr "&mdash; Elegir categoría (s) testimonios que se ve en esta página."
+
+#: mods/testimonials/admin/metaboxes/metaboxes-testimonials.php:70
+msgctxt "backend metabox"
+msgid "Testimonials Options"
+msgstr "Opciones Testimonios"
+
+#: mods/testimonials/admin/metaboxes/metaboxes-testimonials.php:81
+msgctxt "backend metabox"
+msgid "Gap between testimonials (px):"
+msgstr "Espacio entre testimonios (píxeles):"
+
+#: mods/testimonials/admin/metaboxes/metaboxes-testimonials.php:96
+msgctxt "backend metabox"
+msgid "Number of testimonials on one page:"
+msgstr "Número de testimonios en una página:"
+
+#: mods/testimonials/admin/metaboxes/metaboxes-testimonials.php:130
+msgctxt "backend metabox"
+msgid "Link to testimonial details page:"
+msgstr "Enlace a la página de detalles del testimonio:"
+
+#: mods/albums/public/class-mod-albums-public.php:110
+#, php-format
+msgid "Albums Archives: %s"
+msgstr "Archivo de álbumes: %s"
+
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:91
+msgid ""
+"Note: By default, all your albums will be displayed. <br>If you want to "
+"narrow output, select category(s) above. Only selected categories will be "
+"displayed."
+msgstr ""
+"Nota: Por defecto, se mostrarán todos sus álbumes. <br> Si desea acotar la "
+"salida, seleccione la categoría (s) anterior. Sólo se mostrarán las "
+"categorías seleccionadas."
+
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:170
+msgid "Number of albums to show"
+msgstr "Número de álbumes para mostrar"
+
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:189
+#, fuzzy
+msgid "Albums per page"
+msgstr "Página del álbum"
+
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:203
+msgid "Number of items to show"
+msgstr "Mostrar número de imágenes y vídeos"
+
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:310
+msgid "Show albums descriptions"
+msgstr "Mostrar descripciones de álbum"
+
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:325
+msgid "Background under albums"
+msgstr "Fondo bajo los álbumes"
+
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:522
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:550
+#, fuzzy
+msgid "Albums Number & Order"
+msgstr "Álbumes en cuadrícula irregular (masonry) y cuadrícula lineal (grid)"
+
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:529
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:558
+#, fuzzy
+msgid "Albums Filter"
+msgstr "Ancho álbumes"
+
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:535
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:566
+#, fuzzy
+msgid "Album Design"
+msgstr "Álbumes slug"
+
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:542
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:575
+#, fuzzy
+msgid "Album Elements"
+msgstr "Mostrar comentarios del álbum"
+
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:720
+msgid "Albums Masonry & Grid"
+msgstr "Álbumes en cuadrícula irregular (masonry) y cuadrícula lineal (grid)"
+
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:738
+msgid "Albums width"
+msgstr "Ancho álbumes"
+
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:768
+msgid "Photos Masonry & Grid"
+msgstr "Fotos Cuadrícula irregular y cuadrícula lineal"
+
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:792
+msgid "Albums Justified Grid"
+msgstr "Álbumes en cuadrícula lineal (grid) justificada"
+
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:825
+msgid "Photos Justified Grid"
+msgstr "Fotos Justificada Cuadrícula"
+
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:849
+msgid "Albums Scroller"
+msgstr "Álbumes con desplazamiento (scroller)"
+
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:885
+msgid "Photos Scroller"
+msgstr "Fotos Scroller"
+
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:896
+msgid "Show"
+msgstr "Ver"
+
+#: mods/albums/public/shortcodes/photos-slider/photos-slider.php:34
+msgctxt "vc inline dummy"
+msgid "Photos scroller"
+msgstr "Fotos Scroller"
+
+#: mods/albums/public/shortcodes/photos-jgrid/photos-jgrid.php:27
+msgctxt "vc inline dummy"
+msgid "Photos Justified Grid"
+msgstr "Fotos en cuadrícula lineal (grid) justificada"
+
+#: mods/albums/public/shortcodes/albums-slider/albums-slider.php:29
+msgctxt "vc inline dummy"
+msgid "Albums posts scroller"
+msgstr "Scroller en entradas de álbumes"
+
+#: mods/albums/public/shortcodes/photos-masonry/photos-masonry.php:27
+msgctxt "vc inline dummy"
+msgid "Photos masonry"
+msgstr "Fotos en cuadrícula irregular (masonry)"
+
+#: mods/albums/public/shortcodes/albums-jgrid/albums-jgrid.php:29
+msgctxt "vc inline dummy"
+msgid "Albums Justified Grid"
+msgstr "Álbumes en cuadrícula justificada (grid)"
+
+#: mods/albums/public/shortcodes/albums/albums.php:29
+msgctxt "vc inline dummy"
+msgid "Albums Masonry & Grid"
+msgstr "Álbumes en cuadrícula irregular (masonry) y cuadrícula lineal (grid)"
+
+#: mods/albums/public/widgets/photos.php:28
+#: mods/albums/public/widgets/photos.php:33
+msgctxt "widget"
+msgid "Photos"
+msgstr "Fotos"
+
+#: mods/albums/public/widgets/photos.php:206
+msgctxt "widget"
+msgid "Show Photos from following categories:"
+msgstr "Mostrar las fotos de las siguientes categorías:"
+
+#: mods/albums/public/widgets/photos.php:238
+msgctxt "widget"
+msgid "How many:"
+msgstr "Cuantas"
+
+#: mods/albums/admin/class-mod-albums-admin.php:15
+#: mods/albums/admin/class-mod-albums-admin.php:26
+msgctxt "backend albums"
+msgid "Photo Albums"
+msgstr "Álbumes de fotos"
+
+#: mods/albums/admin/class-mod-albums-admin.php:16
+msgctxt "backend albums"
+msgid "Photo Album"
+msgstr "Álbum de fotos"
+
+#: mods/albums/admin/class-mod-albums-admin.php:17
+#: mods/albums/admin/class-mod-albums-admin.php:18
+msgctxt "backend albums"
+msgid "Add New Album"
+msgstr "Nuevo álbum"
+
+#: mods/albums/admin/class-mod-albums-admin.php:19
+msgctxt "backend albums"
+msgid "Edit Album"
+msgstr "Editar álbum"
+
+#: mods/albums/admin/class-mod-albums-admin.php:20
+msgctxt "backend albums"
+msgid "New Album"
+msgstr "Nuevo álbum"
+
+#: mods/albums/admin/class-mod-albums-admin.php:21
+msgctxt "backend albums"
+msgid "View Album"
+msgstr "Ver álbum"
+
+#: mods/albums/admin/class-mod-albums-admin.php:22
+msgctxt "backend albums"
+msgid "Search for Albums"
+msgstr "Buscar álbumes"
+
+#: mods/albums/admin/class-mod-albums-admin.php:23
+msgctxt "backend albums"
+msgid "No Albums Found"
+msgstr "No se encontraron Álbumes."
+
+#: mods/albums/admin/class-mod-albums-admin.php:24
+msgctxt "backend albums"
+msgid "No Albums Found in Trash"
+msgstr "No hay álbumes de fotos en la papelera"
+
+#: mods/albums/admin/class-mod-albums-admin.php:51
+#: mods/albums/admin/class-mod-albums-admin.php:61
+msgctxt "backend albums"
+msgid "Album Categories"
+msgstr "Album Categorías"
+
+#: mods/albums/admin/class-mod-albums-admin.php:52
+msgctxt "backend albums"
+msgid "Album Category"
+msgstr "Album Categoría"
+
+#: mods/albums/admin/class-mod-albums-admin.php:53
+msgctxt "backend albums"
+msgid "Search in Category"
+msgstr "Buscar en categoría"
+
+#: mods/albums/admin/class-mod-albums-admin.php:54
+msgctxt "backend albums"
+msgid "Photo Album Categories"
+msgstr "Categorías álbumes de fotos"
+
+#: mods/albums/admin/class-mod-albums-admin.php:55
+msgctxt "backend albums"
+msgid "Parent Category"
+msgstr "Categoría superior"
+
+#: mods/albums/admin/class-mod-albums-admin.php:56
+msgctxt "backend albums"
+msgid "Parent Category:"
+msgstr "Categoría superior:"
+
+#: mods/albums/admin/class-mod-albums-admin.php:57
+msgctxt "backend albums"
+msgid "Edit Category"
+msgstr "Editar Categoría"
+
+#: mods/albums/admin/class-mod-albums-admin.php:58
+msgctxt "backend albums"
+msgid "Update Category"
+msgstr "Actualizar Categoría"
+
+#: mods/albums/admin/class-mod-albums-admin.php:59
+msgctxt "backend albums"
+msgid "Add New Album Category"
+msgstr "Añadir nuevo álbum Categoría"
+
+#: mods/albums/admin/class-mod-albums-admin.php:60
+msgctxt "backend albums"
+msgid "New Album Category Name"
+msgstr "Nombre de Categoría Nueva"
+
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:20
+msgctxt "backend metabox"
+msgid "Display Photo & Video Albums"
+msgstr "Mostrar álbumes de fotos y vídeos"
+
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:40
+msgctxt "backend"
+msgid "ALL your Photo & Video albums are being displayed on this page!"
+msgstr "¡TODOS sus álbumes de fotos y vídeos se muestran en esta página!"
+
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:41
+msgctxt "backend"
+msgid "By default all your Albums will be displayed on this page. "
+msgstr "Por defecto, todos sus álbumes se mostrarán en esta página."
+
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:42
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:371
+msgctxt "backend"
+msgid ""
+"But you can specify which Album(s) or Album category(s) will (or will not) "
+"be shown."
+msgstr ""
+"Pero puede especificar qué álbumes o categorías de álbumes serán (o no "
+"serán) mostrados."
+
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:47
+msgctxt "backend"
+msgid " &mdash; all Albums will be shown on this page."
+msgstr "&mdash; Todos los álbumes se mostrarán en esta página."
+
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:51
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:380
+msgctxt "backend"
+msgid " &mdash; choose Album(s) or Album category(s) to be shown on this page."
+msgstr ""
+"&mdash; elija el (los) álbum(es) o categoría(s) de álbum que se mostrarán en "
+"esta página."
+
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:55
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:384
+msgctxt "backend"
+msgid ""
+" &mdash; choose which Album(s) or Album category(s) will be excluded from "
+"displaying on this page."
+msgstr ""
+"&mdash; Elija qué álbum(es) o categoría(s) de álbum será(n) excluído(s) de "
+"mostrarse en esta página."
+
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:71
+msgctxt "backend metabox"
+msgid "Albums Options"
+msgstr "Opciones de álbum"
+
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:102
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:194
+msgctxt "backend metabox"
+msgid "Show albums descriptions:"
+msgstr "Mostrar descripciones de álbumes:"
+
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:154
+msgctxt "backend metabox"
+msgid "Background under album:"
+msgstr "Fondo bajo el álbum:"
+
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:177
+msgctxt "backend metabox"
+msgid "Make all albums the same width:"
+msgstr "Hacer que todos los álbumes tengan el mismo ancho:"
+
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:265
+msgctxt "backend metabox"
+msgid "Number of albums to display on one page:"
+msgstr "Número de álbumes a mostrar en una página:"
+
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:285
+msgctxt "backend metabox"
+msgid "Show albums titles:"
+msgstr "Mostrar títulos de álbumes:"
+
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:293
+msgctxt "backend metabox"
+msgid "Show albums excerpts:"
+msgstr "Mostrar extractos de álbumes:"
+
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:300
+msgctxt "backend metabox"
+msgid "Show album categories:"
+msgstr "Mostrar categorías del álbum:"
+
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:303
+msgctxt "backend metabox"
+msgid "Show album date:"
+msgstr "Mostrar fecha del álbum:"
+
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:306
+msgctxt "backend metabox"
+msgid "Show album author:"
+msgstr "Mostrar autor del álbum:"
+
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:309
+msgctxt "backend metabox"
+msgid "Show album comments:"
+msgstr "Mostrar comentarios del álbum:"
+
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:312
+msgctxt "backend metabox"
+msgid "Show number of images &amp; videos:"
+msgstr "Mostrar número de imágenes y vídeos:"
+
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:317
+msgctxt "backend metabox"
+msgid "Show albums filter:"
+msgstr "Mostrar filtro de álbumes:"
+
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:349
+msgctxt "backend metabox"
+msgid "Display Photos & Videos"
+msgstr "Mostrar fotos y vídeos"
+
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:369
+msgctxt "backend"
+msgid ""
+"ALL Photos & Videos from all your Albums are being displayed on this page!"
+msgstr ""
+"TODAS las fotos y vídeos de todos sus álbumes se muestran en esta página!"
+
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:370
+msgctxt "backend"
+msgid "By default all your Photos & Videos will be displayed on this page. "
+msgstr "Por defecto, todas las fotos y vídeos se mostrarán en esta página."
+
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:376
+msgctxt "backend"
+msgid ""
+" &mdash; all Photos & Videos from all Albums will be shown on this page."
+msgstr ""
+"&mdash; Todas las fotos y vídeos de todos los álbumes se mostrarán en esta "
+"página."
+
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:400
+msgctxt "backend metabox"
+msgid "Gallery Options"
+msgstr "Opciones de Galería"
+
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:444
+msgctxt "backend metabox"
+msgid "Number of items to display on one page:"
+msgstr "Número de elementos a mostrar en una página:"
+
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:463
+msgctxt "backend metabox"
+msgid "Show items titles:"
+msgstr "Mostrar títulos de los elementos:"
+
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:472
+#, fuzzy
+msgctxt "backend metabox"
+msgid "Show items descriptions:"
+msgstr "Mostrar subtítulos de los elementos:"
+
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:496
+msgctxt "backend metabox"
+msgid "Add/Edit Media"
+msgstr "Añadir / Editar medios"
+
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:519
+msgctxt "backend metabox"
+msgid "Album Options"
+msgstr "Opciones del álbum:"
+
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:537
+msgctxt "backend metabox"
+msgid "Open album:"
+msgstr "Abrir álbum:"
+
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:542
+msgctxt "backend metabox"
+msgid "Lightbox"
+msgstr "Lightbox"
+
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:543
+msgctxt "backend metabox"
+msgid "Album page"
+msgstr "Página del álbum"
+
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:561
+msgctxt "backend metabox"
+msgid "PhotoScroller"
+msgstr "PhotoScroller"
+
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:562
+msgctxt "backend metabox"
+msgid "Masonry & Grid"
+msgstr "Cuadrícula irregular y cuadrícula lineal"
+
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:563
+msgctxt "backend metabox"
+msgid "Justified Grid"
+msgstr "Cuadrícula"
+
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:595
+msgctxt "backend metabox"
+msgid "Columns:"
+msgstr "Columnas:"
+
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:634
+msgctxt "backend metabox"
+msgid "Layout:"
+msgstr "Diseño:"
+
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:639
+msgctxt "backend metabox"
+msgid "Fullscreen slideshow"
+msgstr "Pantalla completa"
+
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:640
+msgctxt "backend metabox"
+msgid "Fullscreen slideshow + text area"
+msgstr "Presentación de diapositivas a pantalla completa + área de texto"
+
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:650
+msgctxt "backend metabox"
+msgid "Background under slideshow:"
+msgstr "Fondo bajo el presentador de diapositivas"
+
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:660
+msgctxt "backend metabox"
+msgid "Show pixel overlay:"
+msgstr "Mostrar superposición de píxeles:"
+
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:669
+msgctxt "backend metabox"
+msgid "Top padding:"
+msgstr "Relleno superior:"
+
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:681
+msgctxt "backend metabox"
+msgid "Bottom padding:"
+msgstr "Relleno inferior:"
+
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:693
+msgctxt "backend metabox"
+msgid "Side paddings:"
+msgstr "Padding lateral"
+
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:705
+msgctxt "backend metabox"
+msgid "Inactive image opacity (%):"
+msgstr "Opacidad de la imagen inactiva (%):"
+
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:716
+msgctxt "backend metabox"
+msgid "Thumbnails:"
+msgstr "Miniaturas:"
+
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:721
+msgctxt "backend metabox"
+msgid "Show by default"
+msgstr "Mostrar por defecto"
+
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:722
+msgctxt "backend metabox"
+msgid "Hide by default"
+msgstr "Ocultar por defecto"
+
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:723
+msgctxt "backend metabox"
+msgid "Disable"
+msgstr "Desactivar"
+
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:733
+msgctxt "backend metabox"
+msgid "Thumbnails width:"
+msgstr "Anchura de las miniaturas:"
+
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:745
+msgctxt "backend metabox"
+msgid "Thumbnails height:"
+msgstr "Altura de las miniaturas:"
+
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:757
+msgctxt "backend metabox"
+msgid "Autoplay:"
+msgstr "Auto reproducción:"
+
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:762
+msgctxt "backend metabox"
+msgid "Play"
+msgstr "Reproducir"
+
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:763
+msgctxt "backend metabox"
+msgid "Paused"
+msgstr "Pausa"
+
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:773
+msgctxt "backend metabox"
+msgid "Autoplay speed:"
+msgstr "Velocidad de la reproducción automática:"
+
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:786
+msgctxt "backend metabox"
+msgid "Landscape images"
+msgstr "Imágenes apaisadas"
+
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:813
+msgctxt "backend metabox"
+msgid "Portrait images"
+msgstr "Imágenes verticales"
+
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:854
+msgctxt "backend metabox"
+msgid "Masonry"
+msgstr "Cuadrícula Irregular"
+
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:855
+msgctxt "backend metabox"
+msgid "Grid"
+msgstr "Cuadrícula"
+
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:957
+msgctxt "backend metabox"
+msgid "Exclude featured image from the album:"
+msgstr "Excluir Foto principal del álbum:"
+
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:969
+msgctxt "backend metabox"
+msgid "Album preview width:"
+msgstr "Ancho previsualización del álbum:"
+
+#: mods/albums/admin/options/options-archive-albums.php:12
+msgctxt "theme-options"
+msgid "Albums archives"
+msgstr "Archivos Álbumes"
+
+#: mods/albums/admin/options/options-archive-albums.php:16
+msgctxt "theme-options"
+msgid "Albums category template"
+msgstr "Álbumes categoría de plantilla"
+
+#: mods/albums/admin/options/options-albums.php:19
+#, fuzzy
+msgctxt "theme-options"
+msgid "Gallery"
+msgstr "Galería"
+
+#: mods/albums/admin/options/options-albums.php:28
+msgctxt "theme-options"
+msgid "Show in gallery albums"
+msgstr "Mostrar en galería álbumes"
+
+#: mods/albums/admin/options/options-albums.php:146
+msgctxt "theme-options"
+msgid "Comments"
+msgstr "Comentarios"
+
+#: mods/albums/admin/options/options-slug-albums.php:14
+msgctxt "theme-options"
+msgid "Albums slug"
+msgstr "Álbumes slug"
+
+#: mods/benefits/public/shortcodes/mod-benefits-shortcodes-bridge.php:12
+msgid "Benefits"
+msgstr "Beneficios"
+
+#: mods/benefits/public/shortcodes/mod-benefits-shortcodes-bridge.php:26
+msgid ""
+"Note: By default, all your benefits will be displayed. <br>If you want to "
+"narrow output, select category(s) above. Only selected categories will be "
+"displayed."
+msgstr ""
+"Nota: Por defecto, se mostrarán todos sus beneficios. <br> Si desea acotar "
+"la salida, seleccione la categoría (s) anterior. Sólo se mostrarán las "
+"categorías seleccionadas."
+
+#: mods/benefits/public/shortcodes/mod-benefits-shortcodes-bridge.php:50
+msgid "Benefits layout"
+msgstr "Distribución de beneficios"
+
+#: mods/benefits/public/shortcodes/mod-benefits-shortcodes-bridge.php:63
+msgid "Icons backgrounds"
+msgstr "Iconos fondos"
+
+#: mods/benefits/public/shortcodes/mod-benefits-shortcodes-bridge.php:75
+msgid "Border radius for image backgrounds"
+msgstr "Radio Frontera de fondos de imágenes"
+
+#: mods/benefits/public/shortcodes/mod-benefits-shortcodes-bridge.php:87
+msgid "Border radius (in px)"
+msgstr "Radio de Borde (px)"
+
+#: mods/benefits/public/shortcodes/mod-benefits-shortcodes-bridge.php:102
+msgid "Background size (in px)"
+msgstr "Tamaño de fondo (en px)"
+
+#: mods/benefits/public/shortcodes/mod-benefits-shortcodes-bridge.php:111
+msgid "Backgrounds color"
+msgstr "Fondos de color"
+
+#: mods/benefits/public/shortcodes/mod-benefits-shortcodes-bridge.php:139
+msgid "Backgrounds hover color"
+msgstr "Color del fondo al pasar por encima"
+
+#: mods/benefits/public/shortcodes/mod-benefits-shortcodes-bridge.php:167
+msgid "Icon size (in px)"
+msgstr "Tamaño de icono (en píxeles)"
+
+#: mods/benefits/public/shortcodes/mod-benefits-shortcodes-bridge.php:176
+msgid "Icons color"
+msgstr "Color de los iconos"
+
+#: mods/benefits/public/shortcodes/mod-benefits-shortcodes-bridge.php:204
+msgid "Icons hover color"
+msgstr "Fondo iconos al pasar por encima"
+
+#: mods/benefits/public/shortcodes/mod-benefits-shortcodes-bridge.php:232
+msgid "Decorative lines"
+msgstr "Número de líneas"
+
+#: mods/benefits/public/shortcodes/mod-benefits-shortcodes-bridge.php:246
+msgid "Title font size"
+msgstr "Tamaño de la fuente del título"
+
+#: mods/benefits/public/shortcodes/mod-benefits-shortcodes-bridge.php:263
+msgid "Content font size"
+msgstr "Contenido tamaño de la fuente"
+
+#: mods/benefits/public/shortcodes/mod-benefits-shortcodes-bridge.php:276
+msgid "Number of benefits to show"
+msgstr "Número de beneficios para mostrar"
+
+#: mods/benefits/public/shortcodes/mod-benefits-shortcodes-bridge.php:285
+msgid "Open link in"
+msgstr "Abrir enlace en"
+
+#: mods/benefits/public/shortcodes/benefits-vc/benefits-vc.php:43
+msgctxt "vc inline dummy"
+msgid "Benefits"
+msgstr "Beneficios"
+
+#: mods/benefits/admin/class-mod-benefits-admin.php:15
+#: mods/benefits/admin/class-mod-benefits-admin.php:26
+msgctxt "backend benefits"
+msgid "Benefits"
+msgstr "Beneficios"
+
+#: mods/benefits/admin/class-mod-benefits-admin.php:16
+msgctxt "backend benefits"
+msgid "Benefit"
+msgstr "Beneficio"
+
+#: mods/benefits/admin/class-mod-benefits-admin.php:17
+#: mods/benefits/admin/class-mod-benefits-admin.php:18
+msgctxt "backend benefits"
+msgid "Add New Benefit"
+msgstr "Añadir nuevo beneficio"
+
+#: mods/benefits/admin/class-mod-benefits-admin.php:19
+msgctxt "backend benefits"
+msgid "Edit Item"
+msgstr "Editar artículo"
+
+#: mods/benefits/admin/class-mod-benefits-admin.php:20
+msgctxt "backend benefits"
+msgid "New Item"
+msgstr "Nuevo artículo"
+
+#: mods/benefits/admin/class-mod-benefits-admin.php:21
+msgctxt "backend benefits"
+msgid "View Item"
+msgstr "Ver artículo"
+
+#: mods/benefits/admin/class-mod-benefits-admin.php:22
+msgctxt "backend benefits"
+msgid "Search Items"
+msgstr "Buscar elementos"
+
+#: mods/benefits/admin/class-mod-benefits-admin.php:23
+msgctxt "backend benefits"
+msgid "No items found"
+msgstr "No se han encontrado artículos"
+
+#: mods/benefits/admin/class-mod-benefits-admin.php:24
+msgctxt "backend benefits"
+msgid "No items found in Trash"
+msgstr "No se encontraron artículos en la pqpelera."
+
+#: mods/benefits/admin/class-mod-benefits-admin.php:52
+#: mods/benefits/admin/class-mod-benefits-admin.php:55
+#: mods/benefits/admin/class-mod-benefits-admin.php:62
+msgctxt "backend partners"
+msgid "Benefit Categories"
+msgstr "Categoría de beneficios"
+
+#: mods/benefits/admin/class-mod-benefits-admin.php:53
+msgctxt "backend partners"
+msgid "Benefit Category"
+msgstr "Categoría de beneficios"
+
+#: mods/benefits/admin/class-mod-benefits-admin.php:60
+msgctxt "backend partners"
+msgid "Add New Benefit Category"
+msgstr "Añadir nueva Categoría de beneficios"
+
+#: mods/benefits/admin/class-mod-benefits-admin.php:61
+msgctxt "backend partners"
+msgid "New Benefit Category Name"
+msgstr "Nombre de nueva Categoría"
+
+#: mods/benefits/admin/metaboxes/metaboxes-benefits.php:34
+msgctxt "backend metabox"
+msgid "Icon code (Font Awesome):"
+msgstr "Código del icono (Font Awesome):"

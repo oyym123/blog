@@ -1,0 +1,5408 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: The7.2 v2.0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-09-23 11:09+0300\n"
+"PO-Revision-Date: 2016-09-23 11:09+0300\n"
+"Last-Translator: \n"
+"Language-Team: German\n"
+"Language: de-DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Poedit-Basepath: ../\n"
+"X-Textdomain-Support: yes\n"
+"X-Loco-Target-Locale: de_DE\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/class-the7pt-admin.php:36
+#, fuzzy
+msgctxt "backend"
+msgid "Post Types"
+msgstr "Eintragsoptionen"
+
+#: includes/class-the7pt-admin.php:77
+#, fuzzy
+msgid "Settings"
+msgstr "Seitenleiste Einstellungen"
+
+#: includes/theme-options/modules.php:13
+msgctxt "theme-options"
+msgid "Advanced"
+msgstr "Erweitert"
+
+#: includes/theme-options/modules.php:15
+#, fuzzy
+msgctxt "theme-options"
+msgid "Post types"
+msgstr "Zitat Art"
+
+#: includes/theme-options/modules.php:19
+#: mods/portfolio/admin/options/options-portfolio.php:19
+msgctxt "theme-options"
+msgid "Portfolio"
+msgstr ""
+
+#: includes/theme-options/modules.php:23 includes/theme-options/modules.php:34
+#: includes/theme-options/modules.php:45 includes/theme-options/modules.php:56
+#: includes/theme-options/modules.php:67 includes/theme-options/modules.php:78
+#: includes/theme-options/modules.php:89
+#: mods/portfolio/admin/options/options-portfolio.php:35
+#: mods/portfolio/admin/options/options-portfolio.php:62
+#: mods/portfolio/admin/options/options-portfolio.php:102
+#: mods/portfolio/admin/options/options-portfolio.php:171
+#: mods/albums/admin/options/options-albums.php:35
+#: mods/albums/admin/options/options-albums.php:62
+#: mods/albums/admin/options/options-albums.php:102
+msgctxt "theme-options"
+msgid "Enabled"
+msgstr "Aktiviert"
+
+#: includes/theme-options/modules.php:24 includes/theme-options/modules.php:35
+#: includes/theme-options/modules.php:46 includes/theme-options/modules.php:57
+#: includes/theme-options/modules.php:68 includes/theme-options/modules.php:79
+#: includes/theme-options/modules.php:90
+#: mods/portfolio/admin/options/options-portfolio.php:39
+#: mods/portfolio/admin/options/options-portfolio.php:66
+#: mods/portfolio/admin/options/options-portfolio.php:106
+#: mods/portfolio/admin/options/options-portfolio.php:175
+#: mods/albums/admin/options/options-albums.php:39
+#: mods/albums/admin/options/options-albums.php:66
+#: mods/albums/admin/options/options-albums.php:106
+msgctxt "theme-options"
+msgid "Disabled"
+msgstr "Deaktiviert"
+
+#: includes/theme-options/modules.php:30
+msgctxt "theme-options"
+msgid "Testimonials"
+msgstr ""
+
+#: includes/theme-options/modules.php:41
+msgctxt "theme-options"
+msgid "Team"
+msgstr ""
+
+#: includes/theme-options/modules.php:52
+msgctxt "theme-options"
+msgid "Partners, Clients, etc."
+msgstr ""
+
+#: includes/theme-options/modules.php:63
+msgctxt "theme-options"
+msgid "Benefits"
+msgstr ""
+
+#: includes/theme-options/modules.php:74
+msgctxt "theme-options"
+msgid "Photo Albums"
+msgstr ""
+
+#: includes/theme-options/modules.php:85
+msgctxt "theme-options"
+msgid "Slideshows"
+msgstr ""
+
+#: mods/slideshow/public/mod-slideshow-helpers.php:87
+#, fuzzy
+msgid "video"
+msgstr "1 Video"
+
+#: mods/slideshow/public/mod-slideshow-helpers.php:95
+msgid "details"
+msgstr ""
+
+#: mods/slideshow/public/shortcodes/mod-slideshow-shortcodes-bridge.php:15
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:438
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:451
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:470
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:478
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:266
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:269
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:296
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:304
+#, fuzzy
+msgid "Slideshow"
+msgstr "Slideshows"
+
+#: mods/slideshow/public/shortcodes/mod-slideshow-shortcodes-bridge.php:16
+#: mods/logos/public/shortcodes/mod-logos-shortcodes-bridge.php:16
+#: mods/team/public/shortcodes/mod-team-shortcodes-bridge.php:15
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:331
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:496
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:712
+#: mods/testimonials/public/shortcodes/mod-testimonials-shortcodes-bridge.php:16
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:721
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:769
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:793
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:826
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:850
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:886
+#: mods/benefits/public/shortcodes/mod-benefits-shortcodes-bridge.php:16
+msgid "by Dream-Theme"
+msgstr "von Dream-Theme"
+
+#: mods/slideshow/public/shortcodes/mod-slideshow-shortcodes-bridge.php:21
+msgid "Display slideshow(s)"
+msgstr "Zeige Slideshow(s)"
+
+#: mods/slideshow/public/shortcodes/mod-slideshow-shortcodes-bridge.php:22
+msgid ""
+"Attention: Do not ignore this setting! Otherwise only one (newest) slideshow "
+"will be displayed."
+msgstr ""
+"Achtung: Ignorieren Sie diese Einstellung nicht! Ansonsten wird nur eine "
+"(die neuste) Slideshow angezeigt."
+
+#: mods/slideshow/public/shortcodes/mod-slideshow-shortcodes-bridge.php:29
+msgid "Proportions: width"
+msgstr ""
+
+#: mods/slideshow/public/shortcodes/mod-slideshow-shortcodes-bridge.php:35
+msgid "Proportions: height"
+msgstr ""
+
+#: mods/slideshow/public/shortcodes/mod-slideshow-shortcodes-bridge.php:41
+msgid "Image Scale Mode"
+msgstr ""
+
+#: mods/slideshow/public/shortcodes/mod-slideshow-shortcodes-bridge.php:50
+msgid "On page load slideshow is"
+msgstr ""
+
+#: mods/slideshow/public/shortcodes/mod-slideshow-shortcodes-bridge.php:59
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:471
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:291
+msgid "Autoslide interval (in milliseconds)"
+msgstr "Autoslide interval (in millisecondns)"
+
+#: mods/slideshow/public/shortcodes/slideshow/slideshow.php:95
+msgid "No posts selected"
+msgstr "Keine Einträge markiert"
+
+#: mods/slideshow/admin/class-mod-slideshow-admin.php:15
+#: mods/slideshow/admin/class-mod-slideshow-admin.php:26
+msgctxt "backend albums"
+msgid "Slideshows"
+msgstr "Slideshows"
+
+#: mods/slideshow/admin/class-mod-slideshow-admin.php:16
+msgctxt "backend albums"
+msgid "Slider"
+msgstr ""
+
+#: mods/slideshow/admin/class-mod-slideshow-admin.php:17
+msgctxt "backend albums"
+msgid "Add New"
+msgstr ""
+
+#: mods/slideshow/admin/class-mod-slideshow-admin.php:18
+msgctxt "backend albums"
+msgid "Add New Slider"
+msgstr "Slider hinzufügen"
+
+#: mods/slideshow/admin/class-mod-slideshow-admin.php:19
+msgctxt "backend albums"
+msgid "Edit Slider"
+msgstr "Slider editieren"
+
+#: mods/slideshow/admin/class-mod-slideshow-admin.php:20
+msgctxt "backend albums"
+msgid "New Slider"
+msgstr "Neuer Slider"
+
+#: mods/slideshow/admin/class-mod-slideshow-admin.php:21
+msgctxt "backend albums"
+msgid "View Slider"
+msgstr ""
+
+#: mods/slideshow/admin/class-mod-slideshow-admin.php:22
+msgctxt "backend albums"
+msgid "Search for Slideshow"
+msgstr "Search for Slideshow"
+
+#: mods/slideshow/admin/class-mod-slideshow-admin.php:23
+msgctxt "backend albums"
+msgid "No Slideshow Found"
+msgstr "Keine Slideshow gefunden"
+
+#: mods/slideshow/admin/class-mod-slideshow-admin.php:24
+msgctxt "backend albums"
+msgid "No Slideshow Found in Trash"
+msgstr "Keine Slideshow im Papierkorb gefunden"
+
+#: mods/slideshow/admin/metaboxes/metaboxes-slideshow.php:19
+msgctxt "backend metabox"
+msgid "Add/Edit Slides"
+msgstr "Slides ändern/editieren"
+
+#: mods/logos/public/shortcodes/mod-logos-shortcodes-bridge.php:12
+msgid "Clients"
+msgstr ""
+
+#: mods/logos/public/shortcodes/mod-logos-shortcodes-bridge.php:23
+#: mods/team/public/shortcodes/mod-team-shortcodes-bridge.php:19
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:164
+#: mods/testimonials/public/shortcodes/mod-testimonials-shortcodes-bridge.php:24
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:90
+#: mods/benefits/public/shortcodes/mod-benefits-shortcodes-bridge.php:24
+msgid "Categories"
+msgstr ""
+
+#: mods/logos/public/shortcodes/mod-logos-shortcodes-bridge.php:25
+msgid ""
+"Note: By default, all your logotypes will be displayed. <br>If you want to "
+"narrow output, select category(s) above. Only selected categories will be "
+"displayed."
+msgstr ""
+"Anmerkung: Standardmässig wird alle Logotypen angezeigt. <br> Falls Sie die "
+"Anzeige eingrenzen wollen, selektieren Sie die gewünschte(n) Kategorie(n) "
+"oben. Nur ausgewählte Kategorien werden angezeigt. "
+
+#: mods/logos/public/shortcodes/mod-logos-shortcodes-bridge.php:31
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:618
+#: mods/testimonials/public/shortcodes/mod-testimonials-shortcodes-bridge.php:64
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:651
+#: mods/benefits/public/shortcodes/mod-benefits-shortcodes-bridge.php:33
+msgid "Column minimum width (px)"
+msgstr "Minimale Spaltenbreite (px):"
+
+#: mods/logos/public/shortcodes/mod-logos-shortcodes-bridge.php:40
+#: mods/team/public/shortcodes/mod-team-shortcodes-bridge.php:162
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:632
+#: mods/testimonials/public/shortcodes/mod-testimonials-shortcodes-bridge.php:79
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:665
+#: mods/benefits/public/shortcodes/mod-benefits-shortcodes-bridge.php:42
+msgid "Desired columns number"
+msgstr "Gewünschte Spalten Nummer"
+
+#: mods/logos/public/shortcodes/mod-logos-shortcodes-bridge.php:48
+msgid "Number of logotypes to show"
+msgstr "Anzahl zu zeigender Logotypen"
+
+#: mods/logos/public/shortcodes/mod-logos-shortcodes-bridge.php:56
+#: mods/team/public/shortcodes/mod-team-shortcodes-bridge.php:40
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:135
+#: mods/testimonials/public/shortcodes/mod-testimonials-shortcodes-bridge.php:146
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:60
+#: mods/benefits/public/shortcodes/mod-benefits-shortcodes-bridge.php:297
+msgid "Order by"
+msgstr "Sortieren nach"
+
+#: mods/logos/public/shortcodes/mod-logos-shortcodes-bridge.php:67
+#: mods/team/public/shortcodes/mod-team-shortcodes-bridge.php:52
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:136
+#: mods/testimonials/public/shortcodes/mod-testimonials-shortcodes-bridge.php:157
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:61
+#: mods/benefits/public/shortcodes/mod-benefits-shortcodes-bridge.php:308
+msgid "Select how to sort retrieved posts."
+msgstr "Wählen Sie aus, wie die Einträge sortiert werden sollen."
+
+#: mods/logos/public/shortcodes/mod-logos-shortcodes-bridge.php:72
+#: mods/team/public/shortcodes/mod-team-shortcodes-bridge.php:56
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:152
+#: mods/testimonials/public/shortcodes/mod-testimonials-shortcodes-bridge.php:164
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:76
+#: mods/benefits/public/shortcodes/mod-benefits-shortcodes-bridge.php:314
+msgid "Order way"
+msgstr "Art der Sortierung"
+
+#: mods/logos/public/shortcodes/mod-logos-shortcodes-bridge.php:78
+#: mods/team/public/shortcodes/mod-team-shortcodes-bridge.php:63
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:153
+#: mods/testimonials/public/shortcodes/mod-testimonials-shortcodes-bridge.php:170
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:77
+#: mods/benefits/public/shortcodes/mod-benefits-shortcodes-bridge.php:320
+msgid "Designates the ascending or descending order."
+msgstr "Bezeichnet die aufsteinde oder absteigende Sortierung"
+
+#: mods/logos/public/shortcodes/mod-logos-shortcodes-bridge.php:83
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:222
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:338
+#: mods/benefits/public/shortcodes/mod-benefits-shortcodes-bridge.php:326
+msgid "Animation"
+msgstr ""
+
+#: mods/logos/public/shortcodes/mod-logos-shortcodes-bridge.php:92
+#: mods/benefits/public/shortcodes/mod-benefits-shortcodes-bridge.php:336
+msgid "Animate"
+msgstr "Animate"
+
+#: mods/logos/public/widgets/logos.php:28
+#: mods/logos/public/widgets/logos.php:33
+msgctxt "widget"
+msgid "Partners & clients"
+msgstr "Partner & Klienten"
+
+#: mods/logos/public/widgets/logos.php:132
+#: mods/team/public/widgets/team.php:149
+#: mods/portfolio/public/widgets/portfolio.php:173
+#: mods/testimonials/public/widgets/testimonials-list.php:127
+#: mods/testimonials/public/widgets/testimonials-slider.php:131
+#: mods/albums/public/widgets/photos.php:190
+msgctxt "widget"
+msgid "Order by ID"
+msgstr "Sortierung nach ID"
+
+#: mods/logos/public/widgets/logos.php:133
+#: mods/team/public/widgets/team.php:150
+#: mods/portfolio/public/widgets/portfolio.php:174
+#: mods/testimonials/public/widgets/testimonials-list.php:128
+#: mods/testimonials/public/widgets/testimonials-slider.php:132
+#: mods/albums/public/widgets/photos.php:191
+msgctxt "widget"
+msgid "Order by author"
+msgstr "Sortierung nach Autor"
+
+#: mods/logos/public/widgets/logos.php:134
+#: mods/team/public/widgets/team.php:151
+#: mods/portfolio/public/widgets/portfolio.php:175
+#: mods/testimonials/public/widgets/testimonials-list.php:129
+#: mods/testimonials/public/widgets/testimonials-slider.php:133
+#: mods/albums/public/widgets/photos.php:192
+msgctxt "widget"
+msgid "Order by title"
+msgstr "Sortierung nach Titel"
+
+#: mods/logos/public/widgets/logos.php:135
+#: mods/team/public/widgets/team.php:152
+#: mods/portfolio/public/widgets/portfolio.php:176
+#: mods/testimonials/public/widgets/testimonials-list.php:130
+#: mods/testimonials/public/widgets/testimonials-slider.php:134
+#: mods/albums/public/widgets/photos.php:193
+msgctxt "widget"
+msgid "Order by date"
+msgstr "Sortierung nach Datum"
+
+#: mods/logos/public/widgets/logos.php:136
+#: mods/team/public/widgets/team.php:153
+#: mods/portfolio/public/widgets/portfolio.php:177
+#: mods/testimonials/public/widgets/testimonials-list.php:131
+#: mods/testimonials/public/widgets/testimonials-slider.php:135
+#: mods/albums/public/widgets/photos.php:194
+msgctxt "widget"
+msgid "Order by modified"
+msgstr "Sortierung nach Änderung"
+
+#: mods/logos/public/widgets/logos.php:137
+#: mods/team/public/widgets/team.php:154
+#: mods/portfolio/public/widgets/portfolio.php:178
+#: mods/testimonials/public/widgets/testimonials-list.php:132
+#: mods/testimonials/public/widgets/testimonials-slider.php:136
+#: mods/albums/public/widgets/photos.php:195
+msgctxt "widget"
+msgid "Order by rand"
+msgstr ""
+
+#: mods/logos/public/widgets/logos.php:138
+#: mods/team/public/widgets/team.php:155
+#: mods/portfolio/public/widgets/portfolio.php:179
+#: mods/testimonials/public/widgets/testimonials-list.php:133
+#: mods/testimonials/public/widgets/testimonials-slider.php:137
+#: mods/albums/public/widgets/photos.php:196
+msgctxt "widget"
+msgid "Order by menu"
+msgstr "Sortierung nach Menu"
+
+#: mods/logos/public/widgets/logos.php:143
+msgctxt "widget"
+msgid "Title (optional):"
+msgstr ""
+
+#: mods/logos/public/widgets/logos.php:148
+#: mods/team/public/widgets/team.php:165
+#: mods/portfolio/public/widgets/portfolio.php:189
+#: mods/testimonials/public/widgets/testimonials-list.php:143
+#: mods/testimonials/public/widgets/testimonials-slider.php:147
+msgctxt "widget"
+msgid "Category:"
+msgstr "Kategorie:"
+
+#: mods/logos/public/widgets/logos.php:153
+#: mods/team/public/widgets/team.php:170
+#: mods/portfolio/public/widgets/portfolio.php:194
+#: mods/testimonials/public/widgets/testimonials-list.php:148
+#: mods/testimonials/public/widgets/testimonials-slider.php:152
+#: mods/albums/public/widgets/photos.php:211
+msgctxt "widget"
+msgid "All"
+msgstr ""
+
+#: mods/logos/public/widgets/logos.php:154
+#: mods/team/public/widgets/team.php:171
+#: mods/portfolio/public/widgets/portfolio.php:195
+#: mods/testimonials/public/widgets/testimonials-list.php:149
+#: mods/testimonials/public/widgets/testimonials-slider.php:153
+#: mods/albums/public/widgets/photos.php:212
+msgctxt "widget"
+msgid "Only"
+msgstr ""
+
+#: mods/logos/public/widgets/logos.php:155
+#: mods/team/public/widgets/team.php:172
+#: mods/portfolio/public/widgets/portfolio.php:196
+#: mods/testimonials/public/widgets/testimonials-list.php:150
+#: mods/testimonials/public/widgets/testimonials-slider.php:154
+#: mods/albums/public/widgets/photos.php:213
+msgctxt "widget"
+msgid "Except"
+msgstr "Ausser"
+
+#: mods/logos/public/widgets/logos.php:175
+msgctxt "widget"
+msgid "Number of logos:"
+msgstr "Anzahl Logos:"
+
+#: mods/logos/public/widgets/logos.php:180
+#: mods/team/public/widgets/team.php:202
+#: mods/portfolio/public/widgets/portfolio.php:226
+#: mods/testimonials/public/widgets/testimonials-list.php:175
+#: mods/testimonials/public/widgets/testimonials-slider.php:179
+#: mods/albums/public/widgets/photos.php:243
+msgctxt "widget"
+msgid "Sort by:"
+msgstr "Sortierung nach:"
+
+#: mods/logos/public/widgets/logos.php:190
+#: mods/team/public/widgets/team.php:212
+#: mods/portfolio/public/widgets/portfolio.php:236
+#: mods/testimonials/public/widgets/testimonials-list.php:185
+#: mods/testimonials/public/widgets/testimonials-slider.php:189
+#: mods/albums/public/widgets/photos.php:253
+msgctxt "widget"
+msgid "Ascending"
+msgstr "Aufsteigend"
+
+#: mods/logos/public/widgets/logos.php:193
+#: mods/team/public/widgets/team.php:215
+#: mods/portfolio/public/widgets/portfolio.php:239
+#: mods/testimonials/public/widgets/testimonials-list.php:188
+#: mods/testimonials/public/widgets/testimonials-slider.php:192
+#: mods/albums/public/widgets/photos.php:256
+msgctxt "widget"
+msgid "Descending"
+msgstr ""
+
+#: mods/logos/public/widgets/logos.php:198
+#: mods/team/public/widgets/team.php:220
+#: mods/testimonials/public/widgets/testimonials-slider.php:197
+msgctxt "widget"
+msgid "Autoslide:"
+msgstr ""
+
+#: mods/logos/admin/class-mod-logos-admin.php:15
+#: mods/logos/admin/class-mod-logos-admin.php:26
+msgctxt "backend logos"
+msgid "Partners, Clients, etc."
+msgstr ""
+
+#: mods/logos/admin/class-mod-logos-admin.php:16
+msgctxt "backend logos"
+msgid "Partner,Client, etc."
+msgstr ""
+
+#: mods/logos/admin/class-mod-logos-admin.php:17
+#: mods/logos/admin/class-mod-logos-admin.php:18
+msgctxt "backend logos"
+msgid "Add New Logo"
+msgstr ""
+
+#: mods/logos/admin/class-mod-logos-admin.php:19
+msgctxt "backend logos"
+msgid "Edit Partner,Client, etc."
+msgstr ""
+
+#: mods/logos/admin/class-mod-logos-admin.php:20
+msgctxt "backend logos"
+msgid "New Item"
+msgstr ""
+
+#: mods/logos/admin/class-mod-logos-admin.php:21
+msgctxt "backend logos"
+msgid "View Item"
+msgstr "zeige Eintrag"
+
+#: mods/logos/admin/class-mod-logos-admin.php:22
+msgctxt "backend logos"
+msgid "Search Items"
+msgstr ""
+
+#: mods/logos/admin/class-mod-logos-admin.php:23
+msgctxt "backend logos"
+msgid "No items found"
+msgstr "keine Einträge gefunden"
+
+#: mods/logos/admin/class-mod-logos-admin.php:24
+msgctxt "backend logos"
+msgid "No items found in Trash"
+msgstr "keine Einträge im Papierkorb gefunden"
+
+#: mods/logos/admin/class-mod-logos-admin.php:51
+#: mods/logos/admin/class-mod-logos-admin.php:54
+#: mods/logos/admin/class-mod-logos-admin.php:61
+msgctxt "backend partners"
+msgid "Logo Categories"
+msgstr ""
+
+#: mods/logos/admin/class-mod-logos-admin.php:52
+msgctxt "backend partners"
+msgid "Logo Category"
+msgstr ""
+
+#: mods/logos/admin/class-mod-logos-admin.php:53
+#: mods/benefits/admin/class-mod-benefits-admin.php:54
+msgctxt "backend partners"
+msgid "Search in Category"
+msgstr ""
+
+#: mods/logos/admin/class-mod-logos-admin.php:55
+#: mods/benefits/admin/class-mod-benefits-admin.php:56
+msgctxt "backend partners"
+msgid "Parent Category"
+msgstr "Übergeordnete Kategorie"
+
+#: mods/logos/admin/class-mod-logos-admin.php:56
+#: mods/benefits/admin/class-mod-benefits-admin.php:57
+msgctxt "backend partners"
+msgid "Parent Category:"
+msgstr "Übergeordnete Kategorie:"
+
+#: mods/logos/admin/class-mod-logos-admin.php:57
+#: mods/benefits/admin/class-mod-benefits-admin.php:58
+msgctxt "backend partners"
+msgid "Edit Category"
+msgstr ""
+
+#: mods/logos/admin/class-mod-logos-admin.php:58
+#: mods/benefits/admin/class-mod-benefits-admin.php:59
+msgctxt "backend partners"
+msgid "Update Category"
+msgstr ""
+
+#: mods/logos/admin/class-mod-logos-admin.php:59
+msgctxt "backend partners"
+msgid "Add New Logo Category"
+msgstr ""
+
+#: mods/logos/admin/class-mod-logos-admin.php:60
+msgctxt "backend partners"
+msgid "New Logo Category Name"
+msgstr ""
+
+#: mods/logos/admin/metaboxes/metaboxes-logos.php:18
+#: mods/team/admin/metaboxes/metaboxes-team.php:192
+#: mods/testimonials/admin/metaboxes/metaboxes-testimonials.php:121
+#: mods/benefits/admin/metaboxes/metaboxes-benefits.php:18
+msgctxt "backend metabox"
+msgid "Options"
+msgstr ""
+
+#: mods/logos/admin/metaboxes/metaboxes-logos.php:26
+#: mods/benefits/admin/metaboxes/metaboxes-benefits.php:26
+msgctxt "backend metabox"
+msgid "Target link:"
+msgstr "Ziel Link:"
+
+#: mods/logos/admin/metaboxes/metaboxes-logos.php:35
+#: mods/benefits/admin/metaboxes/metaboxes-benefits.php:43
+msgctxt "backend metabox"
+msgid "Retina image:"
+msgstr ""
+
+#: mods/team/public/shortcodes/mod-team-shortcodes-bridge.php:11
+msgid "Team"
+msgstr ""
+
+#: mods/team/public/shortcodes/mod-team-shortcodes-bridge.php:24
+msgid ""
+"Note: By default, all your team will be displayed. <br>If you want to narrow "
+"output, select category(s) above. Only selected categories will be displayed."
+msgstr ""
+"Anmerkung: Standardmässig wird das gesamte Team angezeigt. <br> Falls Sie "
+"die Anzeige eingrenzen wollen, selektieren Sie die gewünschte(n) "
+"Kategorie(n) oben. Nur ausgewählte Kategorien werden angezeigt. "
+
+#: mods/team/public/shortcodes/mod-team-shortcodes-bridge.php:27
+#, fuzzy
+msgid "Photos Number & Order"
+msgstr "Fotos masonry"
+
+#: mods/team/public/shortcodes/mod-team-shortcodes-bridge.php:32
+msgid "Number of team members to show"
+msgstr ""
+
+#: mods/team/public/shortcodes/mod-team-shortcodes-bridge.php:36
+msgid "(Integer)"
+msgstr ""
+
+#: mods/team/public/shortcodes/mod-team-shortcodes-bridge.php:68
+#: mods/team/public/shortcodes/mod-team-shortcodes-bridge.php:76
+#: mods/team/public/shortcodes/mod-team-shortcodes-bridge.php:85
+#: mods/team/public/shortcodes/mod-team-shortcodes-bridge.php:91
+#: mods/team/public/shortcodes/mod-team-shortcodes-bridge.php:102
+#: mods/team/public/shortcodes/mod-team-shortcodes-bridge.php:113
+#: mods/team/public/shortcodes/mod-team-shortcodes-bridge.php:127
+#: mods/team/public/shortcodes/mod-team-shortcodes-bridge.php:133
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:14
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:33
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:41
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:95
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:103
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:111
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:173
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:182
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:192
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:217
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:221
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:235
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:247
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:260
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:272
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:286
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:304
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:311
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:344
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:353
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:362
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:513
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:514
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:525
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:728
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:736
+#: mods/testimonials/public/shortcodes/mod-testimonials-shortcodes-bridge.php:34
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:27
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:106
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:118
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:128
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:134
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:164
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:218
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:226
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:238
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:249
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:321
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:334
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:348
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:360
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:373
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:385
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:399
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:411
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:538
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:545
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:569
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:578
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:688
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:700
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:712
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:746
+msgid "Appearance"
+msgstr "Aussehen"
+
+#: mods/team/public/shortcodes/mod-team-shortcodes-bridge.php:79
+msgid "Gap between team members (px)"
+msgstr ""
+
+#: mods/team/public/shortcodes/mod-team-shortcodes-bridge.php:83
+msgid ""
+"Team member paddings (e.g. 5 pixel padding will give you 10 pixel gaps "
+"between team members)"
+msgstr ""
+"Padding für Teammitglieder (z.B. 5 Pixel Padding ergeben 10 Pixel Abstand "
+"zwischen Teammitgliedern)"
+
+#: mods/team/public/shortcodes/mod-team-shortcodes-bridge.php:88
+msgid "Team Mender Design"
+msgstr ""
+
+#: mods/team/public/shortcodes/mod-team-shortcodes-bridge.php:94
+msgid "Background under team members"
+msgstr "Hintergrund unter Team Mitglieder"
+
+#: mods/team/public/shortcodes/mod-team-shortcodes-bridge.php:105
+msgid "Images sizing"
+msgstr ""
+
+#: mods/team/public/shortcodes/mod-team-shortcodes-bridge.php:117
+msgid "Images proportions"
+msgstr ""
+
+#: mods/team/public/shortcodes/mod-team-shortcodes-bridge.php:125
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:184
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:113
+msgid ""
+"Width:height (e.g. 16:9). Leave this field empty to preserve original image "
+"proportions."
+msgstr ""
+"Breite:höhe (z.B. 16:9). Dieses Feld leer lassen, um die originalen "
+"Proportionen des Bildes zu erhalten."
+
+#: mods/team/public/shortcodes/mod-team-shortcodes-bridge.php:137
+#: mods/team/public/shortcodes/mod-team-shortcodes-bridge.php:145
+#: mods/team/public/shortcodes/mod-team-shortcodes-bridge.php:159
+#: mods/team/public/shortcodes/mod-team-shortcodes-bridge.php:173
+#: mods/team/public/shortcodes/mod-team-shortcodes-bridge.php:187
+#: mods/team/public/shortcodes/mod-team-shortcodes-bridge.php:201
+#: mods/team/public/shortcodes/mod-team-shortcodes-bridge.php:215
+#: mods/team/public/shortcodes/mod-team-shortcodes-bridge.php:229
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:607
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:614
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:629
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:643
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:657
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:671
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:685
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:699
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:584
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:592
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:606
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:620
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:634
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:648
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:662
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:676
+msgid "Responsiveness"
+msgstr ""
+
+#: mods/team/public/shortcodes/mod-team-shortcodes-bridge.php:148
+msgid "Column target width (px)"
+msgstr ""
+
+#: mods/team/public/shortcodes/mod-team-shortcodes-bridge.php:176
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:646
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:595
+msgid "Columns on Desktop"
+msgstr ""
+
+#: mods/team/public/shortcodes/mod-team-shortcodes-bridge.php:190
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:660
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:609
+msgid "Columns on Horizontal Tablet"
+msgstr ""
+
+#: mods/team/public/shortcodes/mod-team-shortcodes-bridge.php:204
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:674
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:623
+msgid "Columns on Vertical Tablet"
+msgstr ""
+
+#: mods/team/public/shortcodes/mod-team-shortcodes-bridge.php:218
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:688
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:637
+msgid "Columns on Mobile Phone"
+msgstr ""
+
+# @ the7mk2
+#: mods/team/public/widgets/team.php:29 mods/team/public/widgets/team.php:34
+msgctxt "widget"
+msgid "Team"
+msgstr ""
+
+#: mods/team/public/widgets/team.php:160
+#: mods/portfolio/public/widgets/portfolio.php:184
+#: mods/testimonials/public/widgets/testimonials-list.php:138
+#: mods/testimonials/public/widgets/testimonials-slider.php:142
+#: mods/albums/public/widgets/photos.php:201
+msgctxt "widget"
+msgid "Title:"
+msgstr ""
+
+# @ the7mk2
+#: mods/team/public/widgets/team.php:192
+msgctxt "widget"
+msgid "Show excerpt:"
+msgstr ""
+
+# @ the7mk2
+#: mods/team/public/widgets/team.php:197
+msgctxt "widget"
+msgid "Number of team members:"
+msgstr ""
+
+#: mods/team/admin/class-mod-team-admin.php:15
+#: mods/team/admin/class-mod-team-admin.php:26
+msgctxt "backend team"
+msgid "Team"
+msgstr ""
+
+#: mods/team/admin/class-mod-team-admin.php:16
+msgctxt "backend team"
+msgid "Teammate"
+msgstr ""
+
+#: mods/team/admin/class-mod-team-admin.php:17
+msgctxt "backend team"
+msgid "Add New"
+msgstr "neu hinzufügen"
+
+#: mods/team/admin/class-mod-team-admin.php:18
+msgctxt "backend team"
+msgid "Add New Teammate"
+msgstr "neues Teammitglied hinzufügen"
+
+#: mods/team/admin/class-mod-team-admin.php:19
+msgctxt "backend team"
+msgid "Edit Teammate"
+msgstr "Teammitglied editieren"
+
+#: mods/team/admin/class-mod-team-admin.php:20
+msgctxt "backend team"
+msgid "New Teammate"
+msgstr "neues Teammitglied"
+
+#: mods/team/admin/class-mod-team-admin.php:21
+msgctxt "backend team"
+msgid "View Teammate"
+msgstr "zeige Teammitglied"
+
+#: mods/team/admin/class-mod-team-admin.php:22
+msgctxt "backend team"
+msgid "Search Teammates"
+msgstr "vsuche Teammitglied"
+
+#: mods/team/admin/class-mod-team-admin.php:23
+msgctxt "backend team"
+msgid "No teammates found"
+msgstr "kein Teammitglied gefunden"
+
+#: mods/team/admin/class-mod-team-admin.php:24
+msgctxt "backend team"
+msgid "No Teammates found in Trash"
+msgstr "kein Teammitglied im Papierkorb gefunden"
+
+#: mods/team/admin/class-mod-team-admin.php:51
+#: mods/team/admin/class-mod-team-admin.php:54
+#: mods/team/admin/class-mod-team-admin.php:61
+msgctxt "backend team"
+msgid "Team Categories"
+msgstr "Kategorien"
+
+#: mods/team/admin/class-mod-team-admin.php:52
+msgctxt "backend team"
+msgid "Team Category"
+msgstr ""
+
+#: mods/team/admin/class-mod-team-admin.php:53
+msgctxt "backend team"
+msgid "Search in Team Category"
+msgstr ""
+
+#: mods/team/admin/class-mod-team-admin.php:55
+msgctxt "backend team"
+msgid "Parent Team Category"
+msgstr ""
+
+#: mods/team/admin/class-mod-team-admin.php:56
+msgctxt "backend team"
+msgid "Parent Team Category:"
+msgstr ""
+
+#: mods/team/admin/class-mod-team-admin.php:57
+msgctxt "backend team"
+msgid "Edit Team Category"
+msgstr ""
+
+#: mods/team/admin/class-mod-team-admin.php:58
+msgctxt "backend team"
+msgid "Update Team Category"
+msgstr ""
+
+#: mods/team/admin/class-mod-team-admin.php:59
+msgctxt "backend team"
+msgid "Add New Team Category"
+msgstr ""
+
+#: mods/team/admin/class-mod-team-admin.php:60
+msgctxt "backend team"
+msgid "New Team Category Name"
+msgstr ""
+
+#: mods/team/admin/metaboxes/metaboxes-team.php:18
+msgctxt "backend metabox"
+msgid "Display Team Members by Category(s)"
+msgstr "Zeige Teammitglieder nach Kategorie(n)"
+
+#: mods/team/admin/metaboxes/metaboxes-team.php:38
+msgctxt "backend"
+msgid "ALL your Team  Members are being displayed on this page!"
+msgstr ""
+
+#: mods/team/admin/metaboxes/metaboxes-team.php:39
+msgctxt "backend"
+msgid "By default all your Team Members will be displayed on this page. "
+msgstr ""
+
+#: mods/team/admin/metaboxes/metaboxes-team.php:40
+msgctxt "backend"
+msgid ""
+"But you can specify which Team  Members categories will (or will not) be "
+"shown."
+msgstr ""
+
+#: mods/team/admin/metaboxes/metaboxes-team.php:41
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:43
+#: mods/testimonials/admin/metaboxes/metaboxes-testimonials.php:43
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:43
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:372
+msgctxt "backend"
+msgid "In tabs above you can select from the following options:"
+msgstr "In obenstehenden Registerkarten können Sie folgende Optionen wählen:"
+
+#: mods/team/admin/metaboxes/metaboxes-team.php:43
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:45
+#: mods/testimonials/admin/metaboxes/metaboxes-testimonials.php:45
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:45
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:374
+msgctxt "backend"
+msgid "All"
+msgstr "Alle"
+
+#: mods/team/admin/metaboxes/metaboxes-team.php:45
+msgctxt "backend"
+msgid ""
+" &mdash; all Team  Members (from all categories) will be shown on this page."
+msgstr ""
+
+#: mods/team/admin/metaboxes/metaboxes-team.php:47
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:49
+#: mods/testimonials/admin/metaboxes/metaboxes-testimonials.php:49
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:49
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:378
+msgctxt "backend"
+msgid "Only"
+msgstr ""
+
+#: mods/team/admin/metaboxes/metaboxes-team.php:49
+msgctxt "backend"
+msgid " &mdash; choose Team category(s) to be shown on this page."
+msgstr ""
+
+#: mods/team/admin/metaboxes/metaboxes-team.php:51
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:53
+#: mods/testimonials/admin/metaboxes/metaboxes-testimonials.php:53
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:53
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:382
+msgctxt "backend"
+msgid "All, except"
+msgstr ""
+
+#: mods/team/admin/metaboxes/metaboxes-team.php:53
+#: mods/testimonials/admin/metaboxes/metaboxes-testimonials.php:55
+msgctxt "backend"
+msgid ""
+" &mdash; choose which category(s) will be excluded from displaying on this "
+"page."
+msgstr ""
+
+#: mods/team/admin/metaboxes/metaboxes-team.php:68
+msgctxt "backend metabox"
+msgid "Team Options"
+msgstr "Teamoptionen"
+
+#: mods/team/admin/metaboxes/metaboxes-team.php:80
+msgctxt "backend metabox"
+msgid "Gap between team members (px):"
+msgstr "Abstand zwischen Teammitgliedern (px):"
+
+#: mods/team/admin/metaboxes/metaboxes-team.php:81
+msgctxt "backend metabox"
+msgid ""
+"Team member paddings (e.g. 5 pixel padding will give you 10 pixel gaps "
+"between team members)"
+msgstr ""
+"Padding für Teammitglieder (z.B. 5 Pixel Padding ergeben 10 Pixel Abstand "
+"zwischen Teammitgliedern)"
+
+#: mods/team/admin/metaboxes/metaboxes-team.php:94
+msgctxt "backend metabox"
+msgid "Background under team members:"
+msgstr "Hintergrund unter Teammitgliedern:"
+
+#: mods/team/admin/metaboxes/metaboxes-team.php:111
+msgctxt "backend metabox"
+msgid "Show team members excerpts:"
+msgstr "Zeige Teammitglieder Auszüge:"
+
+#: mods/team/admin/metaboxes/metaboxes-team.php:117
+msgctxt "backend metabox"
+msgid "Number of team members on one page:"
+msgstr "Anzahl Teammitglieder auf einer Seite:"
+
+#: mods/team/admin/metaboxes/metaboxes-team.php:128
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:477
+msgctxt "backend metabox"
+msgid "Order:"
+msgstr ""
+
+#: mods/team/admin/metaboxes/metaboxes-team.php:137
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:487
+msgctxt "backend metabox"
+msgid "Orderby:"
+msgstr ""
+
+#: mods/team/admin/metaboxes/metaboxes-team.php:165
+msgctxt "backend metabox"
+msgid "Link to teammate details page:"
+msgstr "Link zur Teammitglieder Detailseite:"
+
+#: mods/team/admin/metaboxes/metaboxes-team.php:171
+#: mods/testimonials/admin/metaboxes/metaboxes-testimonials.php:137
+msgctxt "backend metabox"
+msgid "Position:"
+msgstr ""
+
+#: mods/team/admin/options/options-slug-team.php:14
+msgctxt "theme-options"
+msgid "Team slug"
+msgstr ""
+
+#: mods/portfolio/public/class-mod-portfolio-public.php:87
+#, php-format
+msgid "Portfolio Archives: %s"
+msgstr ""
+
+#: mods/portfolio/public/mod-portfolio-helpers.php:192
+msgid "Details"
+msgstr ""
+
+#: mods/portfolio/public/mod-portfolio-helpers.php:274
+msgid "Zoom"
+msgstr ""
+
+#: mods/portfolio/public/templates/portfolio-post-single-links.php:9
+msgid "Pages:"
+msgstr "Seiten:"
+
+#: mods/portfolio/public/templates/portfolio-post-single-links.php:20
+#, fuzzy
+msgid "Previous project:"
+msgstr "Portfolio Projekte"
+
+#: mods/portfolio/public/templates/portfolio-post-single-links.php:21
+#, fuzzy
+msgid "Next project:"
+msgstr "Verwandte Projekte"
+
+#: mods/portfolio/public/templates/portfolio-post-single-links.php:23
+#, fuzzy
+msgid "Project navigation"
+msgstr "Kommentarnavigation"
+
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:15
+#: mods/testimonials/public/shortcodes/mod-testimonials-shortcodes-bridge.php:94
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:12
+msgid "Loading effect"
+msgstr "Lade Effekt"
+
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:49
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:56
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:63
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:70
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:36
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:42
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:48
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:54
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:183
+#, fuzzy
+msgid "Project Meta"
+msgstr "Projektoptionen:"
+
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:119
+msgid "Number of projects to show"
+msgstr ""
+
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:127
+#, fuzzy
+msgid "Projects per page"
+msgstr "Vorherige Seite"
+
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:169
+msgid ""
+"Note: By default, all your projects will be displayed. <br>If you want to "
+"narrow output, select category(s) above. Only selected categories will be "
+"displayed."
+msgstr ""
+"Anmerkung: Standardmässig werden alle Projekte gezeigt. <br> Falls Sie die "
+"Anzeige eingrenzen wollen, selektieren Sie die gewünschte(n) Kategorie(n) "
+"oben. Nur ausgewählte Kategorien werden angezeigt. "
+
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:174
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:101
+msgid "Gap between images (px)"
+msgstr ""
+
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:183
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:112
+msgid "Thumbnails proportions"
+msgstr ""
+
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:193
+msgid "Show projects descriptions"
+msgstr "Zeige Projektbezeichungen"
+
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:208
+msgid "Background under projects"
+msgstr "Hintergrund unter Projekten"
+
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:236
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:352
+msgid "Image hover background color"
+msgstr "Image hover Hintergrund Farbe"
+
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:248
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:364
+msgid "Animation effect"
+msgstr ""
+
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:261
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:377
+msgid "Content"
+msgstr ""
+
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:273
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:287
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:389
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:403
+msgid "Content alignment"
+msgstr "Inhalt Ausrichtung"
+
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:298
+msgid "Projects Number & Order"
+msgstr ""
+
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:305
+#, fuzzy
+msgid "Project Design"
+msgstr "Projektoptionen:"
+
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:312
+#, fuzzy
+msgid "Project Elements"
+msgstr "Zeige Projekt Kommentare"
+
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:318
+#, fuzzy
+msgid "Projects Filter"
+msgstr "Zeige Projekt Titel"
+
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:330
+msgid "Portfolio Scroller"
+msgstr "Portfolio scroller"
+
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:345
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:682
+msgid "Thumbnails width"
+msgstr "Breite der Thumbnails"
+
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:350
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:683
+msgid ""
+"In pixels. Leave this field empty if you want to preserve original "
+"thumbnails proportions."
+msgstr ""
+"In Pixel. Lassen Sie dieses Feld leer, um dee originalen Proportionen der "
+"Thumbnails zu erhalten."
+
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:354
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:694
+msgid "Thumbnails height"
+msgstr ""
+
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:359
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:695
+msgid "In pixels."
+msgstr ""
+
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:363
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:706
+#, fuzzy
+msgid "Thumbnails max width"
+msgstr "Breite der Thumbnails"
+
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:368
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:707
+msgid "In percents."
+msgstr ""
+
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:439
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:256
+msgid "Arrows"
+msgstr "Pfeile"
+
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:452
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:270
+msgid "Show arrows on mobile device"
+msgstr ""
+
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:495
+msgid "Portfolio Masonry & Grid"
+msgstr "Mauerwerk (Masonry)"
+
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:526
+msgid "Projects width"
+msgstr ""
+
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:536
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:208
+msgid ""
+"Image paddings (e.g. 5 pixel padding will give you 10 pixel gaps between "
+"images)"
+msgstr ""
+
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:711
+msgid "Portfolio Justified Grid"
+msgstr "Portfolio justified grid"
+
+#: mods/portfolio/public/shortcodes/mod-portfolio-shortcodes-bridge.php:729
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:233
+msgid "Row target height (px)"
+msgstr "Zielhöhe der Zeilen (px)"
+
+#: mods/portfolio/public/shortcodes/portfolio/portfolio.php:23
+#: mods/portfolio/public/shortcodes/portfolio-jgrid/portfolio-jgrid.php:23
+#: mods/portfolio/public/shortcodes/portfolio-slider/portfolio-slider.php:24
+#: mods/albums/public/shortcodes/photos-slider/photos-slider.php:29
+#: mods/albums/public/shortcodes/photos-jgrid/photos-jgrid.php:23
+#: mods/albums/public/shortcodes/albums-slider/albums-slider.php:24
+#: mods/albums/public/shortcodes/photos-masonry/photos-masonry.php:23
+#: mods/albums/public/shortcodes/albums-jgrid/albums-jgrid.php:25
+#: mods/albums/public/shortcodes/albums/albums.php:25
+#: mods/benefits/public/shortcodes/benefits-vc/benefits-vc.php:39
+msgctxt "vc inline dummy"
+msgid "Display categories"
+msgstr "Zeige Kategorien"
+
+#: mods/portfolio/public/shortcodes/portfolio/portfolio.php:27
+msgctxt "vc inline dummy"
+msgid "Portfolio Masonry & Grid"
+msgstr "Mauerwerk (Masonry)"
+
+#: mods/portfolio/public/shortcodes/portfolio-jgrid/portfolio-jgrid.php:27
+msgctxt "vc inline dummy"
+msgid "Portfolio Justified Grid"
+msgstr "Portfolio justified grid"
+
+#: mods/portfolio/public/shortcodes/portfolio-slider/portfolio-slider.php:29
+msgctxt "vc inline dummy"
+msgid "Portfolio scroller"
+msgstr "Portfolio scroller"
+
+#: mods/portfolio/public/widgets/portfolio.php:28
+#: mods/portfolio/public/widgets/portfolio.php:33
+msgctxt "widget"
+msgid "Portfolio projects"
+msgstr "Portfolio Projekte"
+
+#: mods/portfolio/public/widgets/portfolio.php:216
+#: mods/albums/public/widgets/photos.php:233
+msgctxt "widget"
+msgid "Image max width (px):"
+msgstr "Image maximale Breite (px):"
+
+#: mods/portfolio/public/widgets/portfolio.php:221
+msgctxt "widget"
+msgid "Number of posts:"
+msgstr ""
+
+#: mods/portfolio/admin/class-mod-portfolio-admin.php:15
+#: mods/portfolio/admin/class-mod-portfolio-admin.php:16
+#: mods/portfolio/admin/class-mod-portfolio-admin.php:26
+msgctxt "backend portfolio"
+msgid "Portfolio"
+msgstr ""
+
+#: mods/portfolio/admin/class-mod-portfolio-admin.php:17
+msgctxt "backend portfolio"
+msgid "Add New"
+msgstr "neu hinzufügen"
+
+#: mods/portfolio/admin/class-mod-portfolio-admin.php:18
+msgctxt "backend portfolio"
+msgid "Add New Item"
+msgstr "neuer Eintrag hinzufügen"
+
+#: mods/portfolio/admin/class-mod-portfolio-admin.php:19
+msgctxt "backend portfolio"
+msgid "Edit Item"
+msgstr "Eintrag editieren"
+
+#: mods/portfolio/admin/class-mod-portfolio-admin.php:20
+msgctxt "backend portfolio"
+msgid "New Item"
+msgstr ""
+
+#: mods/portfolio/admin/class-mod-portfolio-admin.php:21
+msgctxt "backend portfolio"
+msgid "View Item"
+msgstr "Zeige Eintrag"
+
+#: mods/portfolio/admin/class-mod-portfolio-admin.php:22
+msgctxt "backend portfolio"
+msgid "Search Items"
+msgstr "Suche Eintrag"
+
+#: mods/portfolio/admin/class-mod-portfolio-admin.php:23
+msgctxt "backend portfolio"
+msgid "No items found"
+msgstr "keine Einträge gefunden"
+
+#: mods/portfolio/admin/class-mod-portfolio-admin.php:24
+msgctxt "backend portfolio"
+msgid "No items found in Trash"
+msgstr "keine Einträge im Papierkorb gefunden"
+
+#: mods/portfolio/admin/class-mod-portfolio-admin.php:51
+#: mods/portfolio/admin/class-mod-portfolio-admin.php:54
+#: mods/portfolio/admin/class-mod-portfolio-admin.php:61
+msgctxt "backend portfolio"
+msgid "Portfolio Categories"
+msgstr ""
+
+#: mods/portfolio/admin/class-mod-portfolio-admin.php:52
+msgctxt "backend portfolio"
+msgid "Portfolio Category"
+msgstr ""
+
+#: mods/portfolio/admin/class-mod-portfolio-admin.php:53
+msgctxt "backend portfolio"
+msgid "Search in Category"
+msgstr "Suche in Kategorie"
+
+#: mods/portfolio/admin/class-mod-portfolio-admin.php:55
+msgctxt "backend portfolio"
+msgid "Parent Portfolio Category"
+msgstr ""
+
+#: mods/portfolio/admin/class-mod-portfolio-admin.php:56
+msgctxt "backend portfolio"
+msgid "Parent Portfolio Category:"
+msgstr ""
+
+#: mods/portfolio/admin/class-mod-portfolio-admin.php:57
+msgctxt "backend portfolio"
+msgid "Edit Category"
+msgstr "Kategorie editieren"
+
+#: mods/portfolio/admin/class-mod-portfolio-admin.php:58
+msgctxt "backend portfolio"
+msgid "Update Category"
+msgstr "Kategorie aktualisieren"
+
+#: mods/portfolio/admin/class-mod-portfolio-admin.php:59
+msgctxt "backend portfolio"
+msgid "Add New Portfolio Category"
+msgstr ""
+
+#: mods/portfolio/admin/class-mod-portfolio-admin.php:60
+msgctxt "backend portfolio"
+msgid "New Category Name"
+msgstr "Neuer Kategorie Name"
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:20
+msgctxt "backend metabox"
+msgid "Display Portfolio Category(s)"
+msgstr "Zeige Portfolio Kategorie(n)"
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:40
+msgctxt "backend"
+msgid "ALL your Portfolio projects are being displayed on this page!"
+msgstr ""
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:41
+msgctxt "backend"
+msgid "By default all your Portfolio projects will be displayed on this page. "
+msgstr ""
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:42
+msgctxt "backend"
+msgid ""
+"But you can specify which Portfolio project category(s) will (or will not) "
+"be shown."
+msgstr ""
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:47
+msgctxt "backend"
+msgid " &mdash; all Projects will be shown on this page."
+msgstr ""
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:51
+msgctxt "backend"
+msgid " &mdash; choose Project category(s) to be shown on this page."
+msgstr ""
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:55
+msgctxt "backend"
+msgid ""
+" &mdash; choose which Project category(s) will be excluded from displaying "
+"on this page."
+msgstr ""
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:70
+msgctxt "backend metabox"
+msgid "Portfolio Options"
+msgstr ""
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:84
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:185
+msgctxt "backend metabox"
+msgid "Background under projects:"
+msgstr "Hintergrund unter Projekten:"
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:92
+msgctxt "backend metabox"
+msgid "Image rollover color:"
+msgstr "Bild Rollover Farbe:"
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:132
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:211
+msgctxt "backend metabox"
+msgid "Show projects descriptions:"
+msgstr "Zeige Projektbeschreibungen:"
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:203
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:264
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:172
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:246
+msgctxt "backend metabox"
+msgid "Title visibility:"
+msgstr ""
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:272
+msgctxt "backend metabox"
+msgid "Make all projects the same width:"
+msgstr "Alle Projekte auf die gleiche Breite setzen:"
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:300
+msgctxt "backend metabox"
+msgid "Number of projects to display on one page:"
+msgstr "Anzahl zu zeigender Projekte auf einer Seite:"
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:321
+msgctxt "backend metabox"
+msgid "Show projects titles:"
+msgstr "Zeige Projekt Titel"
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:330
+msgctxt "backend metabox"
+msgid "Show projects excerpts:"
+msgstr "Zeige Projektauszüge:"
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:343
+msgctxt "backend metabox"
+msgid "Show project categories:"
+msgstr "Zeige Projektkategorien:"
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:353
+msgctxt "backend metabox"
+msgid "Show project date:"
+msgstr "Zeige Projektdatum:"
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:362
+msgctxt "backend metabox"
+msgid "Show project author:"
+msgstr "Zeige Projektautor:"
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:371
+msgctxt "backend metabox"
+msgid "Show project comments:"
+msgstr "Zeige Projektkommentare:"
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:384
+msgctxt "backend metabox"
+msgid "Show details icons:"
+msgstr "Zeige Details Icons:"
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:394
+msgctxt "backend metabox"
+msgid "Show links icons:"
+msgstr "Zeige Links Icons:"
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:403
+msgctxt "backend metabox"
+msgid "Show zoom icons:"
+msgstr "Zeige Zoom Icons:"
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:415
+msgctxt "backend metabox"
+msgid "Show details buttons:"
+msgstr "Zeige Detailschaltfläche:"
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:430
+msgctxt "backend metabox"
+msgid "Show categories filter:"
+msgstr "Zeige Kategorienfilter:"
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:440
+msgctxt "backend metabox"
+msgid "Show name / date ordering:"
+msgstr "Zeige Name / Datum Sortierung:"
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:450
+msgctxt "backend metabox"
+msgid "Show asc. / desc. ordering:"
+msgstr "Zeige aufsteigend/absteigend Sortierung:"
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:463
+msgctxt "backend metabox"
+msgid "Show all pages in paginator:"
+msgstr "Zeige alle Seiten in Paginator:"
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:507
+msgctxt "backend metabox"
+msgid "Add/Edit Project Media"
+msgstr "Projekt Media hinzufügen/editieren"
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:530
+msgctxt "backend metabox"
+msgid "Media Options"
+msgstr ""
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:538
+msgctxt "backend metabox"
+msgid "Layout settings:"
+msgstr "Layouteinstellungen:"
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:543
+msgctxt "backend metabox"
+msgid "Media on the left of content"
+msgstr "Media links vom Inhalt"
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:544
+msgctxt "backend metabox"
+msgid "Media on the right of content"
+msgstr "Media rechts vom Inhalt"
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:545
+msgctxt "backend metabox"
+msgid "Media before content area"
+msgstr "Media vor dem Inhaltsbereich"
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:546
+msgctxt "backend metabox"
+msgid "Media after content area"
+msgstr "Media nach dem Inhaltsbereich"
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:547
+msgctxt "backend metabox"
+msgid "Media disabled (blank page)"
+msgstr "Media deaktiviert (leere Seite)"
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:558
+msgctxt "backend metabox"
+msgid "Enable floating content:"
+msgstr "Aktiviere fliessenden (floating) Inhalt:"
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:567
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:553
+msgctxt "backend metabox"
+msgid "Show media as:"
+msgstr "Zeige Media als:"
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:572
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:558
+msgctxt "backend metabox"
+msgid "Slideshow"
+msgstr ""
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:573
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:559
+msgctxt "backend metabox"
+msgid "Gallery"
+msgstr "Gallerie"
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:574
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:560
+msgctxt "backend metabox"
+msgid "List"
+msgstr ""
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:590
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:810
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:580
+msgctxt "backend metabox"
+msgid "Slider proportions:"
+msgstr ""
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:599
+#, fuzzy
+msgctxt "backend metabox"
+msgid "Scale Mode:"
+msgstr "Aufskalieren"
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:604
+msgctxt "backend metabox"
+msgid "fill"
+msgstr ""
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:605
+msgctxt "backend metabox"
+msgid "fit"
+msgstr ""
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:618
+msgctxt "backend metabox"
+msgid "Columns"
+msgstr "Spalten"
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:636
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:612
+msgctxt "backend metabox"
+msgid "Make first image large:"
+msgstr "Mache erstes Bild gross:"
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:656
+msgctxt "backend metabox"
+msgid "Project Options"
+msgstr "Projektoptionen:"
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:664
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:527
+msgctxt "backend metabox"
+msgid "Back button:"
+msgstr "Zurück Schaltfläche"
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:674
+msgctxt "backend metabox"
+msgid "Project link:"
+msgstr ""
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:687
+#: mods/testimonials/admin/metaboxes/metaboxes-testimonials.php:145
+msgctxt "backend metabox"
+msgid "Link:"
+msgstr "Link"
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:695
+msgctxt "backend metabox"
+msgid "Caption:"
+msgstr "Beschriftung:"
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:703
+msgctxt "backend metabox"
+msgid "Target:"
+msgstr "Ziel:"
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:708
+msgctxt "backend metabox"
+msgid "_self"
+msgstr "_self"
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:709
+msgctxt "backend metabox"
+msgid "_blank"
+msgstr ""
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:718
+msgctxt "backend metabox"
+msgid "Hide featured image on project page:"
+msgstr "Gezeigtes Bild auf Projektseite ausblenden:"
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:730
+msgctxt "backend metabox"
+msgid "Open images in lightbox:"
+msgstr "Öffne Bilder in Lichtbox:"
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:742
+msgctxt "backend metabox"
+msgid "Related projects category:"
+msgstr "Ähnliche Projektkategorie:"
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:747
+msgctxt "backend metabox"
+msgid "from the same category"
+msgstr "von der gleichen Kategory"
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:748
+msgctxt "backend metabox"
+msgid "choose category(s)"
+msgstr "wähle Kategorie(n)"
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:775
+msgctxt "backend metabox"
+msgid "Project preview width:"
+msgstr ""
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:780
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:974
+msgctxt "backend metabox"
+msgid "normal"
+msgstr ""
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:781
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:975
+msgctxt "backend metabox"
+msgid "wide"
+msgstr "breit"
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:784
+#, php-format
+msgctxt "backend metabox"
+msgid ""
+"Related projects can be enabled / disabled from %sTheme Options / Blog, "
+"Portfolio, Gallery%s"
+msgstr ""
+"Ähnliche Projekte können aktiviert/deaktiviert werden von %sThema Optionen / "
+"Blog, Portfolio, Gallerie%s"
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:787
+msgctxt "backend metabox"
+msgid "Project Preview Options"
+msgstr "Optionen Projektvorschau"
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:795
+msgctxt "backend metabox"
+msgid "Preview style:"
+msgstr "Stil Vorschau:"
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:800
+msgctxt "backend metabox"
+msgid "featured image"
+msgstr "gezeigte Bilde"
+
+#: mods/portfolio/admin/metaboxes/metaboxes-portfolio.php:801
+msgctxt "backend metabox"
+msgid "slideshow"
+msgstr ""
+
+#: mods/portfolio/admin/options/options-archive-portfolio.php:12
+msgctxt "theme-options"
+msgid "Portfolio archives"
+msgstr ""
+
+#: mods/portfolio/admin/options/options-archive-portfolio.php:16
+msgctxt "theme-options"
+msgid "Portfolio category template"
+msgstr ""
+
+#: mods/portfolio/admin/options/options-portfolio.php:24
+#: mods/albums/admin/options/options-albums.php:24
+msgctxt "theme-options"
+msgid "Previous &amp; next buttons"
+msgstr "Vorherige &amp; nächste Schaltfläche"
+
+#: mods/portfolio/admin/options/options-portfolio.php:28
+msgctxt "theme-options"
+msgid "Show in portfolio posts"
+msgstr "Zeige in Portfolio Posts"
+
+#: mods/portfolio/admin/options/options-portfolio.php:50
+#: mods/portfolio/admin/options/options-portfolio.php:55
+#: mods/albums/admin/options/options-albums.php:50
+#: mods/albums/admin/options/options-albums.php:55
+msgctxt "theme-options"
+msgid "Back button"
+msgstr "Zurück Schaltfläche"
+
+#: mods/portfolio/admin/options/options-portfolio.php:78
+#: mods/albums/admin/options/options-albums.php:78
+msgctxt "theme-options"
+msgid "Choose page"
+msgstr "Wähle Seite"
+
+#: mods/portfolio/admin/options/options-portfolio.php:90
+#: mods/portfolio/admin/options/options-portfolio.php:95
+#: mods/albums/admin/options/options-albums.php:90
+#: mods/albums/admin/options/options-albums.php:95
+msgctxt "theme-options"
+msgid "Meta information"
+msgstr "Metainformationen"
+
+#: mods/portfolio/admin/options/options-portfolio.php:119
+#: mods/albums/admin/options/options-albums.php:119
+msgctxt "theme-options"
+msgid "Date"
+msgstr "Datum"
+
+#: mods/portfolio/admin/options/options-portfolio.php:128
+#: mods/albums/admin/options/options-albums.php:128
+msgctxt "theme-options"
+msgid "Author"
+msgstr "Autor"
+
+#: mods/portfolio/admin/options/options-portfolio.php:137
+#: mods/albums/admin/options/options-albums.php:137
+msgctxt "theme-options"
+msgid "Categories"
+msgstr "Kategorien"
+
+#: mods/portfolio/admin/options/options-portfolio.php:146
+msgctxt "theme-options"
+msgid "Number of comments"
+msgstr "Anzahl an Kommentaren"
+
+#: mods/portfolio/admin/options/options-portfolio.php:159
+#: mods/portfolio/admin/options/options-portfolio.php:164
+msgctxt "theme-options"
+msgid "Related projects"
+msgstr "Verwandte Projekte"
+
+#: mods/portfolio/admin/options/options-portfolio.php:187
+msgctxt "theme-options"
+msgid "Title"
+msgstr ""
+
+#: mods/portfolio/admin/options/options-portfolio.php:189
+#, fuzzy
+msgid "Related Projects"
+msgstr "Verwandte Projekte"
+
+#: mods/portfolio/admin/options/options-portfolio.php:195
+msgctxt "theme-options"
+msgid "Show titles"
+msgstr "Zeigen"
+
+#: mods/portfolio/admin/options/options-portfolio.php:203
+msgctxt "theme-options"
+msgid "Show excerpts"
+msgstr "Zeige Anrisse"
+
+#: mods/portfolio/admin/options/options-portfolio.php:211
+msgctxt "theme-options"
+msgid "Show date"
+msgstr "Zeige Datum"
+
+#: mods/portfolio/admin/options/options-portfolio.php:219
+msgctxt "theme-options"
+msgid "Show author"
+msgstr "Zeige Autor"
+
+#: mods/portfolio/admin/options/options-portfolio.php:227
+msgctxt "theme-options"
+msgid "Show number of comments"
+msgstr "Zeige Anzahl Kommentare"
+
+#: mods/portfolio/admin/options/options-portfolio.php:235
+msgctxt "theme-options"
+msgid "Show categories"
+msgstr "Zeige Kategorien"
+
+#: mods/portfolio/admin/options/options-portfolio.php:243
+msgctxt "theme-options"
+msgid "Show links"
+msgstr ""
+
+#: mods/portfolio/admin/options/options-portfolio.php:251
+msgctxt "theme-options"
+msgid "Show zoom"
+msgstr "Zeige Zoom"
+
+#: mods/portfolio/admin/options/options-portfolio.php:259
+msgctxt "theme-options"
+msgid "Show \"Details\" button"
+msgstr "Zeige \"Detail\" Schaltfläche"
+
+#: mods/portfolio/admin/options/options-portfolio.php:267
+msgctxt "theme-options"
+msgid "Maximum number of projects posts"
+msgstr "Maximale Anzahl Projekteinträge"
+
+#: mods/portfolio/admin/options/options-portfolio.php:281
+msgctxt "theme-options"
+msgid "Related posts height for fullwidth posts (px)"
+msgstr ""
+
+#: mods/portfolio/admin/options/options-portfolio.php:291
+msgctxt "theme-options"
+msgid "Related posts width for fullwidth posts"
+msgstr "Breite der ähnlichen Einträge für seitenbreite Einträge"
+
+#: mods/portfolio/admin/options/options-portfolio.php:304
+#: mods/portfolio/admin/options/options-portfolio.php:339
+msgctxt "theme-options"
+msgid "Width (px)"
+msgstr ""
+
+#: mods/portfolio/admin/options/options-portfolio.php:316
+msgctxt "theme-options"
+msgid "Related posts height for posts with sidebar (px)"
+msgstr ""
+
+#: mods/portfolio/admin/options/options-portfolio.php:326
+msgctxt "theme-options"
+msgid "Related posts width for posts with sidebar"
+msgstr "Breite der ähnlichen Einträge mit Seitenleiste"
+
+#: mods/portfolio/admin/options/options-slug-portfolio.php:14
+msgctxt "theme-options"
+msgid "Portfolio slug"
+msgstr "Portfolio Slug"
+
+#: mods/testimonials/public/templates/testimonials-post.php:67
+msgid "read more"
+msgstr "Lese Details"
+
+#: mods/testimonials/public/shortcodes/mod-testimonials-shortcodes-bridge.php:12
+msgid "Testimonials"
+msgstr ""
+
+#: mods/testimonials/public/shortcodes/mod-testimonials-shortcodes-bridge.php:27
+msgid ""
+"Note: By default, all your testimonials will be displayed. <br>If you want "
+"to narrow output, select category(s) above. Only selected categories will be "
+"displayed."
+msgstr ""
+"Anmerkung: Standardmässig werden alle Empfehlungen angezeigt. <br> Falls Sie "
+"die Anzeige eingrenzen wollen, selektieren Sie die gewünschte(n) "
+"Kategorie(n) oben. Nur ausgewählte Kategorien werden angezeigt. "
+
+#: mods/testimonials/public/shortcodes/mod-testimonials-shortcodes-bridge.php:48
+msgid "Gap between testimonials (px)"
+msgstr "Abstand zwischen Empfehlungen/Referenzen (px)"
+
+#: mods/testimonials/public/shortcodes/mod-testimonials-shortcodes-bridge.php:49
+msgid ""
+"Testimonial paddings (e.g. 5 pixel padding will give you 10 pixel gaps "
+"between testimonials)"
+msgstr ""
+"Padding der Empfehlungen/Referenzen (z.B. 5 Pixel Padding ergeben 10 Pixel "
+"Abstand zwischen den Empfehlungen)"
+
+#: mods/testimonials/public/shortcodes/mod-testimonials-shortcodes-bridge.php:120
+msgid "Autoslide"
+msgstr ""
+
+#: mods/testimonials/public/shortcodes/mod-testimonials-shortcodes-bridge.php:123
+msgid ""
+"In milliseconds (e.g. 3 seconds = 3000 miliseconds). Leave this field empty "
+"to disable autoslide. This field works only when \"Appearance: Slider\" "
+"selected."
+msgstr ""
+
+#: mods/testimonials/public/shortcodes/mod-testimonials-shortcodes-bridge.php:136
+msgid "Number of testimonials to show"
+msgstr "Anzahl zu zeigender Empfehlungen (Testimonials)"
+
+# @ the7mk2
+#: mods/testimonials/public/widgets/testimonials-list.php:27
+#: mods/testimonials/public/widgets/testimonials-list.php:32
+msgctxt "widget"
+msgid "Testimonials list"
+msgstr ""
+
+# @ the7mk2
+#: mods/testimonials/public/widgets/testimonials-list.php:170
+#: mods/testimonials/public/widgets/testimonials-slider.php:174
+msgctxt "widget"
+msgid "Number of testimonials:"
+msgstr ""
+
+# @ the7mk2
+#: mods/testimonials/public/widgets/testimonials-slider.php:28
+#: mods/testimonials/public/widgets/testimonials-slider.php:33
+msgctxt "widget"
+msgid "Testimonials slider"
+msgstr ""
+
+#: mods/testimonials/admin/class-mod-testimonials-admin.php:15
+#: mods/testimonials/admin/class-mod-testimonials-admin.php:16
+#: mods/testimonials/admin/class-mod-testimonials-admin.php:26
+msgctxt "backend testimonials"
+msgid "Testimonials"
+msgstr ""
+
+#: mods/testimonials/admin/class-mod-testimonials-admin.php:17
+#: mods/testimonials/admin/class-mod-testimonials-admin.php:18
+msgctxt "backend testimonials"
+msgid "Add New Testimonial"
+msgstr ""
+
+#: mods/testimonials/admin/class-mod-testimonials-admin.php:19
+msgctxt "backend testimonials"
+msgid "Edit Testimonial"
+msgstr ""
+
+#: mods/testimonials/admin/class-mod-testimonials-admin.php:20
+msgctxt "backend testimonials"
+msgid "New Testimonial"
+msgstr ""
+
+#: mods/testimonials/admin/class-mod-testimonials-admin.php:21
+msgctxt "backend testimonials"
+msgid "View Testimonial"
+msgstr ""
+
+#: mods/testimonials/admin/class-mod-testimonials-admin.php:22
+msgctxt "backend testimonials"
+msgid "Search Testimonials"
+msgstr ""
+
+#: mods/testimonials/admin/class-mod-testimonials-admin.php:23
+msgctxt "backend testimonials"
+msgid "No Testimonials found"
+msgstr ""
+
+#: mods/testimonials/admin/class-mod-testimonials-admin.php:24
+msgctxt "backend testimonials"
+msgid "No Testimonials found in Trash"
+msgstr ""
+
+#: mods/testimonials/admin/class-mod-testimonials-admin.php:51
+#: mods/testimonials/admin/class-mod-testimonials-admin.php:61
+msgctxt "backend testimonials"
+msgid "Testimonial Categories"
+msgstr ""
+
+#: mods/testimonials/admin/class-mod-testimonials-admin.php:52
+msgctxt "backend testimonials"
+msgid "Testimonial Category"
+msgstr ""
+
+#: mods/testimonials/admin/class-mod-testimonials-admin.php:53
+msgctxt "backend testimonials"
+msgid "Search in Category"
+msgstr ""
+
+#: mods/testimonials/admin/class-mod-testimonials-admin.php:54
+msgctxt "backend testimonials"
+msgid "Categories"
+msgstr ""
+
+#: mods/testimonials/admin/class-mod-testimonials-admin.php:55
+msgctxt "backend testimonials"
+msgid "Parent Category"
+msgstr "Übergeordnete Kategorie"
+
+#: mods/testimonials/admin/class-mod-testimonials-admin.php:56
+msgctxt "backend testimonials"
+msgid "Parent Category:"
+msgstr "Übergeordnete Kategorie:"
+
+#: mods/testimonials/admin/class-mod-testimonials-admin.php:57
+msgctxt "backend testimonials"
+msgid "Edit Category"
+msgstr ""
+
+#: mods/testimonials/admin/class-mod-testimonials-admin.php:58
+msgctxt "backend testimonials"
+msgid "Update Category"
+msgstr "Kategorie aktualisieren"
+
+#: mods/testimonials/admin/class-mod-testimonials-admin.php:59
+msgctxt "backend testimonials"
+msgid "Add New Testimonial Category"
+msgstr ""
+
+#: mods/testimonials/admin/class-mod-testimonials-admin.php:60
+msgctxt "backend testimonials"
+msgid "New Category Name"
+msgstr ""
+
+#: mods/testimonials/admin/metaboxes/metaboxes-testimonials.php:20
+msgctxt "backend metabox"
+msgid "Display Testimonials Category(s)"
+msgstr "Empfehlungen"
+
+#: mods/testimonials/admin/metaboxes/metaboxes-testimonials.php:40
+msgctxt "backend"
+msgid "ALL your Testimonials are being displayed on this page!"
+msgstr "Testimonials (Empfehlungen)"
+
+#: mods/testimonials/admin/metaboxes/metaboxes-testimonials.php:41
+msgctxt "backend"
+msgid "By default all your Testimonials will be displayed on this page. "
+msgstr "Standardmässig werden alle Testimonials auf dieser Seite angezeigt."
+
+#: mods/testimonials/admin/metaboxes/metaboxes-testimonials.php:42
+msgctxt "backend"
+msgid ""
+"But you can specify which Testimonials categories will (or will not) be "
+"shown."
+msgstr ""
+"Sie können auswählen, welche Testimonials Kategorie(n) auf dieser Seite "
+"angezeigt (oder nicht angezeigt) werden sollen."
+
+#: mods/testimonials/admin/metaboxes/metaboxes-testimonials.php:47
+msgctxt "backend"
+msgid ""
+" &mdash; all Testimonials (from all categories) will be shown on this page."
+msgstr ""
+"&mdash; alle Testimonials (von allen Kategorien) werden auf dieser Seite "
+"angezeigt."
+
+#: mods/testimonials/admin/metaboxes/metaboxes-testimonials.php:51
+msgctxt "backend"
+msgid " &mdash; choose Testimonials category(s) to be shown on this page."
+msgstr ""
+"&mdash; wählen Sie, welche Testimonials Kategorie(n) auf dieser Seite "
+"angezeigt werden sollen."
+
+#: mods/testimonials/admin/metaboxes/metaboxes-testimonials.php:70
+msgctxt "backend metabox"
+msgid "Testimonials Options"
+msgstr "Empfehlungsoptionen"
+
+#: mods/testimonials/admin/metaboxes/metaboxes-testimonials.php:81
+msgctxt "backend metabox"
+msgid "Gap between testimonials (px):"
+msgstr "Abstand zwischen Empfehlungen/Referenzen (px)"
+
+#: mods/testimonials/admin/metaboxes/metaboxes-testimonials.php:96
+msgctxt "backend metabox"
+msgid "Number of testimonials on one page:"
+msgstr "Anzahl Empfehlungen auf einer Seite:"
+
+#: mods/testimonials/admin/metaboxes/metaboxes-testimonials.php:130
+msgctxt "backend metabox"
+msgid "Link to testimonial details page:"
+msgstr ""
+
+#: mods/albums/public/class-mod-albums-public.php:110
+#, php-format
+msgid "Albums Archives: %s"
+msgstr ""
+
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:91
+msgid ""
+"Note: By default, all your albums will be displayed. <br>If you want to "
+"narrow output, select category(s) above. Only selected categories will be "
+"displayed."
+msgstr ""
+"Anmerkung: Standardmässig werden alle Ihre Alben gezeigt. <br>Wenn Sie die "
+"Ausgabe eingrenzen möchten, Selektieren Sie Kategorie(n) oben. Nur "
+"selektierte Kategorien werden dann gezeigt."
+
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:170
+msgid "Number of albums to show"
+msgstr "Anzahl zu zeigender Alben"
+
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:189
+#, fuzzy
+msgid "Albums per page"
+msgstr "Albumseite"
+
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:203
+msgid "Number of items to show"
+msgstr "Anzahl zu zeigender Artikel"
+
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:310
+msgid "Show albums descriptions"
+msgstr "Zeige Alben Beschreibung"
+
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:325
+msgid "Background under albums"
+msgstr "Hintergrund unter Alben"
+
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:522
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:550
+#, fuzzy
+msgid "Albums Number & Order"
+msgstr "Alben masonry"
+
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:529
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:558
+#, fuzzy
+msgid "Albums Filter"
+msgstr "Alben Breite"
+
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:535
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:566
+#, fuzzy
+msgid "Album Design"
+msgstr "Albumoptionen"
+
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:542
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:575
+#, fuzzy
+msgid "Album Elements"
+msgstr "Zeige Albumkommentare:"
+
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:720
+msgid "Albums Masonry & Grid"
+msgstr "Alben masonry"
+
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:738
+msgid "Albums width"
+msgstr "Alben Breite"
+
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:768
+msgid "Photos Masonry & Grid"
+msgstr "Fotos masonry"
+
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:792
+msgid "Albums Justified Grid"
+msgstr "Alben justified grid"
+
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:825
+msgid "Photos Justified Grid"
+msgstr "Fotos justified grid"
+
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:849
+msgid "Albums Scroller"
+msgstr "Albums Scroller"
+
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:885
+msgid "Photos Scroller"
+msgstr "Fotos scroller"
+
+#: mods/albums/public/shortcodes/mod-albums-shortcodes-bridge.php:896
+msgid "Show"
+msgstr ""
+
+#: mods/albums/public/shortcodes/photos-slider/photos-slider.php:34
+msgctxt "vc inline dummy"
+msgid "Photos scroller"
+msgstr "Fotos scroller"
+
+#: mods/albums/public/shortcodes/photos-jgrid/photos-jgrid.php:27
+msgctxt "vc inline dummy"
+msgid "Photos Justified Grid"
+msgstr "Fotos justified grid"
+
+#: mods/albums/public/shortcodes/albums-slider/albums-slider.php:29
+msgctxt "vc inline dummy"
+msgid "Albums posts scroller"
+msgstr "Alben Posts scroller"
+
+#: mods/albums/public/shortcodes/photos-masonry/photos-masonry.php:27
+msgctxt "vc inline dummy"
+msgid "Photos masonry"
+msgstr "Fotos masonry"
+
+#: mods/albums/public/shortcodes/albums-jgrid/albums-jgrid.php:29
+msgctxt "vc inline dummy"
+msgid "Albums Justified Grid"
+msgstr "Albums Justified Grid"
+
+#: mods/albums/public/shortcodes/albums/albums.php:29
+msgctxt "vc inline dummy"
+msgid "Albums Masonry & Grid"
+msgstr "Mauerwerk (Masonry)"
+
+#: mods/albums/public/widgets/photos.php:28
+#: mods/albums/public/widgets/photos.php:33
+msgctxt "widget"
+msgid "Photos"
+msgstr "Fotos"
+
+#: mods/albums/public/widgets/photos.php:206
+msgctxt "widget"
+msgid "Show Photos from following categories:"
+msgstr "Zeige Fotografien von folgenden Kategorien:"
+
+#: mods/albums/public/widgets/photos.php:238
+msgctxt "widget"
+msgid "How many:"
+msgstr "Wie viele:"
+
+#: mods/albums/admin/class-mod-albums-admin.php:15
+#: mods/albums/admin/class-mod-albums-admin.php:26
+msgctxt "backend albums"
+msgid "Photo Albums"
+msgstr "Foto Album"
+
+#: mods/albums/admin/class-mod-albums-admin.php:16
+msgctxt "backend albums"
+msgid "Photo Album"
+msgstr ""
+
+#: mods/albums/admin/class-mod-albums-admin.php:17
+#: mods/albums/admin/class-mod-albums-admin.php:18
+msgctxt "backend albums"
+msgid "Add New Album"
+msgstr "Neues Album hinzufügen"
+
+#: mods/albums/admin/class-mod-albums-admin.php:19
+msgctxt "backend albums"
+msgid "Edit Album"
+msgstr "Album editieren"
+
+#: mods/albums/admin/class-mod-albums-admin.php:20
+msgctxt "backend albums"
+msgid "New Album"
+msgstr ""
+
+#: mods/albums/admin/class-mod-albums-admin.php:21
+msgctxt "backend albums"
+msgid "View Album"
+msgstr ""
+
+#: mods/albums/admin/class-mod-albums-admin.php:22
+msgctxt "backend albums"
+msgid "Search for Albums"
+msgstr ""
+
+#: mods/albums/admin/class-mod-albums-admin.php:23
+msgctxt "backend albums"
+msgid "No Albums Found"
+msgstr "Keine Alben gefunden"
+
+#: mods/albums/admin/class-mod-albums-admin.php:24
+msgctxt "backend albums"
+msgid "No Albums Found in Trash"
+msgstr "Keine Alben im Papierkorb gefunden"
+
+#: mods/albums/admin/class-mod-albums-admin.php:51
+#: mods/albums/admin/class-mod-albums-admin.php:61
+msgctxt "backend albums"
+msgid "Album Categories"
+msgstr ""
+
+#: mods/albums/admin/class-mod-albums-admin.php:52
+msgctxt "backend albums"
+msgid "Album Category"
+msgstr ""
+
+#: mods/albums/admin/class-mod-albums-admin.php:53
+msgctxt "backend albums"
+msgid "Search in Category"
+msgstr "Suche in Kategorie"
+
+#: mods/albums/admin/class-mod-albums-admin.php:54
+msgctxt "backend albums"
+msgid "Photo Album Categories"
+msgstr ""
+
+#: mods/albums/admin/class-mod-albums-admin.php:55
+msgctxt "backend albums"
+msgid "Parent Category"
+msgstr "Übergeordnete Kategorie"
+
+#: mods/albums/admin/class-mod-albums-admin.php:56
+msgctxt "backend albums"
+msgid "Parent Category:"
+msgstr "Übergeordnete Kategorie"
+
+#: mods/albums/admin/class-mod-albums-admin.php:57
+msgctxt "backend albums"
+msgid "Edit Category"
+msgstr ""
+
+#: mods/albums/admin/class-mod-albums-admin.php:58
+msgctxt "backend albums"
+msgid "Update Category"
+msgstr "Kategorie aktualisieren"
+
+#: mods/albums/admin/class-mod-albums-admin.php:59
+msgctxt "backend albums"
+msgid "Add New Album Category"
+msgstr ""
+
+#: mods/albums/admin/class-mod-albums-admin.php:60
+msgctxt "backend albums"
+msgid "New Album Category Name"
+msgstr ""
+
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:20
+msgctxt "backend metabox"
+msgid "Display Photo & Video Albums"
+msgstr ""
+
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:40
+msgctxt "backend"
+msgid "ALL your Photo & Video albums are being displayed on this page!"
+msgstr "Alle Ihre Photo & Video Alben werden auf dieser Seite angezeigt:"
+
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:41
+msgctxt "backend"
+msgid "By default all your Albums will be displayed on this page. "
+msgstr ""
+
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:42
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:371
+msgctxt "backend"
+msgid ""
+"But you can specify which Album(s) or Album category(s) will (or will not) "
+"be shown."
+msgstr "Kategorie"
+
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:47
+msgctxt "backend"
+msgid " &mdash; all Albums will be shown on this page."
+msgstr "&mdash; alle Alben werden auf dieser Seite angezeigt."
+
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:51
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:380
+msgctxt "backend"
+msgid " &mdash; choose Album(s) or Album category(s) to be shown on this page."
+msgstr ""
+
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:55
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:384
+msgctxt "backend"
+msgid ""
+" &mdash; choose which Album(s) or Album category(s) will be excluded from "
+"displaying on this page."
+msgstr ""
+"&mdash; wählen Sie Album/Alben oder Albumkategorie(n) die auf dieser Seite "
+"NICHT angezeigt werden sollen."
+
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:71
+msgctxt "backend metabox"
+msgid "Albums Options"
+msgstr ""
+
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:102
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:194
+msgctxt "backend metabox"
+msgid "Show albums descriptions:"
+msgstr "Zeige Albenbeschreibung:"
+
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:154
+msgctxt "backend metabox"
+msgid "Background under album:"
+msgstr "Hintergrund unter Album:"
+
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:177
+msgctxt "backend metabox"
+msgid "Make all albums the same width:"
+msgstr "Alle Alben auf die gleiche Breite setzen:"
+
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:265
+msgctxt "backend metabox"
+msgid "Number of albums to display on one page:"
+msgstr "Anzahl Alben, die auf einer Seite gezeigt werden sollen:"
+
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:285
+msgctxt "backend metabox"
+msgid "Show albums titles:"
+msgstr ""
+
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:293
+msgctxt "backend metabox"
+msgid "Show albums excerpts:"
+msgstr "Zeige Auszüge von Alben:"
+
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:300
+msgctxt "backend metabox"
+msgid "Show album categories:"
+msgstr "Zeige Albumkategorien:"
+
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:303
+msgctxt "backend metabox"
+msgid "Show album date:"
+msgstr "Zeige Album Datum:"
+
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:306
+msgctxt "backend metabox"
+msgid "Show album author:"
+msgstr "Zeige Album Autor:"
+
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:309
+msgctxt "backend metabox"
+msgid "Show album comments:"
+msgstr "Zeige Albumkommentare:"
+
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:312
+msgctxt "backend metabox"
+msgid "Show number of images &amp; videos:"
+msgstr "Zeige Anzahl Bilder &amp; Videos:"
+
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:317
+msgctxt "backend metabox"
+msgid "Show albums filter:"
+msgstr "Zeige Filter für Alben:"
+
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:349
+msgctxt "backend metabox"
+msgid "Display Photos & Videos"
+msgstr "Zeige Fotos % Videos"
+
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:369
+msgctxt "backend"
+msgid ""
+"ALL Photos & Videos from all your Albums are being displayed on this page!"
+msgstr ""
+"ALLE Photos & Videos von allen Alben werden auf dieser Seite angezeigt!"
+
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:370
+msgctxt "backend"
+msgid "By default all your Photos & Videos will be displayed on this page. "
+msgstr ""
+
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:376
+msgctxt "backend"
+msgid ""
+" &mdash; all Photos & Videos from all Albums will be shown on this page."
+msgstr ""
+
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:400
+msgctxt "backend metabox"
+msgid "Gallery Options"
+msgstr "Gallerieoptionen"
+
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:444
+msgctxt "backend metabox"
+msgid "Number of items to display on one page:"
+msgstr "Anzahl Einträge, die auf einer Seite gezeigt werden sollen:"
+
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:463
+msgctxt "backend metabox"
+msgid "Show items titles:"
+msgstr "Zeige Titel der Einträge:"
+
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:472
+#, fuzzy
+msgctxt "backend metabox"
+msgid "Show items descriptions:"
+msgstr "Zeige Beschriftung der Einträge:"
+
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:496
+msgctxt "backend metabox"
+msgid "Add/Edit Media"
+msgstr ""
+
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:519
+msgctxt "backend metabox"
+msgid "Album Options"
+msgstr "Albumoptionen"
+
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:537
+msgctxt "backend metabox"
+msgid "Open album:"
+msgstr "Album öffnen:"
+
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:542
+msgctxt "backend metabox"
+msgid "Lightbox"
+msgstr "Lichtbox"
+
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:543
+msgctxt "backend metabox"
+msgid "Album page"
+msgstr "Albumseite"
+
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:561
+msgctxt "backend metabox"
+msgid "PhotoScroller"
+msgstr "FotoScroller"
+
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:562
+msgctxt "backend metabox"
+msgid "Masonry & Grid"
+msgstr "Mauerwerk (Masonry)"
+
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:563
+msgctxt "backend metabox"
+msgid "Justified Grid"
+msgstr ""
+
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:595
+msgctxt "backend metabox"
+msgid "Columns:"
+msgstr "Spalten:"
+
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:634
+msgctxt "backend metabox"
+msgid "Layout:"
+msgstr ""
+
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:639
+msgctxt "backend metabox"
+msgid "Fullscreen slideshow"
+msgstr "Vollbild Slideshow"
+
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:640
+msgctxt "backend metabox"
+msgid "Fullscreen slideshow + text area"
+msgstr "Vollbild Slideshow + Textbereich"
+
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:650
+msgctxt "backend metabox"
+msgid "Background under slideshow:"
+msgstr "Hintergrund unter Slideshow:"
+
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:660
+msgctxt "backend metabox"
+msgid "Show pixel overlay:"
+msgstr "Zeige Pixel Überlappung (overlay):"
+
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:669
+msgctxt "backend metabox"
+msgid "Top padding:"
+msgstr "Top padding:"
+
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:681
+msgctxt "backend metabox"
+msgid "Bottom padding:"
+msgstr "Bottom padding:"
+
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:693
+msgctxt "backend metabox"
+msgid "Side paddings:"
+msgstr "Seitliche Paddings:"
+
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:705
+msgctxt "backend metabox"
+msgid "Inactive image opacity (%):"
+msgstr "Deckkraft inaktiver Bilder (%):"
+
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:716
+msgctxt "backend metabox"
+msgid "Thumbnails:"
+msgstr "Thumbnails:"
+
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:721
+msgctxt "backend metabox"
+msgid "Show by default"
+msgstr "Standardmässig zeigen"
+
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:722
+msgctxt "backend metabox"
+msgid "Hide by default"
+msgstr "Standardmässig ausblenden"
+
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:723
+msgctxt "backend metabox"
+msgid "Disable"
+msgstr "Deaktivieren"
+
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:733
+msgctxt "backend metabox"
+msgid "Thumbnails width:"
+msgstr "Thumbnails Breite:"
+
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:745
+msgctxt "backend metabox"
+msgid "Thumbnails height:"
+msgstr "Thumbnails Höhe:"
+
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:757
+msgctxt "backend metabox"
+msgid "Autoplay:"
+msgstr "Autoplay:"
+
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:762
+msgctxt "backend metabox"
+msgid "Play"
+msgstr "Play"
+
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:763
+msgctxt "backend metabox"
+msgid "Paused"
+msgstr "Pausiert"
+
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:773
+msgctxt "backend metabox"
+msgid "Autoplay speed:"
+msgstr "Autoplay Geschwindigkeit:"
+
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:786
+msgctxt "backend metabox"
+msgid "Landscape images"
+msgstr ""
+
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:813
+msgctxt "backend metabox"
+msgid "Portrait images"
+msgstr "Hochformat Bilder"
+
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:854
+msgctxt "backend metabox"
+msgid "Masonry"
+msgstr "Mauerwerk (Masonry)"
+
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:855
+msgctxt "backend metabox"
+msgid "Grid"
+msgstr ""
+
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:957
+msgctxt "backend metabox"
+msgid "Exclude featured image from the album:"
+msgstr "Gezeigtes Bild von Album ausschliessen:"
+
+#: mods/albums/admin/metaboxes/metaboxes-albums.php:969
+msgctxt "backend metabox"
+msgid "Album preview width:"
+msgstr "Breite der Albumvorschau:"
+
+#: mods/albums/admin/options/options-archive-albums.php:12
+msgctxt "theme-options"
+msgid "Albums archives"
+msgstr ""
+
+#: mods/albums/admin/options/options-archive-albums.php:16
+msgctxt "theme-options"
+msgid "Albums category template"
+msgstr ""
+
+#: mods/albums/admin/options/options-albums.php:19
+#, fuzzy
+msgctxt "theme-options"
+msgid "Gallery"
+msgstr "Gallerie"
+
+#: mods/albums/admin/options/options-albums.php:28
+msgctxt "theme-options"
+msgid "Show in gallery albums"
+msgstr "Zeige in Gallery Alben"
+
+#: mods/albums/admin/options/options-albums.php:146
+msgctxt "theme-options"
+msgid "Comments"
+msgstr "Kommentare"
+
+#: mods/albums/admin/options/options-slug-albums.php:14
+msgctxt "theme-options"
+msgid "Albums slug"
+msgstr ""
+
+#: mods/benefits/public/shortcodes/mod-benefits-shortcodes-bridge.php:12
+msgid "Benefits"
+msgstr "Leistungen"
+
+#: mods/benefits/public/shortcodes/mod-benefits-shortcodes-bridge.php:26
+msgid ""
+"Note: By default, all your benefits will be displayed. <br>If you want to "
+"narrow output, select category(s) above. Only selected categories will be "
+"displayed."
+msgstr ""
+"Anmerkung: Standardmässig werden alle Leistungen (benefits) angezeigt. <br> "
+"Falls Sie die Anzeige eingrenzen wollen, selektieren Sie die gewünschte(n) "
+"Kategorie(n) oben. Nur ausgewählte Kategorien werden angezeigt. "
+
+#: mods/benefits/public/shortcodes/mod-benefits-shortcodes-bridge.php:50
+msgid "Benefits layout"
+msgstr "Leistungen (benefits) Layout"
+
+#: mods/benefits/public/shortcodes/mod-benefits-shortcodes-bridge.php:63
+msgid "Icons backgrounds"
+msgstr "Icons Hintergründe"
+
+#: mods/benefits/public/shortcodes/mod-benefits-shortcodes-bridge.php:75
+msgid "Border radius for image backgrounds"
+msgstr "Rahmenradius für Bildhintergründe"
+
+#: mods/benefits/public/shortcodes/mod-benefits-shortcodes-bridge.php:87
+msgid "Border radius (in px)"
+msgstr "Rahmen Radius (in px)"
+
+#: mods/benefits/public/shortcodes/mod-benefits-shortcodes-bridge.php:102
+msgid "Background size (in px)"
+msgstr "Hintergrund Grösse (in px)"
+
+#: mods/benefits/public/shortcodes/mod-benefits-shortcodes-bridge.php:111
+msgid "Backgrounds color"
+msgstr "Hintergrund Farbe"
+
+#: mods/benefits/public/shortcodes/mod-benefits-shortcodes-bridge.php:139
+msgid "Backgrounds hover color"
+msgstr "Hintergrund hover Farbe"
+
+#: mods/benefits/public/shortcodes/mod-benefits-shortcodes-bridge.php:167
+msgid "Icon size (in px)"
+msgstr "Icon Grösse (in px)"
+
+#: mods/benefits/public/shortcodes/mod-benefits-shortcodes-bridge.php:176
+msgid "Icons color"
+msgstr ""
+
+#: mods/benefits/public/shortcodes/mod-benefits-shortcodes-bridge.php:204
+msgid "Icons hover color"
+msgstr "Icons hover Farbe"
+
+#: mods/benefits/public/shortcodes/mod-benefits-shortcodes-bridge.php:232
+msgid "Decorative lines"
+msgstr ""
+
+#: mods/benefits/public/shortcodes/mod-benefits-shortcodes-bridge.php:246
+msgid "Title font size"
+msgstr "Titel Schriftgrösse:"
+
+#: mods/benefits/public/shortcodes/mod-benefits-shortcodes-bridge.php:263
+msgid "Content font size"
+msgstr "Schriftgrösse Inhalt"
+
+#: mods/benefits/public/shortcodes/mod-benefits-shortcodes-bridge.php:276
+msgid "Number of benefits to show"
+msgstr "Anzahl gezeigter Leistungen (benefits)"
+
+#: mods/benefits/public/shortcodes/mod-benefits-shortcodes-bridge.php:285
+msgid "Open link in"
+msgstr "Öffne Link in"
+
+#: mods/benefits/public/shortcodes/benefits-vc/benefits-vc.php:43
+msgctxt "vc inline dummy"
+msgid "Benefits"
+msgstr ""
+
+#: mods/benefits/admin/class-mod-benefits-admin.php:15
+#: mods/benefits/admin/class-mod-benefits-admin.php:26
+msgctxt "backend benefits"
+msgid "Benefits"
+msgstr ""
+
+#: mods/benefits/admin/class-mod-benefits-admin.php:16
+msgctxt "backend benefits"
+msgid "Benefit"
+msgstr ""
+
+#: mods/benefits/admin/class-mod-benefits-admin.php:17
+#: mods/benefits/admin/class-mod-benefits-admin.php:18
+msgctxt "backend benefits"
+msgid "Add New Benefit"
+msgstr ""
+
+#: mods/benefits/admin/class-mod-benefits-admin.php:19
+msgctxt "backend benefits"
+msgid "Edit Item"
+msgstr ""
+
+#: mods/benefits/admin/class-mod-benefits-admin.php:20
+msgctxt "backend benefits"
+msgid "New Item"
+msgstr ""
+
+#: mods/benefits/admin/class-mod-benefits-admin.php:21
+msgctxt "backend benefits"
+msgid "View Item"
+msgstr ""
+
+#: mods/benefits/admin/class-mod-benefits-admin.php:22
+msgctxt "backend benefits"
+msgid "Search Items"
+msgstr ""
+
+#: mods/benefits/admin/class-mod-benefits-admin.php:23
+msgctxt "backend benefits"
+msgid "No items found"
+msgstr ""
+
+#: mods/benefits/admin/class-mod-benefits-admin.php:24
+msgctxt "backend benefits"
+msgid "No items found in Trash"
+msgstr ""
+
+#: mods/benefits/admin/class-mod-benefits-admin.php:52
+#: mods/benefits/admin/class-mod-benefits-admin.php:55
+#: mods/benefits/admin/class-mod-benefits-admin.php:62
+msgctxt "backend partners"
+msgid "Benefit Categories"
+msgstr ""
+
+#: mods/benefits/admin/class-mod-benefits-admin.php:53
+msgctxt "backend partners"
+msgid "Benefit Category"
+msgstr ""
+
+#: mods/benefits/admin/class-mod-benefits-admin.php:60
+msgctxt "backend partners"
+msgid "Add New Benefit Category"
+msgstr ""
+
+#: mods/benefits/admin/class-mod-benefits-admin.php:61
+msgctxt "backend partners"
+msgid "New Benefit Category Name"
+msgstr ""
+
+#: mods/benefits/admin/metaboxes/metaboxes-benefits.php:34
+msgctxt "backend metabox"
+msgid "Icon code (Font Awesome):"
+msgstr ""
+
+#~ msgid "Next page"
+#~ msgstr "Nächste Seite"
+
+#~ msgid "Oops! That page can&rsquo;t be found."
+#~ msgstr "Diese Seite existiert nicht."
+
+#~ msgid ""
+#~ "It looks like nothing was found at this location. Maybe try to use a "
+#~ "search?"
+#~ msgstr ""
+#~ "An diesem Ort wurde nichts gefunden. Benutzen Sie bitte die Suchfunktion."
+
+#~ msgctxt "comments title"
+#~ msgid "1 Comment"
+#~ msgid_plural "%1$s Comments"
+#~ msgstr[0] "1 Kommentar"
+#~ msgstr[1] "%1$s Kommentare"
+
+#~ msgid "&larr; Older Comments"
+#~ msgstr "&larr; Ältere Kommentare"
+
+#~ msgid "Newer Comments &rarr;"
+#~ msgstr "Neuere Kommentare &rarr;"
+
+#~ msgid "Comments are closed."
+#~ msgstr "Kommentarfunktion wurde geschlossen."
+
+#~ msgid "Required fields are marked %s"
+#~ msgstr "Pflichtfelder sind mit %s markiert."
+
+#~ msgid "Name &#42;"
+#~ msgstr "Name &#42"
+
+#~ msgid "Name&#42;"
+#~ msgstr "\tName &#42;"
+
+#~ msgid "Email &#42;"
+#~ msgstr "Email &#42;"
+
+#~ msgid "Email&#42;"
+#~ msgstr "Email&#42;"
+
+#~ msgid "Website"
+#~ msgstr "Webseite"
+
+#~ msgid "Comment"
+#~ msgstr "Kommentar"
+
+#~ msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+#~ msgstr ""
+#~ "Sie müssen <a href=\"%s\">eingeloggt sein</a> um Kommentare zu posten."
+
+#~ msgid ""
+#~ "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out "
+#~ "of this account\">Log out?</a>"
+#~ msgstr ""
+#~ "Sie sind angemeldet als <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title="
+#~ "\"Diesen Account abmelden\">Ausloggen?</a>"
+
+#~ msgid "Your email address will not be published."
+#~ msgstr "Ihre Mailadresse wird nicht publiziert."
+
+#~ msgctxt "backend bulk edit"
+#~ msgid "&mdash; No Change &mdash;"
+#~ msgstr "&mdash; Keine Änderung &mdash;"
+
+#~ msgctxt "backend bulk edit"
+#~ msgid "Left"
+#~ msgstr "Links"
+
+#~ msgctxt "backend bulk edit"
+#~ msgid "Right"
+#~ msgstr "Rechts"
+
+#~ msgctxt "backend bulk edit"
+#~ msgid "Disabled"
+#~ msgstr "Deaktiviert"
+
+#~ msgctxt "media bulk action"
+#~ msgid "Show titles"
+#~ msgstr "Zeigen"
+
+#~ msgctxt "media bulk action"
+#~ msgid "Hide titles"
+#~ msgstr "Titel ausblenden"
+
+#~ msgctxt "backend media error"
+#~ msgid "You are not allowed to perform this action."
+#~ msgstr "Sie haben keine Berechtigung, diese Aktion auszuführen."
+
+#~ msgctxt "attachment field"
+#~ msgid "Hide title"
+#~ msgstr "Titel ausblenden"
+
+#~ msgctxt "backend"
+#~ msgid "Thumbnail"
+#~ msgstr "Miniatur"
+
+#~ msgctxt "backend"
+#~ msgid "Sidebar"
+#~ msgstr "Seitenleiste"
+
+#~ msgctxt "backend"
+#~ msgid "Footer"
+#~ msgstr "Fusszeile"
+
+#~ msgctxt "backend"
+#~ msgid "Image title"
+#~ msgstr "Bildtitel"
+
+#~ msgctxt "media title hidden"
+#~ msgid "Hidden"
+#~ msgstr "Ausgeblendet"
+
+#~ msgctxt "media title visible"
+#~ msgid "Visible"
+#~ msgstr "Sichtbar"
+
+#~ msgctxt "widget"
+#~ msgid "Title"
+#~ msgstr "Titel"
+
+#~ msgctxt "widget"
+#~ msgid "Content"
+#~ msgstr "Inhalt"
+
+#~ msgctxt "widget"
+#~ msgid "Show"
+#~ msgstr "Zeigen"
+
+#~ msgctxt "backend metabox"
+#~ msgid "Yes"
+#~ msgstr "Ja"
+
+#~ msgctxt "backend metabox"
+#~ msgid "No"
+#~ msgstr "Nein"
+
+#~ msgctxt "backend metabox"
+#~ msgid "Enabled"
+#~ msgstr "Aktiviert"
+
+#~ msgctxt "backend metabox"
+#~ msgid "Disabled"
+#~ msgstr "Deaktiviert"
+
+#~ msgctxt "backend metabox"
+#~ msgid "preserve images proportions"
+#~ msgstr "erhalte Bildproportionen"
+
+#~ msgctxt "backend metabox"
+#~ msgid "make images round"
+#~ msgstr "mache Bilder rund"
+
+#~ msgctxt "backend metabox"
+#~ msgid "In the bottom"
+#~ msgstr "Am Schluss"
+
+#~ msgctxt "backend metabox"
+#~ msgid "Left-aligned image"
+#~ msgstr "Links-ausgerichtetes Bild"
+
+#~ msgctxt "backend metabox"
+#~ msgid "Right-aligned image"
+#~ msgstr "Rechts-ausgerichtetes Bild"
+
+#~ msgctxt "backend metabox"
+#~ msgid "None"
+#~ msgstr "Keine"
+
+#~ msgctxt "backend metabox"
+#~ msgid "Fade in"
+#~ msgstr "Einblenden"
+
+#~ msgctxt "backend metabox"
+#~ msgid "Move up"
+#~ msgstr "Nach oben versetzen"
+
+#~ msgctxt "backend metabox"
+#~ msgid "Fall perspective"
+#~ msgstr "Fall Perspektive"
+
+#~ msgctxt "backend metabox"
+#~ msgid "Fly"
+#~ msgstr "Fliegen"
+
+#~ msgctxt "backend metabox"
+#~ msgid "Flip"
+#~ msgstr "Flippen"
+
+#~ msgctxt "backend metabox"
+#~ msgid "Helix"
+#~ msgstr "Helix"
+
+#~ msgctxt "backend metabox"
+#~ msgid "Gap between images (px):"
+#~ msgstr "Abstand zwischen Bildern (px):"
+
+#~ msgctxt "backend metabox"
+#~ msgid ""
+#~ "Image paddings (e.g. 5 pixel padding will give you 10 pixel gaps between "
+#~ "images)"
+#~ msgstr ""
+#~ "Bild Paddings (z.B. 5 Pixel Padding entsprechen 10 Pixel Abstand zwischen "
+#~ "den Bildern)"
+
+#~ msgctxt "backend metabox"
+#~ msgid "Row target height (px):"
+#~ msgstr "Höhe (px):"
+
+#~ msgctxt "backend metabox"
+#~ msgid "Column minimum width (px):"
+#~ msgstr "Minimale Spaltenbreite (px):"
+
+#~ msgctxt "backend metabox"
+#~ msgid ""
+#~ "Real column width will slightly vary depending on site visitor screen "
+#~ "width"
+#~ msgstr ""
+#~ "Effektive Spaltenbreite variiert etwas abhängig von der Bildschirmbreite "
+#~ "des Besuchers"
+
+#~ msgctxt "backend metabox"
+#~ msgid "Desired columns number:"
+#~ msgstr "Gewünschte Spaltenzahl:"
+
+#~ msgctxt "backend metabox"
+#~ msgid "100% width:"
+#~ msgstr "100% Breite"
+
+#~ msgctxt "backend metabox"
+#~ msgid "Show image miniatures:"
+#~ msgstr "Zeige Bildminiaturen:"
+
+#~ msgctxt "backend metabox"
+#~ msgid "Fade"
+#~ msgstr "Verblassen"
+
+#~ msgctxt "backend metabox"
+#~ msgid "Direction aware"
+#~ msgstr "Direction aware (richtungsbewusst)"
+
+#~ msgctxt "backend metabox"
+#~ msgid "Background color:"
+#~ msgstr "Hintergrundfarbe"
+
+#~ msgctxt "backend metabox"
+#~ msgid "Dark"
+#~ msgstr "Dunkel"
+
+#~ msgctxt "backend metabox"
+#~ msgid "Enabled (image with paddings)"
+#~ msgstr "Aktiviert (Bilder mit Paddings)"
+
+#~ msgctxt "backend metabox"
+#~ msgid "Enabled (image without paddings)"
+#~ msgstr "Aktiviert (Bilder ohne Paddings)"
+
+#~ msgctxt "backend metabox"
+#~ msgid "Content alignment:"
+#~ msgstr "Inhaltsausrichtung:"
+
+#~ msgctxt "backend metabox"
+#~ msgid "Centre"
+#~ msgstr "Zentriert"
+
+#~ msgctxt "backend metabox"
+#~ msgid "Content:"
+#~ msgstr "Inhalt"
+
+#~ msgctxt "backend metabox"
+#~ msgid "Always visible"
+#~ msgstr "Immer sichtbar"
+
+#~ msgctxt "backend metabox"
+#~ msgid "Hide last row if there's not enough images to fill it:"
+#~ msgstr ""
+#~ "Blende die letzte Reihe aus, falls nicht genügend Bilder zum ausfüllen "
+#~ "vorhanden sind:"
+
+#~ msgctxt "backend metabox"
+#~ msgid "Loading mode:"
+#~ msgstr "Lademodus:"
+
+#~ msgctxt "backend metabox"
+#~ msgid "AJAX Pagination"
+#~ msgstr "AJAX Pagination"
+
+#~ msgctxt "backend metabox"
+#~ msgid "\"Load more\" button"
+#~ msgstr "\"mehr laden\" Schaltfläche"
+
+#~ msgctxt "backend metabox"
+#~ msgid "Lazy loading"
+#~ msgstr "Lazy loading"
+
+#~ msgctxt "backend metabox"
+#~ msgid "Standard (no AJAX)"
+#~ msgstr "Standard (kein AJAX)"
+
+#~ msgctxt "backend metabox"
+#~ msgid "Loading effect:"
+#~ msgstr "Ladeeffekt:"
+
+#~ msgctxt "backend"
+#~ msgid "descending"
+#~ msgstr "absteigend"
+
+#~ msgctxt "backend metabox"
+#~ msgid "Order by:"
+#~ msgstr "Sortieren nach:"
+
+#~ msgctxt "backend"
+#~ msgid "date"
+#~ msgstr "Datum"
+
+#~ msgctxt "backend metabox"
+#~ msgid "Thumbnail width (in %):"
+#~ msgstr "Thumbnail Breite (in %):"
+
+#~ msgctxt "theme-options"
+#~ msgid "Light"
+#~ msgstr "Hell"
+
+#~ msgctxt "theme-options"
+#~ msgid "Dark"
+#~ msgstr "Dunkel"
+
+#~ msgctxt "theme-options"
+#~ msgid "From Theme Options"
+#~ msgstr "Von Thema Optionen"
+
+#~ msgctxt "backend metabox"
+#~ msgid "Max width (%):"
+#~ msgstr "Maximale Breite (%):"
+
+#~ msgctxt "backend metabox"
+#~ msgid "Min width (%):"
+#~ msgstr "Minimale Breite (%):"
+
+#~ msgctxt "backend metabox"
+#~ msgid "Filling mode (desktop):"
+#~ msgstr "Füllmodus (desktop):"
+
+#~ msgctxt "theme-options"
+#~ msgid "fit (preserve proportions)"
+#~ msgstr "ausfüllen (Proportionen erhalten)"
+
+#~ msgctxt "theme-options"
+#~ msgid "fill the viewport (crop)"
+#~ msgstr "fülle Ansichtsfenster (beschneiden)"
+
+#~ msgctxt "backend metabox"
+#~ msgid "Filling mode (mobile):"
+#~ msgstr "Füllmodus (mobile):"
+
+#~ msgctxt "backend metabox"
+#~ msgid "Display Blog Categories"
+#~ msgstr "Kategorien"
+
+#~ msgctxt "backend"
+#~ msgid "By default all your Blog posts will be displayed on this page. "
+#~ msgstr "Standardmässig werden alle Blogeinträge auf dieser Seite angezeigt."
+
+#~ msgctxt "backend metabox"
+#~ msgid "Blog Options"
+#~ msgstr "Blogoptionen"
+
+#~ msgctxt "backend metabox"
+#~ msgid "Make all posts the same width:"
+#~ msgstr "Alle Einträge auf die gleiche Breite setzen:"
+
+#~ msgctxt "backend metabox"
+#~ msgid "Background under posts:"
+#~ msgstr "Hintergrund hinter Einträgen (posts):"
+
+#~ msgctxt "backend metabox"
+#~ msgid "Enable fancy date:"
+#~ msgstr "Aktiviere schickes Datum:"
+
+#~ msgctxt "backend metabox"
+#~ msgid "Number of posts to display on one page:"
+#~ msgstr "Anzahl der Einträge, die auf einer Seite angezeigt werden sollen:"
+
+#~ msgctxt "backend metabox"
+#~ msgid "Show excerpts:"
+#~ msgstr "Zeige Auszüge:"
+
+#~ msgctxt "backend metabox"
+#~ msgid "Show read more buttons:"
+#~ msgstr "Zeige mehr lesen Schaltflächen:"
+
+#~ msgctxt "backend metabox"
+#~ msgid "Show post categories:"
+#~ msgstr "Zeige Eintragskategorien:"
+
+#~ msgctxt "backend metabox"
+#~ msgid "Show post date:"
+#~ msgstr "Zeige Eintragsdatum:"
+
+#~ msgctxt "backend metabox"
+#~ msgid "Show post author:"
+#~ msgstr "Zeige Eintragsautor:"
+
+#~ msgctxt "backend metabox"
+#~ msgid "Show post comments:"
+#~ msgstr "Zeige Eintragskommentare:"
+
+#~ msgid "Hide featured image on post page:"
+#~ msgstr "Gezeigtes Bild auf Eintragsseite (post page) ausblenden:"
+
+#~ msgctxt "backend metabox"
+#~ msgid "Related posts category:"
+#~ msgstr "Verwandte Einträge"
+
+#~ msgctxt "backend metabox"
+#~ msgid ""
+#~ "Related posts can be enabled / disabled from %sTheme Options / Blog, "
+#~ "Portfolio, Gallery%s"
+#~ msgstr ""
+#~ "Ähnliche Einträge können aktiviert/deaktiviert werden von %sThema "
+#~ "Optionen / Blog, Portfolio, Gallerie%s"
+
+#~ msgctxt "backend metabox"
+#~ msgid "Post Preview Options"
+#~ msgstr "Optionen der Vorschau der Einträge:"
+
+#~ msgctxt "backend metabox"
+#~ msgid "standard image gallery"
+#~ msgstr "Standard Bildgallerie"
+
+#~ msgctxt "backend metabox"
+#~ msgid "featured image with gallery hover"
+#~ msgstr "gezeigte Bilder mit Gallerie hover"
+
+#~ msgctxt "backend metabox"
+#~ msgid "Post Preview Style"
+#~ msgstr "Stil der Vorschau des Eintrages"
+
+#~ msgctxt "backend metabox"
+#~ msgid "For video post format:"
+#~ msgstr "Für Video Eintragsformat:"
+
+#~ msgctxt "backend metabox"
+#~ msgid "Page layout:"
+#~ msgstr "Seitenlayout:"
+
+#~ msgctxt "backend metabox"
+#~ msgid "full-width"
+#~ msgstr "seitenbreit"
+
+#~ msgctxt "backend metabox"
+#~ msgid "Hide:"
+#~ msgstr "Hide:"
+
+#~ msgctxt "backend metabox"
+#~ msgid "header &amp; top bar"
+#~ msgstr "Header &amp; Top Bar"
+
+#~ msgctxt "backend metabox"
+#~ msgid "floating menu"
+#~ msgstr "Fliessendes (floating) Menu"
+
+#~ msgctxt "backend metabox"
+#~ msgid "content area"
+#~ msgstr "Inhaltsbereich"
+
+#~ msgctxt "backend metabox"
+#~ msgid "bottom bar"
+#~ msgstr "Fusszeile (bottom bar)"
+
+#~ msgctxt "backend metabox"
+#~ msgid "Beautiful loading:"
+#~ msgstr "Schönes Laden:"
+
+#~ msgctxt "backend metabox"
+#~ msgid "+ Show"
+#~ msgstr "+ zeige"
+
+#~ msgctxt "backend metabox"
+#~ msgid "- Hide"
+#~ msgstr "- verstecke"
+
+#~ msgctxt "backend metabox"
+#~ msgid "advanced settings"
+#~ msgstr "Fortgeschrittene Einstellungen"
+
+#~ msgctxt "backend"
+#~ msgid "modified"
+#~ msgstr "geändert"
+
+#~ msgctxt "backend"
+#~ msgid "parent"
+#~ msgstr "Eltern (parent)"
+
+#~ msgctxt "backend"
+#~ msgid "rand"
+#~ msgstr "rand"
+
+#~ msgctxt "backend"
+#~ msgid "comment_count"
+#~ msgstr "Kommentar_Zähler"
+
+#~ msgctxt "backend"
+#~ msgid "menu_order"
+#~ msgstr "Menu_Reihenfolge"
+
+#~ msgctxt "backend"
+#~ msgid "repeat"
+#~ msgstr "repeat"
+
+#~ msgctxt "backend"
+#~ msgid "repeat-x"
+#~ msgstr "repeat"
+
+#~ msgctxt "backend"
+#~ msgid "repeat-y"
+#~ msgstr "repeat"
+
+#~ msgctxt "backend"
+#~ msgid "no-repeat"
+#~ msgstr "repeat"
+
+#~ msgctxt "backend"
+#~ msgid "center"
+#~ msgstr "zentriert"
+
+#~ msgctxt "backend"
+#~ msgid "left"
+#~ msgstr "links"
+
+#~ msgctxt "backend"
+#~ msgid "right"
+#~ msgstr "rechts"
+
+#~ msgctxt "backend"
+#~ msgid "top"
+#~ msgstr "oben"
+
+#~ msgctxt "backend"
+#~ msgid "bottom"
+#~ msgstr "unten"
+
+#~ msgctxt "backend metabox"
+#~ msgid "Pagination & filter with AJAX"
+#~ msgstr "Pagination & Filter mit AJAX"
+
+#~ msgctxt "backend metabox"
+#~ msgid "\"Load more\" button & filter with AJAX"
+#~ msgstr "\"mehr laden\" Schaltfläche & Filter mit AJAX"
+
+#~ msgctxt "backend metabox"
+#~ msgid "h1"
+#~ msgstr "h1"
+
+#~ msgctxt "backend metabox"
+#~ msgid "h2"
+#~ msgstr "H2"
+
+#~ msgctxt "backend metabox"
+#~ msgid "h3"
+#~ msgstr "H3"
+
+#~ msgctxt "backend metabox"
+#~ msgid "h4"
+#~ msgstr "h4"
+
+#~ msgctxt "backend metabox"
+#~ msgid "h5"
+#~ msgstr "h5"
+
+#~ msgctxt "backend metabox"
+#~ msgid "h6"
+#~ msgstr "h6"
+
+#~ msgctxt "backend metabox"
+#~ msgid "small"
+#~ msgstr "klein"
+
+#~ msgctxt "backend metabox"
+#~ msgid "medium"
+#~ msgstr "mittel"
+
+#~ msgctxt "backend metabox"
+#~ msgid "large"
+#~ msgstr "gross"
+
+#~ msgctxt "backend metabox"
+#~ msgid "Accent"
+#~ msgstr "Akzentuierung"
+
+#~ msgctxt "backend metabox"
+#~ msgid "Custom color"
+#~ msgstr "Benutzerdefinierte Farbe"
+
+#~ msgctxt "backend metabox"
+#~ msgid "Sidebar Options"
+#~ msgstr "Seitenleiste Optionen"
+
+#~ msgctxt "backend metabox"
+#~ msgid "Sidebar position:"
+#~ msgstr "Position der Seitenleiste:"
+
+#~ msgctxt "backend metabox"
+#~ msgid "Right"
+#~ msgstr "Rechts"
+
+#~ msgctxt "backend metabox"
+#~ msgid "Footer Options"
+#~ msgstr "Optionen Fusszeile"
+
+#~ msgctxt "backend metabox"
+#~ msgid "Show widgetized footer:"
+#~ msgstr "Zeige widgetierte Fusszeile:"
+
+#~ msgctxt "backend metabox"
+#~ msgid "Footer widget area:"
+#~ msgstr "Bereich Fusszeilen Widget:"
+
+#~ msgctxt "backend metabox"
+#~ msgid "Page Header Options"
+#~ msgstr "Seitenheader Optionen"
+
+#~ msgctxt "backend metabox"
+#~ msgid "Hide page title"
+#~ msgstr "Blende Seitentitel aus"
+
+#~ msgctxt "backend metabox"
+#~ msgid "Fancy title"
+#~ msgstr "Schöner Titel"
+
+#~ msgctxt "backend metabox"
+#~ msgid "Transparent background color:"
+#~ msgstr "Transparente Hintergrundfarbe:"
+
+#~ msgctxt "backend metabox"
+#~ msgid "Transparent background opacity:"
+#~ msgstr "Transparente Hintergrunddeckkraft:"
+
+#~ msgctxt "backend metabox"
+#~ msgid "Slideshow Options"
+#~ msgstr "Slideshow Optionen"
+
+#~ msgctxt "backend metabox"
+#~ msgid "Photo scroller"
+#~ msgstr "Foto scroller"
+
+#~ msgctxt "backend metabox"
+#~ msgid "if non selected, all slideshows will be displayed."
+#~ msgstr "falls nichts ausgewählt, werden alle Slideshows gezeigt."
+
+#~ msgctxt "backend metabox"
+#~ msgid "Edit slideshows"
+#~ msgstr "Slideshows editieren"
+
+#~ msgctxt "backend metabox"
+#~ msgid "full-screen"
+#~ msgstr "Vollbildschirm"
+
+#~ msgctxt "backend metabox"
+#~ msgid "full-screen with content"
+#~ msgstr "Vollbildschirm mit Inhalt"
+
+#~ msgctxt "backend metabox"
+#~ msgid "proportional, full-width"
+#~ msgstr "proportional, seitenbreit"
+
+#~ msgctxt "backend metabox"
+#~ msgid "Images sizing: "
+#~ msgstr "Bilddimensionierung:"
+
+#~ msgctxt "backend metabox"
+#~ msgid "fit (preserve proportions)"
+#~ msgstr "ausfüllen (Proportionen erhalten)"
+
+#~ msgctxt "backend metabox"
+#~ msgid "fill the viewport (crop)"
+#~ msgstr "fülle Ansichtsfenster (beschneiden)"
+
+#~ msgctxt "backend metabox"
+#~ msgid "On page load slideshow is: "
+#~ msgstr "Status der Slideshow beim Laden der Seite:"
+
+#~ msgctxt "backend metabox"
+#~ msgid "playing"
+#~ msgstr "spielen"
+
+#~ msgctxt "backend metabox"
+#~ msgid "Autoslide interval (in milliseconds):"
+#~ msgstr "Autoslide Interval (in Millisekunden):"
+
+#~ msgctxt "backend metabox"
+#~ msgid "Inactive image transparency (%):"
+#~ msgstr "Deckkraft inaktiver Bilder (%):"
+
+#~ msgctxt "backend metabox"
+#~ msgid "Choose slider: "
+#~ msgstr "Wähle Slider:"
+
+#~ msgctxt "backend metabox"
+#~ msgid "Choose slider:"
+#~ msgstr "Wähle Slider:"
+
+#~ msgctxt "backend metabox"
+#~ msgid "Enable slideshow background and paddings:"
+#~ msgstr "Slideshow Hintergrund und Paddings aktivieren:"
+
+#~ msgctxt "backend metabox"
+#~ msgid "Fancy Title Options"
+#~ msgstr "Schöne Titeloptionen (fancy title)"
+
+#~ msgctxt "backend metabox"
+#~ msgid "Fancy title layout:"
+#~ msgstr "Schönes Titellayout (fancy title):"
+
+#~ msgctxt "backend metabox"
+#~ msgid "Left title + right breadcrumbs"
+#~ msgstr "Linker Titel + rechte Breadcrumbs"
+
+#~ msgctxt "backend metabox"
+#~ msgid "Right title + left breadcrumbs"
+#~ msgstr "Rechter Titel + linke Breadcrumbs"
+
+#~ msgctxt "backend metabox"
+#~ msgid "Left title + left breadcrumbs"
+#~ msgstr "Linker Titel + linke Breadcrumbs"
+
+#~ msgctxt "backend metabox"
+#~ msgid "Right title + right breadcrumbs"
+#~ msgstr "Rechter Titel + rechte Breadrumbs"
+
+#~ msgctxt "backend metabox"
+#~ msgid "Centred title + centred breadcrumbs"
+#~ msgstr "Zentrierter Titel + zentrierte Breadcrumbs"
+
+#~ msgctxt "backend metabox"
+#~ msgid "Breadcrumbs:"
+#~ msgstr "Breadcrumbs (Brotkrümel):"
+
+#~ msgctxt "backend metabox"
+#~ msgid "Breadcrumbs text color:"
+#~ msgstr "Breadcrumbs Textfarbe:"
+
+#~ msgctxt "backend metabox"
+#~ msgid "Breadcrumbs background color:"
+#~ msgstr "Breadcrumbs Hintergrundfarbe:"
+
+#~ msgctxt "backend metabox"
+#~ msgid "Black"
+#~ msgstr "Schwarz"
+
+#~ msgctxt "backend metabox"
+#~ msgid "White"
+#~ msgstr "Weiss"
+
+#~ msgctxt "backend metabox"
+#~ msgid "Title font size:"
+#~ msgstr "Titel Schriftgrösse:"
+
+#~ msgctxt "backend metabox"
+#~ msgid "Title font color:"
+#~ msgstr "Titel Schriftfarbe:"
+
+#~ msgctxt "backend metabox"
+#~ msgid "Subtitle font size:"
+#~ msgstr "Untertitel Schriftgrösse:"
+
+#~ msgctxt "backend metabox"
+#~ msgid "Subtitle font color:"
+#~ msgstr "Untertitel Schriftfarbe:"
+
+#~ msgctxt "backend metabox"
+#~ msgid "Background image:"
+#~ msgstr "Hintergrundbild:"
+
+#~ msgctxt "backend metabox"
+#~ msgid "Repeat options:"
+#~ msgstr "Wiederholungsoptionen:"
+
+#~ msgctxt "backend metabox"
+#~ msgid "Fullscreen:"
+#~ msgstr "Vollbildschirm:"
+
+#~ msgctxt "backend metabox"
+#~ msgid "Fixed background:"
+#~ msgstr "Fixierter Hintergrund:"
+
+#~ msgctxt "backend metabox"
+#~ msgid "Parallax speed:"
+#~ msgstr "Parallax Geschwindigkeit:"
+
+#~ msgctxt "backend metabox"
+#~ msgid "if field is empty, parallax disabled"
+#~ msgstr "wenn das Feld leer ist, ist Parallax deaktiviert"
+
+#~ msgctxt "backend metabox"
+#~ msgid "Height (px):"
+#~ msgstr "Höhe (px):"
+
+#~ msgctxt "backend metabox"
+#~ msgid "Display content area:"
+#~ msgstr "Zeige Inhaltsbereich:"
+
+#~ msgctxt "backend metabox"
+#~ msgid "Content area position"
+#~ msgstr "Position Inhaltsbereich"
+
+#~ msgctxt "backend metabox"
+#~ msgid "Before items"
+#~ msgstr "Vor den Einträgen"
+
+#~ msgctxt "backend metabox"
+#~ msgid "After items"
+#~ msgstr "Nach den Einträgen"
+
+#~ msgctxt "backend"
+#~ msgid "General"
+#~ msgstr "Allgemein"
+
+#~ msgctxt "theme-options"
+#~ msgid "Top"
+#~ msgstr "Kopf"
+
+#~ msgctxt "theme-options"
+#~ msgid "Bottom"
+#~ msgstr "Fuss"
+
+#~ msgctxt "theme-options"
+#~ msgid "Switch after (px)"
+#~ msgstr "Umstellen nach (px)"
+
+#~ msgctxt "theme-options"
+#~ msgid "Caption"
+#~ msgstr "Beschriftung"
+
+#~ msgctxt "theme-options"
+#~ msgid "Show graphic icon"
+#~ msgstr "Zeige grafischer Icon"
+
+#~ msgctxt "theme-options"
+#~ msgid "Accent"
+#~ msgstr "Akzentuierung"
+
+#~ msgctxt "theme-options"
+#~ msgid "Custom color"
+#~ msgstr "Benutzerdefinierte Farbe"
+
+#~ msgctxt "theme-options"
+#~ msgid "Custom gradient"
+#~ msgstr "Benutzerdefinierter Verlauf"
+
+#~ msgctxt "theme-options"
+#~ msgid "Gradient"
+#~ msgstr "Verlauf"
+
+#~ msgctxt "theme-options"
+#~ msgid "Blog, Portfolio, Gallery"
+#~ msgstr "Blog, Portfolio, Gallery"
+
+#~ msgctxt "theme-options"
+#~ msgid "Blog post"
+#~ msgstr "Blog Einträge"
+
+#~ msgctxt "theme-options"
+#~ msgid "Author info in posts"
+#~ msgstr "Autoreninfo in Einträgen (posts)"
+
+#~ msgctxt "theme-options"
+#~ msgid "Show author info in blog posts"
+#~ msgstr "Zeige Autoreninfo in Blogeinträgen"
+
+#~ msgctxt "theme-options"
+#~ msgid "Show in blog posts"
+#~ msgstr "Blogeinträge anzeigen"
+
+#~ msgctxt "theme-options"
+#~ msgid "Related posts"
+#~ msgstr "Ähnliche Einträge (posts)"
+
+#~ msgid "Related posts"
+#~ msgstr "Ähnliche Einträge (posts)"
+
+#~ msgctxt "theme-options"
+#~ msgid "Maximum number of related posts"
+#~ msgstr "Maximale Anzahl zugehöriger Einträge"
+
+#~ msgctxt "theme-options"
+#~ msgid "Show logo"
+#~ msgstr "Zeige Logo"
+
+#~ msgctxt "theme-options"
+#~ msgid "Mobile"
+#~ msgstr "Mobil"
+
+#~ msgctxt "theme-options"
+#~ msgid "Bottom bar"
+#~ msgstr "Fusszeile"
+
+#~ msgctxt "theme-options"
+#~ msgid "Favicon"
+#~ msgstr "Favicon"
+
+#~ msgctxt "theme-options"
+#~ msgid "Regular (16x16 px)"
+#~ msgstr "Regelmässig (16x16px)"
+
+#~ msgctxt "theme-options"
+#~ msgid "High-DPI (32x32 px)"
+#~ msgstr "Hohe DPI (32x32 px)"
+
+#~ msgctxt "theme-options"
+#~ msgid "Icons for handheld devices"
+#~ msgstr "Icons für Handheld Geräte"
+
+#~ msgctxt "theme-options"
+#~ msgid "60x60 px (old iPhone)"
+#~ msgstr "60x60 px (altes iPhone)"
+
+#~ msgctxt "theme-options"
+#~ msgid "76x76 px (old iPad)"
+#~ msgstr "76x76 px (altes iPad)"
+
+#~ msgctxt "theme-options"
+#~ msgid "Give credits to Dream-Theme"
+#~ msgstr "Geben Sie dem Dream-Theme Credits"
+
+#~ msgctxt "theme-options"
+#~ msgid "Buttons"
+#~ msgstr "Schaltflächen"
+
+#~ msgctxt "theme-options"
+#~ msgid "Buttons style"
+#~ msgstr "Schaltflächenstil"
+
+#~ msgctxt "theme-options"
+#~ msgid "Flat"
+#~ msgstr "Flach"
+
+#~ msgctxt "theme-options"
+#~ msgid "Buttons color"
+#~ msgstr "Schaltflächenfarbe"
+
+#~ msgctxt "theme-options"
+#~ msgid "Font-family"
+#~ msgstr "Schrift-Familie"
+
+#~ msgctxt "theme-options"
+#~ msgid "Font-size"
+#~ msgstr "Schrift-Grösse"
+
+#~ msgctxt "theme-options"
+#~ msgid "Line-height"
+#~ msgstr "Linien-Höhe"
+
+#~ msgctxt "theme-options"
+#~ msgid "Fonts"
+#~ msgstr "Schrift"
+
+#~ msgctxt "theme-options"
+#~ msgid "Choose basic font-family"
+#~ msgstr "Wähle Basic Schrift-Familie"
+
+#~ msgctxt "theme-options"
+#~ msgid "Large font size"
+#~ msgstr "Grosse Schriftgrösse"
+
+#~ msgctxt "theme-options"
+#~ msgid "Large line-height"
+#~ msgstr "Grosse Linienhöhe"
+
+#~ msgctxt "theme-options"
+#~ msgid "Medium font size"
+#~ msgstr "Mittlere Schriftgrösse"
+
+#~ msgctxt "theme-options"
+#~ msgid "Medium line-height"
+#~ msgstr "Mittlere Linienhöhe"
+
+#~ msgctxt "theme-options"
+#~ msgid "Small font size"
+#~ msgstr "Kleine Schriftgrösse"
+
+#~ msgctxt "theme-options"
+#~ msgid "Small line-height"
+#~ msgstr "Kleine Linienhöhe"
+
+#~ msgctxt "theme-options"
+#~ msgid "Headers fonts"
+#~ msgstr "Header Schrift"
+
+#~ msgctxt "theme-options"
+#~ msgid "Footer &amp; Bottom bar"
+#~ msgstr "Fusszeile (footer) &amp; Fussbalken"
+
+#~ msgctxt "theme-options"
+#~ msgid "Footer"
+#~ msgstr "Fusszeile"
+
+#~ msgctxt "theme-options"
+#~ msgid "Footer style"
+#~ msgstr "Fusszeile (footer) Stil"
+
+#~ msgctxt "theme-options"
+#~ msgid "Footer background &amp; lines"
+#~ msgstr "Fusszeile Hintergrund &amp; Linien"
+
+#~ msgctxt "theme-options"
+#~ msgid "Content-width line"
+#~ msgstr "Linie auf Breite des Inhalts"
+
+#~ msgctxt "theme-options"
+#~ msgid "Full-width line"
+#~ msgstr "Linie auf ganzer Breite"
+
+#~ msgctxt "theme-options"
+#~ msgid "Background"
+#~ msgstr "Hintergrund"
+
+#~ msgctxt "theme-options"
+#~ msgid "Opacity"
+#~ msgstr "Deckkraft"
+
+#~ msgctxt "theme-options"
+#~ msgid "None"
+#~ msgstr "Keine"
+
+#~ msgctxt "theme-options"
+#~ msgid "Add background image"
+#~ msgstr "Hintergrundbild hinzufügen"
+
+#~ msgctxt "theme-options"
+#~ msgid "Slide-out mode"
+#~ msgstr "Slide-out Modus"
+
+#~ msgctxt "theme-options"
+#~ msgid "Footer font color"
+#~ msgstr "Fusszeile (footer) Farbe"
+
+#~ msgctxt "theme-options"
+#~ msgid "Headers color"
+#~ msgstr "Header Farbe"
+
+#~ msgctxt "theme-options"
+#~ msgid "Content color"
+#~ msgstr "Inhalt Farbe"
+
+#~ msgctxt "theme-options"
+#~ msgid "Footer layout"
+#~ msgstr "Fusszeile (footer) Layout"
+
+#~ msgctxt "theme-options"
+#~ msgid "E.g. 20 pixel padding will give you 40 pixel gap between columns."
+#~ msgstr ""
+#~ "z.B. 20 Pixel Padding entspricht 40 Pixel Abstand zwischen den Spalten."
+
+#~ msgctxt "theme-options"
+#~ msgid "Paddings between footer columns (px)"
+#~ msgstr "Paddings zwischen Fuss (footer) Spalten (px)"
+
+#~ msgctxt "theme-options"
+#~ msgid "E.g. \"1/4+1/4+1/2\""
+#~ msgstr "z.B. \"1/4+1/4+1/2\""
+
+#~ msgctxt "theme-options"
+#~ msgid "Collapse to one column after (px)"
+#~ msgstr "Auf eine Spalte einklappen nach (px)"
+
+#~ msgctxt "theme-options"
+#~ msgid "Won't have any effect if responsiveness is disabled."
+#~ msgstr "Hat keinen Einfluss, wenn Responsive deaktiviert ist."
+
+#~ msgctxt "theme-options"
+#~ msgid "Bottom bar style"
+#~ msgstr "Fusszeile Stil"
+
+#~ msgctxt "theme-options"
+#~ msgid "Bottom bar background &amp; lines"
+#~ msgstr "Fussleiste Hintergrund &amp; Linien"
+
+#~ msgctxt "theme-options"
+#~ msgid "Bottom bar font color"
+#~ msgstr "Fusszeile Schriftfarbe"
+
+#~ msgctxt "theme-options"
+#~ msgid "Text area"
+#~ msgstr "Textbereich"
+
+#~ msgctxt "theme-options"
+#~ msgid "Appearance"
+#~ msgstr "Aussehen"
+
+#~ msgctxt "theme-options"
+#~ msgid "Content width (in \"px\" or \"%\")"
+#~ msgstr "Inhalt Breite (in \"px\" oder \"%\")"
+
+#~ msgctxt "theme-options"
+#~ msgid "Wide"
+#~ msgstr "Breit"
+
+#~ msgctxt "theme-options"
+#~ msgid "Boxed"
+#~ msgstr "Boxed"
+
+#~ msgctxt "theme-options"
+#~ msgid "Box width (in \"px\" or \"%\")"
+#~ msgstr "Box Breite (in \"px\" oder \"%\")"
+
+#~ msgctxt "theme-options"
+#~ msgid "Background under the box"
+#~ msgstr "Hintergrund hinter der Box"
+
+#~ msgctxt "theme-options"
+#~ msgid "Background color"
+#~ msgstr "Hintergrund Farbe"
+
+#~ msgctxt "theme-options"
+#~ msgid "Fixed background "
+#~ msgstr "Fixierter Hintergrund "
+
+#~ msgctxt "theme-options"
+#~ msgid "Fullscreen"
+#~ msgstr "Vollbild"
+
+#~ msgctxt "theme-options"
+#~ msgid "Fixed background"
+#~ msgstr "Fixierter Hintergrund"
+
+#~ msgctxt "theme-options"
+#~ msgid ""
+#~ "\"Fixed\" setting isn't compatible with \"overlapping\" title area style."
+#~ msgstr ""
+#~ "\"Fixed\" Einstellung ist nicht kompatibel mit \"overlapping\" "
+#~ "Titelbereich Stil."
+
+#~ msgctxt "theme-options"
+#~ msgid "Background opacity"
+#~ msgstr "Hintergrund Deckkraft"
+
+#~ msgctxt "theme-options"
+#~ msgid "Font"
+#~ msgstr "Schrift"
+
+#~ msgctxt "theme-options"
+#~ msgid "Color Accent"
+#~ msgstr "Farbakzent"
+
+#~ msgctxt "theme-options"
+#~ msgid "Accent color"
+#~ msgstr "Betonungsfarbe"
+
+#~ msgctxt "theme-options"
+#~ msgid "Border radius"
+#~ msgstr "Rahmen Radius"
+
+#~ msgctxt "theme-options"
+#~ msgid "Icons"
+#~ msgstr "Icons"
+
+#~ msgctxt "theme-options"
+#~ msgid "Bold"
+#~ msgstr "Fett"
+
+#~ msgctxt "theme-options"
+#~ msgid "Beautiful loading"
+#~ msgstr "Schickes Laden"
+
+#~ msgctxt "theme-options"
+#~ msgid "Custom"
+#~ msgstr "Benutzerdefiniert"
+
+#~ msgctxt "theme-options"
+#~ msgid "Custom CSS"
+#~ msgstr "Benutzerdefiniertes CSS"
+
+#~ msgctxt "theme-options"
+#~ msgid "Collapse content to one column after (px)"
+#~ msgstr "Inhalt auf eine Spalte einklappen nach (px)"
+
+#~ msgctxt "theme-options"
+#~ msgid "does not affect VC columns"
+#~ msgstr "beeinflusst VC columns nicht"
+
+#~ msgctxt "theme-options"
+#~ msgid "Smooth scroll"
+#~ msgstr "Smooth scroll"
+
+#~ msgctxt "theme-options"
+#~ msgid "Enable \"scroll-behaviour: smooth\" for next gen browsers"
+#~ msgstr ""
+#~ "Ermögliche \"scroll-behaviour: smooth\" für Browser der nächsten "
+#~ "Generation"
+
+#~ msgctxt "theme-options"
+#~ msgid "No"
+#~ msgstr "Nein"
+
+#~ msgctxt "theme-options"
+#~ msgid "On only on pages with parallax"
+#~ msgstr "Nur auf einer Seite mit Parallax"
+
+#~ msgctxt "theme-options"
+#~ msgid "Slugs"
+#~ msgstr "Slugs"
+
+#~ msgctxt "theme-options"
+#~ msgid "Contact form sends emails to:"
+#~ msgstr "Kontaktformular sendet E-mails zu:"
+
+#~ msgctxt "theme-options"
+#~ msgid "Tracking code (e.g. Google analytics) or arbitrary JavaScript"
+#~ msgstr "Tracking Code (z.B. Google Analytics) oder beliebiges JavaScript"
+
+#~ msgctxt "theme-options"
+#~ msgid "Choose layout"
+#~ msgstr "Wähle Layout"
+
+#~ msgctxt "theme-options"
+#~ msgid "Inactive elements"
+#~ msgstr "Inaktive Elemente"
+
+#~ msgctxt "theme-options"
+#~ msgid "Header position"
+#~ msgstr "Header Position"
+
+#~ msgctxt "theme-options"
+#~ msgid "Fade"
+#~ msgstr "Verblassen"
+
+#~ msgctxt "theme-options"
+#~ msgid "Top bar font size"
+#~ msgstr "Kopfzeile Schriftgrösse"
+
+#~ msgctxt "theme-options"
+#~ msgid "Top bar font color"
+#~ msgstr "Kopfzeile Schriftfarbe"
+
+#~ msgctxt "theme-options"
+#~ msgid "Background (line) color"
+#~ msgstr "Hintergrund (Linien) Farbe"
+
+#~ msgctxt "theme-options"
+#~ msgid "Background (line) opacity"
+#~ msgstr "Hintergrund (Linien) Deckkraft"
+
+#~ msgctxt "theme-options"
+#~ msgid "Hover font color"
+#~ msgstr "Hover Font Farbe"
+
+#~ msgctxt "theme-options"
+#~ msgid "Menu icon size"
+#~ msgstr "Menu Icon Grösse"
+
+#~ msgctxt "theme-options"
+#~ msgid "Dividers"
+#~ msgstr "Dividierer"
+
+#~ msgctxt "theme-options"
+#~ msgid "Left to right"
+#~ msgstr "Links nach rechts"
+
+#~ msgctxt "theme-options"
+#~ msgid "Upwards"
+#~ msgstr "Rauf"
+
+#~ msgctxt "theme-options"
+#~ msgid "Downwards"
+#~ msgstr "Runter"
+
+#~ msgctxt "theme-options"
+#~ msgid "Make parent menu items clickable"
+#~ msgstr "Mache übergeordnetes Menu klickbar"
+
+#~ msgctxt "theme-options"
+#~ msgid "Sideways"
+#~ msgstr "Seitwärts"
+
+#~ msgctxt "theme-options"
+#~ msgid "Search"
+#~ msgstr "Suche"
+
+#~ msgctxt "theme-options"
+#~ msgid "Phone"
+#~ msgstr "Telefon"
+
+#~ msgctxt "theme-options"
+#~ msgid "Email"
+#~ msgstr "Email"
+
+#~ msgctxt "theme-options"
+#~ msgid "Login"
+#~ msgstr "Login"
+
+#~ msgctxt "theme-options"
+#~ msgid "Link"
+#~ msgstr "Link"
+
+#~ msgctxt "theme-options"
+#~ msgid "Custom menu"
+#~ msgstr "Benutzerdefiniertes Menu"
+
+#~ msgctxt "theme-options"
+#~ msgid "Icons color"
+#~ msgstr "Icons Farbe"
+
+#~ msgctxt "theme-options"
+#~ msgid "Icons background color"
+#~ msgstr "Icons Hintergrund Farbe"
+
+#~ msgctxt "theme-options"
+#~ msgid "Icons hover"
+#~ msgstr "Icons Hover"
+
+#~ msgctxt "theme-options"
+#~ msgid "Icons hover background color"
+#~ msgstr "Icons Hover Hintergrund Farbe"
+
+#~ msgctxt "theme-options"
+#~ msgid "Url"
+#~ msgstr "Url"
+
+#~ msgctxt "theme-options"
+#~ msgid "Mobile header"
+#~ msgstr "Mobil Header"
+
+#~ msgctxt "theme-options"
+#~ msgid "Images Styling &amp; Hovers"
+#~ msgstr "Bilder Styling &amp; Hovers"
+
+#~ msgctxt "theme-options"
+#~ msgid "Styling"
+#~ msgstr "Styling"
+
+#~ msgctxt "theme-options"
+#~ msgid "Image &amp; hover decoration"
+#~ msgstr "Bild &amp; Hover Dekoration"
+
+#~ msgctxt "theme-options"
+#~ msgid "Grayscale"
+#~ msgstr "Graustufen"
+
+#~ msgctxt "theme-options"
+#~ msgid "Grayscale with color hovers"
+#~ msgstr "Graustufen mit Farb Hovers"
+
+#~ msgctxt "theme-options"
+#~ msgid "Blur"
+#~ msgstr "Blur"
+
+#~ msgctxt "theme-options"
+#~ msgid "Scale"
+#~ msgstr "Skalieren"
+
+#~ msgctxt "theme-options"
+#~ msgid "Hovers background color"
+#~ msgstr "Hovers Hintergrund Farbe"
+
+#~ msgctxt "theme-options"
+#~ msgid "Share Buttons"
+#~ msgstr "Teilen Schaltflächen"
+
+#~ msgctxt "theme-options"
+#~ msgid "Always visible"
+#~ msgstr "vImmer sichtbar"
+
+#~ msgctxt "theme options"
+#~ msgid "Share this post"
+#~ msgstr "Teilen Sie diesen Post"
+
+#~ msgctxt "theme options"
+#~ msgid "Share this image"
+#~ msgstr "Teilen Sie dieses Bild"
+
+#~ msgctxt "theme options"
+#~ msgid "Share this page"
+#~ msgstr "Teilen Sie diese Seite"
+
+#~ msgctxt "theme options"
+#~ msgid "Button title"
+#~ msgstr "Schaltfläche Titel"
+
+#~ msgctxt "theme-options"
+#~ msgid "Page titles"
+#~ msgstr "Seiten Titel"
+
+#~ msgctxt "theme-options"
+#~ msgid "Title area layout"
+#~ msgstr "Titel Bereich Layout"
+
+#~ msgctxt "theme-options"
+#~ msgid "Title area height (px)"
+#~ msgstr "Titel Bereich Grösse (px)"
+
+#~ msgctxt "theme-options"
+#~ msgid "Page title"
+#~ msgstr "Seiten Titel"
+
+#~ msgctxt "theme-options"
+#~ msgid "Title size"
+#~ msgstr "Titel Grösse"
+
+#~ msgctxt "theme-options"
+#~ msgid "Title color"
+#~ msgstr "Titel Farbe"
+
+#~ msgctxt "theme-options"
+#~ msgid "Breadcrumbs"
+#~ msgstr "Breadcrumbs (Brotkrümel):"
+
+#~ msgctxt "theme-options"
+#~ msgid "Breadcrumbs color"
+#~ msgstr "Breadcrumbs Textfarbe:"
+
+#~ msgctxt "theme-options"
+#~ msgid "Breadcrumbs background color"
+#~ msgstr "Breadcrumbs Hintergrundfarbe:"
+
+#~ msgctxt "theme-options"
+#~ msgid "Title area style"
+#~ msgstr "Titel Bereich Stil"
+
+#~ msgctxt "backend metabox"
+#~ msgid "Transparent background color"
+#~ msgstr "Transparente Hintergrundfarbe:"
+
+#~ msgctxt "backend metabox"
+#~ msgid "Transparent background opacity"
+#~ msgstr "Transparente Hintergrunddeckkraft:"
+
+#~ msgctxt "theme-options"
+#~ msgid "Fixed "
+#~ msgstr "Starr "
+
+#~ msgctxt "theme-options"
+#~ msgid "Sidebar width (%)"
+#~ msgstr "Seitenleiste Breite (%)"
+
+#~ msgctxt "theme-options"
+#~ msgid "Vertical distance between widgets (px)"
+#~ msgstr "Vertikale Distanz zwischen Widgets (px)"
+
+#~ msgctxt "theme-options"
+#~ msgid "Vertical divider"
+#~ msgstr "Vertikaler Teiler"
+
+#~ msgctxt "theme-options"
+#~ msgid "Dividers between widgets"
+#~ msgstr "Teiler zwischen Widgets"
+
+#~ msgctxt "theme-options"
+#~ msgid "Stripes"
+#~ msgstr "Streifen (stripes)"
+
+#~ msgctxt "theme-options"
+#~ msgid "Default Sidebar"
+#~ msgstr "Standard Seitenleiste"
+
+#~ msgctxt "theme-options"
+#~ msgid "Default Footer"
+#~ msgstr "Standard Fusszeile (Footer)"
+
+#~ msgctxt "backend options"
+#~ msgid "no-repeat"
+#~ msgstr "nicht-wiederholen"
+
+#~ msgctxt "backend options"
+#~ msgid "green"
+#~ msgstr "grün"
+
+#~ msgctxt "backend options"
+#~ msgid "orange"
+#~ msgstr "orange"
+
+#~ msgctxt "backend options"
+#~ msgid "purple"
+#~ msgstr "violet"
+
+#~ msgctxt "backend options"
+#~ msgid "yellow"
+#~ msgstr "gelb"
+
+#~ msgctxt "backend options"
+#~ msgid "pink"
+#~ msgstr "rosa"
+
+#~ msgctxt "backend options"
+#~ msgid "white"
+#~ msgstr "weiss"
+
+#~ msgctxt "backend options"
+#~ msgid "on every page"
+#~ msgstr "auf jeder Seite"
+
+#~ msgctxt "backend options"
+#~ msgid "front page only"
+#~ msgstr "nur auf Frontseite"
+
+#~ msgctxt "backend options"
+#~ msgid "everywhere except front page"
+#~ msgstr "überall ausser auf Frontseite"
+
+#~ msgctxt "backend options"
+#~ msgid "nowhere"
+#~ msgstr "nirgends"
+
+#~ msgctxt "backend options"
+#~ msgid "everywhere"
+#~ msgstr "überall"
+
+#~ msgctxt "backend options"
+#~ msgid "only on homepage templates"
+#~ msgstr "nur auf Homepage Templates"
+
+#~ msgctxt "backend options"
+#~ msgid "everywhere except homepage templates"
+#~ msgstr "überall ausser auf Homepage Templates"
+
+#~ msgctxt "backend options"
+#~ msgid "fade"
+#~ msgstr "ausblenden (fade)"
+
+#~ msgctxt "theme-options"
+#~ msgid "Proportional images"
+#~ msgstr "Proportionale Bilder"
+
+#~ msgctxt "theme-options"
+#~ msgid "Fixed width"
+#~ msgstr "Fixe Breite"
+
+#~ msgctxt "theme-options"
+#~ msgid "Solid background"
+#~ msgstr "Solider Hintergrund"
+
+#~ msgctxt "theme-options"
+#~ msgid "Available areas:"
+#~ msgstr "Verfügbare Umgebungen:"
+
+#~ msgctxt "theme-options"
+#~ msgid "Top bar (left)"
+#~ msgstr "Kopf Zeile (links)"
+
+#~ msgctxt "theme-options"
+#~ msgid "Top bar (right)"
+#~ msgstr "Kopf Zeile (rechts)"
+
+#~ msgctxt "theme-options"
+#~ msgid "Near logo"
+#~ msgstr "Nahe beim Logo"
+
+#~ msgctxt "theme-options"
+#~ msgid "Near navigation area"
+#~ msgstr "Nahe bei der Navigations Umgebung"
+
+#~ msgctxt "theme-options"
+#~ msgid "Cart"
+#~ msgstr "Einkaufswagen"
+
+#~ msgctxt "theme-options"
+#~ msgid "Mail"
+#~ msgstr "Mail"
+
+#~ msgctxt "theme-options"
+#~ msgid "large"
+#~ msgstr "gross"
+
+#~ msgctxt "theme-options"
+#~ msgid "medium"
+#~ msgstr "mittel"
+
+#~ msgctxt "theme-options"
+#~ msgid "small"
+#~ msgstr "klein"
+
+#~ msgctxt "backend"
+#~ msgid "Stylesheet saved."
+#~ msgstr "Stylesheet gespeichert."
+
+#~ msgctxt "mail"
+#~ msgid "E-mail: "
+#~ msgstr "E-mail "
+
+#~ msgctxt "mail"
+#~ msgid "Telephone: "
+#~ msgstr "Telefon:"
+
+#~ msgctxt "mail"
+#~ msgid "Country: "
+#~ msgstr "Land:"
+
+#~ msgctxt "mail"
+#~ msgid "City: "
+#~ msgstr "Stadt"
+
+#~ msgctxt "mail"
+#~ msgid "Company: "
+#~ msgstr "Firma"
+
+#~ msgctxt "mail"
+#~ msgid "Website: "
+#~ msgstr "Webseite:"
+
+#~ msgctxt "mail"
+#~ msgid "Message: "
+#~ msgstr "Mitteilung:"
+
+#~ msgctxt "feedback msg"
+#~ msgid "Nonce do not match"
+#~ msgstr "Nonce stimmt nicht überein"
+
+#~ msgctxt "feedback msg"
+#~ msgid "Captcha filled incorrectly"
+#~ msgstr "Captcha nicht korrekt ausgefüllt"
+
+#~ msgctxt "feedback msg"
+#~ msgid "Feedback has been sent to the administrator"
+#~ msgstr "Feedback wurde dem Administrator geschickt"
+
+#~ msgctxt "feedback msg"
+#~ msgid "The message has not been sent"
+#~ msgstr "Die Nachricht wurde nicht gesendet"
+
+#~ msgctxt "feedback"
+#~ msgid "Sorry, we suspect that you are bot"
+#~ msgstr "Sorry, wir glauben Sie sind ein Bot"
+
+#~ msgctxt "backend metabox"
+#~ msgid "Category"
+#~ msgstr "Kategorie"
+
+#~ msgctxt "pagination defaults"
+#~ msgid "Page %CURRENT_PAGE% of %TOTAL_PAGES%"
+#~ msgstr "Seite %CURRENT_PAGE% von %TOTAL_PAGES%"
+
+#~ msgctxt "theme-options"
+#~ msgid "Update"
+#~ msgstr "Aktualisieren"
+
+#~ msgid "Click OK to restore default settings on this page!"
+#~ msgstr "Klicken Sie OK um die Standardeinstellungen dieser Seite zu laden!"
+
+#~ msgid "Default options restored."
+#~ msgstr "Auf Standardeinstellungen zurückgesetzt."
+
+#~ msgctxt "backend"
+#~ msgid "Options saved."
+#~ msgstr "Option gespeichert."
+
+#~ msgctxt "backend fields"
+#~ msgid "Delete"
+#~ msgstr "Löschen"
+
+#~ msgctxt "backend fields button"
+#~ msgid "Add"
+#~ msgstr "Hinzufügen"
+
+#~ msgctxt "theme-options"
+#~ msgid "no title"
+#~ msgstr "kein Titel"
+
+#~ msgid "&mdash; Select &mdash;"
+#~ msgstr "&mdash; Auswählen &mdash;"
+
+#~ msgid "No file chosen"
+#~ msgstr "Keine Datei ausgewählt."
+
+#~ msgid "Upgrade your version of WordPress for full media support."
+#~ msgstr ""
+#~ "Bitte upgraden Sie Ihre Version von WordPress um vollen Mediasupport zu "
+#~ "erhalten."
+
+#~ msgid "View File"
+#~ msgstr "Zeige Datei"
+
+#~ msgctxt "theme-options"
+#~ msgid "repeat x"
+#~ msgstr "wiederhole"
+
+#~ msgctxt "theme-options"
+#~ msgid "top"
+#~ msgstr "oben"
+
+#~ msgctxt "theme-options"
+#~ msgid "bottom"
+#~ msgstr "fuss"
+
+#~ msgctxt "theme-options"
+#~ msgid "center"
+#~ msgstr "zentriert"
+
+#~ msgctxt "theme-options"
+#~ msgid "right"
+#~ msgstr "rechts"
+
+#~ msgctxt "theme-options"
+#~ msgid "Top Left"
+#~ msgstr "oben links"
+
+#~ msgctxt "theme-options"
+#~ msgid "Middle Center"
+#~ msgstr "mitte zentriert"
+
+#~ msgctxt "theme-options"
+#~ msgid "Bottom Left"
+#~ msgstr "unten links"
+
+#~ msgctxt "theme-options"
+#~ msgid "Bottom Center"
+#~ msgstr "unten mitte"
+
+#~ msgctxt "theme-options"
+#~ msgid "Bottom Right"
+#~ msgstr "unten rechts"
+
+#~ msgctxt "theme-options"
+#~ msgid "Scroll Normally"
+#~ msgstr "Scroll Normal"
+
+#~ msgctxt "theme-options"
+#~ msgid "Fixed in Place"
+#~ msgstr "An Ort fixiert"
+
+#~ msgctxt "theme-options"
+#~ msgid "Bold Italic"
+#~ msgstr "Fett Kursiv"
+
+#~ msgid "Link"
+#~ msgstr "Link"
+
+#~ msgid "(Edit)"
+#~ msgstr "(Bearbeiten)"
+
+#~ msgid "%1$s at %2$s"
+#~ msgstr "%1$s um %2$s Uhr"
+
+#~ msgid "Your comment is awaiting moderation."
+#~ msgstr "Ihr Kommentar muss noch geprüft werden."
+
+#~ msgid "1 Comment"
+#~ msgstr "1 Kommentar"
+
+#~ msgid "Share this"
+#~ msgstr "Teilen Sie diese"
+
+#~ msgid "About the author"
+#~ msgstr "Über den Autor"
+
+#~ msgid "There is no categories"
+#~ msgstr "Es bestehen keine Kategorien"
+
+#~ msgid "Mail"
+#~ msgstr "Mail"
+
+#~ msgctxt "theme-options"
+#~ msgid "Small buttons"
+#~ msgstr "Kleine Schaltflächen"
+
+#~ msgctxt "theme-options"
+#~ msgid "Medium buttons"
+#~ msgstr "Mittlere Schaltflächen"
+
+#~ msgctxt "theme-options"
+#~ msgid "Big buttons"
+#~ msgstr "Grosse Schaltflächen"
+
+#~ msgctxt "theme-options"
+#~ msgid "Social buttons in blog posts"
+#~ msgstr "Social Schaltflächen in Blogeinträgen"
+
+#~ msgctxt "theme-options"
+#~ msgid "Social buttons in portfolio projects"
+#~ msgstr "Social Schaltflächen in Portfolio Projekten"
+
+#~ msgctxt "theme-options"
+#~ msgid "Social buttons in media (photos and videos)"
+#~ msgstr "Social Schaltflächen in Media (Photos und Videos)"
+
+#~ msgctxt "theme-options"
+#~ msgid "Social buttons on page"
+#~ msgstr "Social Schaltflächen auf Seite"
+
+#~ msgctxt "theme-options"
+#~ msgid "Stripe 1"
+#~ msgstr "Steifen 1"
+
+#~ msgctxt "theme-options"
+#~ msgid "Stripe 2"
+#~ msgstr "Streifen 2"
+
+#~ msgctxt "theme-options"
+#~ msgid "Stripe 3"
+#~ msgstr "Streifen 3"
+
+#~ msgctxt "team link"
+#~ msgid "Personal blog / website"
+#~ msgstr "Persönlicher Blog / Webseite"
+
+#~ msgctxt "team link"
+#~ msgid "E-mail"
+#~ msgstr "E-mail"
+
+#~ msgid "Loading..."
+#~ msgstr "Lade..."
+
+#~ msgid "Load more"
+#~ msgstr "Mehr laden"
+
+#~ msgctxt "admin icons bar"
+#~ msgid "Icons Bar"
+#~ msgstr "Icons Balken"
+
+#~ msgctxt "admin icons bar"
+#~ msgid "Icons"
+#~ msgstr "Icons"
+
+#~ msgctxt "theme-options"
+#~ msgid "Gallery post"
+#~ msgstr "Gallery Post"
+
+#~ msgid "Show album categories"
+#~ msgstr "Zeige Albumkategorien:"
+
+#~ msgid "Show album author"
+#~ msgstr "Zeige Album Autor"
+
+#~ msgid "Show albums excerpts"
+#~ msgstr "Zeige Alben Auszüge\t"
+
+#~ msgid "Show name / date ordering"
+#~ msgstr "Zeige Name / Datum Sortierung:"
+
+#~ msgid "Show image miniatures"
+#~ msgstr "Zeige Bild Miniaturen"
+
+#~ msgid "Show number of images & videos"
+#~ msgstr "Zeige Anzahl von Bildern & Videos"
+
+#~ msgid "Show titles"
+#~ msgstr "Zeige Titel"
+
+#~ msgid "Show items captions"
+#~ msgstr "Beschriftung"
+
+#~ msgid "Loop"
+#~ msgstr "Wiederholen"
+
+#~ msgctxt "theme-options"
+#~ msgid "Date archive template"
+#~ msgstr "Datum"
+
+#~ msgctxt "options import"
+#~ msgid "Yes, do it!"
+#~ msgstr "Ja, mach das!"
+
+#~ msgctxt "theme-options"
+#~ msgid "WooCommerce"
+#~ msgstr "WooCommerce"
+
+#~ msgctxt "theme-options"
+#~ msgid "Item settings"
+#~ msgstr "Artikel Einstellungen"
+
+#~ msgctxt "theme-options"
+#~ msgid "Show product information"
+#~ msgstr "Zeige Produkt Information"
+
+#~ msgctxt "theme-options"
+#~ msgid "Under image"
+#~ msgstr "Unter Bild"
+
+#~ msgctxt "theme-options"
+#~ msgid "On image hover"
+#~ msgstr "Bei Bild hover"
+
+#~ msgctxt "theme-options"
+#~ msgid "Product titles"
+#~ msgstr "Produkt Titel"
+
+#~ msgctxt "theme-options"
+#~ msgid "Product price"
+#~ msgstr "Produkt Preis"
+
+#~ msgctxt "theme-options"
+#~ msgid "Product rating"
+#~ msgstr "Produkt Bewertung"
+
+#~ msgctxt "theme-options"
+#~ msgid "Cart icon"
+#~ msgstr "Einkaufswagen Icon"
+
+#~ msgctxt "theme-options"
+#~ msgid "List settings"
+#~ msgstr "Listen Einstellungen"
+
+#~ msgctxt "theme-options"
+#~ msgid "Masonry"
+#~ msgstr "Mauerwerk (Masonry)"
+
+#~ msgctxt "theme-options"
+#~ msgid "(e.g. 5 pixel padding will give you 10 pixel gaps between images)"
+#~ msgstr "(e.g. 5 pixel padding will give you 10 pixel gaps between images)"
+
+#~ msgctxt "theme-options"
+#~ msgid "Column minimum width (px)"
+#~ msgstr "Minimale Spaltenbreite (px):"
+
+#~ msgctxt "theme-options"
+#~ msgid "Desired columns number"
+#~ msgstr "Gewünschte Spalten Nummer"
+
+#~ msgctxt "theme-options"
+#~ msgid "(used for defult shop page, archives, search results etc.)"
+#~ msgstr "(gebraucht für Standard Shop Seite, Archive, Suchresultate etc.)"
+
+#~ msgctxt "theme-options"
+#~ msgid "Loading effect"
+#~ msgstr "Lade Effekt"
+
+#~ msgctxt "theme-options"
+#~ msgid "Product"
+#~ msgstr "Product"
+
+#~ msgctxt "theme-options"
+#~ msgid "WooCommerce shopping cart"
+#~ msgstr "WooCommerce Einkaufswagen"
+
+#~ msgctxt "theme-options"
+#~ msgid "Products counter background"
+#~ msgstr "Produkt Zähler Hintergrund"
+
+#~ msgid "Product details"
+#~ msgstr "Product details"
+
+#~ msgid "Remove this item"
+#~ msgstr "Entfernen"
+
+#~ msgid "No products in the cart."
+#~ msgstr "Keine Produkte im Einkaufswagen."
+
+#~ msgid "View Cart"
+#~ msgstr "Zeige Einkaufswagen"
+
+#~ msgid "Checkout"
+#~ msgstr "Kasse"
+
+#~ msgctxt "theme-options"
+#~ msgid "WPML language"
+#~ msgstr "WPML Sprache"
+
+#~ msgctxt "edit menu walker"
+#~ msgid "iconfont"
+#~ msgstr "Icon Schrift"
+
+#~ msgctxt "edit menu walker"
+#~ msgid "Number of columns: "
+#~ msgstr "Anzahl Spalten:"
+
+#~ msgctxt "edit menu walker"
+#~ msgid "Hide title in mega menu"
+#~ msgstr "Titel in Mega Menu ausblenden"
+
+#~ msgctxt "edit menu walker"
+#~ msgid "This item should start a new row"
+#~ msgstr "Dieser Eintrag sollte eine neue Zeile starten"
+
+#~ msgctxt "edit menu walker"
+#~ msgid "This item should start a new column"
+#~ msgstr "Dieser Eintrag sollte eine neue Spalte starten"
+
+#~ msgctxt "theme-options"
+#~ msgid "Main menu"
+#~ msgstr "Haupt Menu"
+
+#~ msgctxt "theme-options"
+#~ msgid "Portfolio post"
+#~ msgstr "Portfolio post"
+
+#~ msgid "Show projects excerpts"
+#~ msgstr "Show projects excerpts"
+
+#~ msgid "Show project categories"
+#~ msgstr "Zeige Projekt Kategorie"
+
+#~ msgid "Show project date"
+#~ msgstr "Zeige Projekt Datum"
+
+#~ msgid "Show project author"
+#~ msgstr "Zeige Projekt Autor"
+
+#~ msgid "Show details icon"
+#~ msgstr "Zeige Details"
+
+#~ msgid "Show zoom icon"
+#~ msgstr "Zeige zoom Icon"
+
+#~ msgid "Show excerpts"
+#~ msgstr "Zeige Anrisse"
+
+#~ msgid "Install Required Plugins"
+#~ msgstr "Bitte installieren Sie das nötige Plugin"
+
+#~ msgid "Install Plugins"
+#~ msgstr "Plugins installieren"
+
+#~ msgid "Installing Plugin: %s"
+#~ msgstr "Installiere Plugin: %s"
+
+#~ msgid "Something went wrong with the plugin API."
+#~ msgstr "Etwas ging mit der Plugin API schief."
+
+#~ msgid ""
+#~ "The following plugin needs to be updated to its latest version to ensure "
+#~ "maximum compatibility with this theme: %1$s."
+#~ msgid_plural ""
+#~ "The following plugins need to be updated to their latest version to "
+#~ "ensure maximum compatibility with this theme: %1$s."
+#~ msgstr[0] ""
+#~ "Die folgenden Plugins müssen auf die neuste Version aktualisiert werden, "
+#~ "um die maximale Kompatibilität mit diesem Thema zu gewährleisten: %1$s."
+#~ msgstr[1] ""
+#~ "Die folgenden Plugins müssen auf die neuste Version aktualisiert werden, "
+#~ "um die maximale Kompatibilität mit diesem Thema zu gewährleisten: %1$s."
+
+#~ msgid "The following required plugin is currently inactive: %1$s."
+#~ msgid_plural "The following required plugins are currently inactive: %1$s."
+#~ msgstr[0] "Folgendes benötigtes Plugin ist gerade inaktiv: %1$s."
+#~ msgstr[1] "Folgendes benötigtes Plugin ist gerade inaktiv: %1$s."
+
+#~ msgid "The following recommended plugin is currently inactive: %1$s."
+#~ msgid_plural ""
+#~ "The following recommended plugins are currently inactive: %1$s."
+#~ msgstr[0] "Folgendes empfohlenes Plugin ist gerade inaktiv: %1$s."
+#~ msgstr[1] "Folgendes empfohlenes Plugin ist gerade inaktiv: %1$s."
+
+#~ msgid "Begin installing plugin"
+#~ msgid_plural "Begin installing plugins"
+#~ msgstr[0] "Starte Plugin Installation"
+#~ msgstr[1] "Starte Plugin Installation"
+
+#~ msgid "Return to Required Plugins Installer"
+#~ msgstr "Kehren Sie zum benötigten Plugins Installer zurück"
+
+#~ msgid "Plugin activated successfully."
+#~ msgstr "Plugin wurde erfolgreich aktiviert."
+
+#~ msgid "Activate installed plugin"
+#~ msgid_plural "Activate installed plugins"
+#~ msgstr[0] "Aktiviere installiertes Plugin"
+#~ msgstr[1] "Aktiviere installiertes Plugin"
+
+#~ msgid "All plugins installed and activated successfully. %s"
+#~ msgstr "Alle Plugins installiert und erfolgreich aktiviert. %s"
+
+#~ msgctxt "theme-options"
+#~ msgid "Theme Update"
+#~ msgstr "Thema Update"
+
+#~ msgctxt "theme-options"
+#~ msgid "User credentials"
+#~ msgstr "Nutzerreferenzen"
+
+#~ msgctxt "theme-options"
+#~ msgid "Themeforest user name"
+#~ msgstr "Themeforest Benutzername"
+
+#~ msgctxt "theme-options"
+#~ msgid "Secret API key"
+#~ msgstr "Geheimer API Schlüssel"
+
+#~ msgctxt "backend"
+#~ msgid "Error:<br />"
+#~ msgstr "Fehler:<br />"
+
+#~ msgctxt "backend"
+#~ msgid ""
+#~ "New version (<a href=\"%s\" target=\"_blank\">see changelog</a>) of theme "
+#~ "is available!"
+#~ msgstr ""
+#~ "Neue Version (<a href=\"%s\" target=\"_blank\">Änderungslog</a>) des "
+#~ "Themas erhältlich!"
+
+#~ msgctxt "backend"
+#~ msgid "Please, click here to update."
+#~ msgstr "Zum aktualisieren bitte hier klicken."
+
+#~ msgctxt "backend"
+#~ msgid "You have the most recent version of the theme."
+#~ msgstr "Sie haben die aktuellste Version dieses Themas!"
+
+#~ msgctxt "backend"
+#~ msgid "Theme was successfully updated to newest version!"
+#~ msgstr "Thema wurde erfolgreich auf die neuste Version aktualisiert!"
+
+#~ msgctxt "backend"
+#~ msgid "Stylesheets regenerated."
+#~ msgstr "Stylesheets wiederhergestellt."
+
+#~ msgctxt "vc inline dummy"
+#~ msgid "Blog Masonry & Grid"
+#~ msgstr "Mauerwerk (Masonry)"
+
+#~ msgctxt "vc inline dummy"
+#~ msgid "Blog posts scroller"
+#~ msgstr "Blog Posts scroller"
+
+#~ msgctxt "shortcode simple login"
+#~ msgid "Username"
+#~ msgstr "Benutzername"
+
+#~ msgctxt "shortcode simple login"
+#~ msgid "Password"
+#~ msgstr "Passwort"
+
+#~ msgctxt "shortcode simple login"
+#~ msgid "Remember Me"
+#~ msgstr "Eintrag merken"
+
+#~ msgctxt "shortcode simple login"
+#~ msgid "Log In"
+#~ msgstr "Einloggen"
+
+#~ msgctxt "shortcode simple login"
+#~ msgid ""
+#~ "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out "
+#~ "of this account\">Log out?</a>"
+#~ msgstr ""
+#~ "Sie sind angemeldet als <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title="
+#~ "\"Diesen Account abmelden\">Ausloggen?</a>"
+
+#~ msgid "Minimum height"
+#~ msgstr "Minimum Höhe"
+
+#~ msgid "You can use pixels (px) or percents (%)."
+#~ msgstr "Sie können Pixels (px) oder Prozent (%) verwenden."
+
+#~ msgid "Full-width content"
+#~ msgstr "Inhalt auf volle Breite"
+
+#~ msgid "Left padding"
+#~ msgstr "Linkes Padding"
+
+#~ msgid "This setting works only for a row inside of a row."
+#~ msgstr ""
+#~ "Diese Einstellung funktioniert nur für eine Zeile innerhalb einer Zeile."
+
+#~ msgid "Background position"
+#~ msgstr "Hintergrund Position"
+
+#~ msgid "Background repeat"
+#~ msgstr "Hintergrundwiederholung"
+
+#~ msgid "Full-width background"
+#~ msgstr "Seitenbreiter Hintergrund"
+
+#~ msgid "Fixed background"
+#~ msgstr "Fixierter Hintergrund"
+
+#~ msgid "Top padding"
+#~ msgstr "Top padding"
+
+#~ msgid "Enable parallax"
+#~ msgstr "Parallax aktivieren"
+
+#~ msgid "Parallax speed"
+#~ msgstr "Parallax Geschwindigkeit:"
+
+#~ msgid "Video background (mp4)"
+#~ msgstr "Video Hintergrund (mp4)"
+
+#~ msgid "Video background (ogv)"
+#~ msgstr "Video Hintergrund (ogv)"
+
+#~ msgid "Video background (webm)"
+#~ msgstr "Video Hintergrund (webm)"
+
+#~ msgid "Pie chart"
+#~ msgstr "Kuchendiagramm"
+
+#~ msgid "Animated pie chart"
+#~ msgstr "Animiertes Kuchendiagramm"
+
+#~ msgid ""
+#~ "Enter text which will be used as widget title. Leave blank if no title is "
+#~ "needed."
+#~ msgstr ""
+#~ "Geben Sie Text für den Widgettitel ein. Leer lassen, wenn kein Titel "
+#~ "gewünscht wird."
+
+#~ msgid "Pie value"
+#~ msgstr "Kuchenwert"
+
+#~ msgid "Input graph value here. Choose range between 0 and 100."
+#~ msgstr ""
+#~ "Geben Sie den Diagrammwert hier an. Wählen Sie zwischen einem Wert von 0 "
+#~ "bis 100."
+
+#~ msgid "Pie label value"
+#~ msgstr "Wert der Kuchenbeschriftung"
+
+#~ msgid "Input integer value for label. If empty \"Pie value\" will be used."
+#~ msgstr ""
+#~ "Geben Sie einen Integer Wert für die Bezeichnung (label) ein. Falls leer, "
+#~ "wird \"Pie value\" verwendet."
+
+#~ msgid "Units"
+#~ msgstr "Einheiten"
+
+#~ msgid "Bar color"
+#~ msgstr "Balkenfarbe"
+
+#~ msgid "Select pie chart color."
+#~ msgstr "Selektiere Farbe der Kuchengrafik"
+
+#~ msgid "Custom bar color"
+#~ msgstr "Benutzerdefinierte Leistenfarbe"
+
+#~ msgid "Extra class name"
+#~ msgstr "Zusätzlicher Klassenname (class name)"
+
+#~ msgid ""
+#~ "If you wish to style particular content element differently, then use "
+#~ "this field to add a class name and then refer to it in your css file."
+#~ msgstr ""
+#~ "Falls Sie ein spezielles Inhaltselement gestalten möchten, benutzen Sie "
+#~ "bitte dieses Feld um einen Klassennamen (class name) hinzuzufügen und "
+#~ "weisen Sie ihn ihrer CSS Datei zu."
+
+#~ msgid "Fancy Quote"
+#~ msgstr "Schickes Zitat"
+
+#~ msgid ""
+#~ "<p>I am test text for QUOTE. Click edit button to change this text.</p>"
+#~ msgstr ""
+#~ "<p>Ich bin ein Testtext für ZITAT. Klicke die editieren Schaltfläche um "
+#~ "diesen Text zu ändern.</p>"
+
+#~ msgid "Font size"
+#~ msgstr "Schriftgrösse"
+
+#~ msgid "Blockquote style"
+#~ msgstr "Blockquote Stil"
+
+#~ msgid ""
+#~ "<p>I am test text for CALL TO ACTION. Click edit button to change this "
+#~ "text.</p>"
+#~ msgstr ""
+#~ "<p>Ich bin ein Testtext für CALL TO ACTION. Klicke die editieren "
+#~ "Schaltfläche um diesen Text zu ändern.</p>"
+
+#~ msgid "Button alignment"
+#~ msgstr "Schaltflächenausrichtung"
+
+#~ msgid "Teaser"
+#~ msgstr "Aufmacher (Teaser)"
+
+#~ msgid "Choose image"
+#~ msgstr "Bild auswählen"
+
+#~ msgid "Image WIDTH"
+#~ msgstr "Bild BREITE"
+
+#~ msgid "image width in px"
+#~ msgstr "Bildbreite in px"
+
+#~ msgid "Image HEIGHT"
+#~ msgstr "Bild HÖHE"
+
+#~ msgid "image height in px"
+#~ msgstr "Bildhöhe in px"
+
+#~ msgid "Target link"
+#~ msgstr "Ziel Links"
+
+#~ msgid "Open in lighbox"
+#~ msgstr "In Lightbox öffnen"
+
+#~ msgid "If selected, larger image will be opened on click."
+#~ msgstr "Falls markiert, wird das grössere Bild bei Klick geöffnet"
+
+#~ msgid "I am test text for TEASER. Click edit button to change this text."
+#~ msgstr ""
+#~ "Ich bin ein Text für TEASER. Klicken Sie editieren, um diesen Text zu "
+#~ "ändern."
+
+#~ msgid ""
+#~ "<p>I am test text for BANNER. Click edit button to change this text.</p>"
+#~ msgstr ""
+#~ "<p>Ich bin ein Text für BANNER. Klicken Sie die editieren Schaltfläche, "
+#~ "um diesen Text zu ändern.</p>"
+
+#~ msgid "Border color"
+#~ msgstr "Rahmenfarbe"
+
+#~ msgid "Border width"
+#~ msgstr "Rahmenbreite"
+
+#~ msgid "Inner padding"
+#~ msgstr "Padding innen"
+
+#~ msgid "Banner minimal height"
+#~ msgstr "Banner Minimalhöhe"
+
+#~ msgid "Form fields"
+#~ msgstr "Formularfelder"
+
+#~ msgid "Attention! At least one must be selected."
+#~ msgstr "Achtung! Mindestens etwas muss ausgewählt werden."
+
+#~ msgid "Message textarea height"
+#~ msgstr "Höhe Mitteilung Textbereich"
+
+#~ msgid "Submit button caption"
+#~ msgstr "Beschriftung Schaltfläche senden"
+
+#~ msgid "Submit button size"
+#~ msgstr "Beschriftung Schaltfläche Grösse"
+
+#~ msgid "Blog Mini"
+#~ msgstr "Blog Mini"
+
+#~ msgid ""
+#~ "Note: By default, all your posts will be displayed. <br>If you want to "
+#~ "narrow output, select category(s) above. Only selected categories will be "
+#~ "displayed."
+#~ msgstr ""
+#~ "Anmerkung: Standardmässig werden alle Einträge gezeigt. <br> Falls Sie "
+#~ "die Anzeige eingrenzen wollen, selektieren Sie die gewünschte(n) "
+#~ "Kategorie(n) oben. Nur ausgewählte Kategorien werden angezeigt. "
+
+#~ msgid "Images width (in px)"
+#~ msgstr "Bilder Breite (in px)"
+
+#~ msgid "Images height (in px)"
+#~ msgstr "Bilder Grösse (in px)"
+
+#~ msgid "Number of posts to show"
+#~ msgstr "Anzahl anzuzeigender Einträge (Posts)"
+
+#~ msgid "Blog Masonry & Grid"
+#~ msgstr "Mauerwerk (Masonry)"
+
+#~ msgid ""
+#~ "Post paddings (e.g. 5 pixel padding will give you 10 pixel gaps between "
+#~ "posts)"
+#~ msgstr ""
+#~ "Padding der Einträge/Posts (z.B. 5 Pixel Padding ergeben 10 Pixel Abstand "
+#~ "zwischen den Einträgen)"
+
+#~ msgid "Fancy date"
+#~ msgstr "Schickes Datum"
+
+#~ msgid "Image & background style"
+#~ msgstr "Bild & Hintergrund Stile"
+
+#~ msgid "Show \"Read more\" buttons"
+#~ msgstr "Zeige \"mehr lesen\" Buttons"
+
+#~ msgid "Show post categories"
+#~ msgstr "Zeige Post Kategorie"
+
+#~ msgid "Show post date"
+#~ msgstr "Zeige Post Datum"
+
+#~ msgid "Show post author"
+#~ msgstr "Zeige Post Autor"
+
+#~ msgid "Show post comments"
+#~ msgstr "Zeige Post Kommentare"
+
+#~ msgid "Blog Scroller"
+#~ msgstr "Blog Scroller"
+
+#~ msgid "Show excerpt"
+#~ msgstr "Zeige Anriss"
+
+#~ msgid "Fancy Media"
+#~ msgstr "Schicke Medien (Fancy Media)"
+
+#~ msgid "In pixels. Proportional height will be calculated automatically."
+#~ msgstr " In Pixel. Proportionale Höhe wird automatisch kalkuliert."
+
+#~ msgid "Margin-top"
+#~ msgstr "Abstand-oben (margin)"
+
+#~ msgid "Margin-bottom"
+#~ msgstr "Abstand-unten (margin)"
+
+#~ msgid "Margin-left"
+#~ msgstr "Abstand-links (margin)"
+
+#~ msgid "Margin-right"
+#~ msgstr "Abstand-rechts (margin)"
+
+#~ msgid "Button"
+#~ msgstr "Button"
+
+#~ msgid "Caption"
+#~ msgstr "Beschriftung"
+
+#~ msgid "Size"
+#~ msgstr "Grösse"
+
+#~ msgid "f.e. <code>&lt;i class=\"fa fa-coffee\"&gt;&lt;/i&gt;</code>"
+#~ msgstr "f.e. <code>&lt;i class=\"fa fa-coffee\"&gt;&lt;/i&gt;</code>"
+
+#~ msgid "Icon align"
+#~ msgstr "Icon Ausrichtung"
+
+#~ msgid "Fancy List"
+#~ msgstr "Schicke Liste (Fancy List)"
+
+#~ msgid "List style"
+#~ msgstr "Listenstil"
+
+#~ msgid "Dividers"
+#~ msgstr "Dividierer"
+
+#~ msgid "Before / After"
+#~ msgstr "Vorher / Nachher"
+
+#~ msgid "Choose first image"
+#~ msgstr "Wählen Sie das erste Bild"
+
+#~ msgid "Choose second image"
+#~ msgstr "Wählen Sie das zweite Bild"
+
+#~ msgid "Visible part of the \"Before\" image (in %)"
+#~ msgstr "Der sichtbare Teil vom \"Before\" Bild (in %)"
+
+#~ msgid "Empty section. Edit page to add content here."
+#~ msgstr "Leerer Bereich. Editieren Sie die Seite um Inhalt hier einzufügen."
+
+#~ msgid "To view this protected post, enter the password below:"
+#~ msgstr ""
+#~ "Um diesen geschützten Eintrag anzuschauen, geben Sie bitte folgendes "
+#~ "Passwort ein:"
+
+#~ msgid "clear form"
+#~ msgstr "löschen"
+
+#~ msgid "Submit"
+#~ msgstr "Senden"
+
+#~ msgctxt "widget"
+#~ msgid "Accordion"
+#~ msgstr "Akkordeon"
+
+#~ msgctxt "widget"
+#~ msgid "Add"
+#~ msgstr "Hinzufügen"
+
+#~ msgctxt "widget"
+#~ msgid "Blog categories"
+#~ msgstr "Blog Kategorien"
+
+#~ msgctxt "widget categories"
+#~ msgid "View all posts filed under %s"
+#~ msgstr "Betrachte alle Einträge abgelegt unter %s"
+
+#~ msgctxt "widget"
+#~ msgid "Blog posts"
+#~ msgstr "Blog Einträge"
+
+#~ msgctxt "widget"
+#~ msgid "Show featured images"
+#~ msgstr "Zeige vorgestellte Bilder"
+
+#~ msgctxt "widget"
+#~ msgid "Featured images proportions:"
+#~ msgstr "Gezeigte Image Proportionen:"
+
+#~ msgctxt "widget"
+#~ msgid "Contact form"
+#~ msgstr "Kontaktformular"
+
+#~ msgctxt "widget"
+#~ msgid "off"
+#~ msgstr "aus"
+
+#~ msgctxt "widget"
+#~ msgid "required"
+#~ msgstr "erforderlich"
+
+#~ msgctxt "widget"
+#~ msgid "Message field height (in lines)"
+#~ msgstr "Mitteilung"
+
+#~ msgctxt "widget"
+#~ msgid "Contact info"
+#~ msgstr "Kontaktinformationen"
+
+#~ msgctxt "widget"
+#~ msgid "Custom menu style 1"
+#~ msgstr "Benutzerdefinierter Menustil 1"
+
+#~ msgctxt "widget"
+#~ msgid "How many items?"
+#~ msgstr "Wie viele Gegenstände?"
+
+#~ msgctxt "widget"
+#~ msgid "Filter by tags (comma seperated):"
+#~ msgstr "Filtern nach Tags (Komma separiert);"
+
+#~ msgctxt "widget"
+#~ msgid "Random pick"
+#~ msgstr "Zufällige Auswahl"
+
+#~ msgctxt "widget"
+#~ msgid "Progress bars"
+#~ msgstr "Fortschrittsbalken"
